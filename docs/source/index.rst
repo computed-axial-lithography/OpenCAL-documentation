@@ -66,7 +66,3 @@ is conducted.
    :maxdepth: 2
    :hidden:
    :caption: Miscellaneous
-
-   .. usage
-   api
-

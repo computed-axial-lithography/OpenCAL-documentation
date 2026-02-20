@@ -6,9 +6,9 @@
 import sys
 from pathlib import Path
 
-_src_path = str(Path(__file__).resolve().parents[2])
-print(_src_path)
-sys.path.insert(0, _src_path)
+# _src_path = str(Path(__file__).resolve().parents[2])
+# print(_src_path)
+# sys.path.insert(0, _src_path)
 
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
@@ -32,8 +32,6 @@ extensions = [
 
 templates_path = ["_templates"]
 exclude_patterns = []
-
-autodoc_mock_imports = ["fcntl", "pi5neo", "RPLCD"]
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
