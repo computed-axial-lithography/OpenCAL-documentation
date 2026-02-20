@@ -1,0 +1,14 @@
+.. currentmodule:: opencal
+
+API
+===
+
+needs work
+----------
+.. autosummary::
+    :toctree: generated/
+    :recursive:
+
+    gui
+    hardware
+    utils
