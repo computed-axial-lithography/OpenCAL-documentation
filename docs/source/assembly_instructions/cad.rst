@@ -5,7 +5,11 @@ Below are images of the CAD separated by subsections. Downloads for the CAD are 
 
 Frame
 ----------
-Insert Images Here.
+.. image:: ../_static/Frame/Frame Assembly.png
+   :width: 400px
+
+.. image:: ../_static/Frame/Frame.png
+   :width: 400px
 
 Optics
 ----------
