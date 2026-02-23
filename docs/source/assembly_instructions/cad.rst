@@ -5,10 +5,10 @@ Below are images of the CAD separated by subsections. Downloads for the CAD are 
 
 Frame
 ----------
-.. image:: ../_static/Frame/Frame Assembly.png
+.. image:: ../static/Frame/Frame Assembly.png
    :width: 400px
 
-.. image:: ../_static/Frame/Frame.png
+.. image:: ../static/Frame/Frame.png
    :width: 400px
 
 Optics
