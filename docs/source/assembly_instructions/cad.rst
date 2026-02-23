@@ -103,29 +103,29 @@ Frame2
     <table style="width:100%; text-align:center;">
         <tr>
             <td>
-                <img src="static/images/frame_assembly.png" width="200"><br>
+                <img src="static/Frame/frame_assembly.png" width="150"><br>
                 Frame Assembly
             </td>
             <td>
-                <img src="static/images/frame.png" width="200"><br>
+                <img src="static/Frame/frame.png" width="150"><br>
                 Frame
             </td>
             <td>
-                <img src="static/images/25cm_aluminum_extrusion.png" width="200"><br>
+                <img src="static/Frame/25cm_aluminum_extrusion.png" width="150"><br>
                 25cm Aluminum Extrusion
             </td>
         </tr>
         <tr>
             <td>
-                <img src="static/images/65cm_aluminum_extrusion.png" width="200"><br>
+                <img src="static/Frame/65cm_aluminum_extrusion.png" width="150"><br>
                 65cm Aluminum Extrusion
             </td>
             <td>
-                <img src="static/images/90deg_corner_bracket.png" width="200"><br>
+                <img src="static/Frame/90deg_corner_bracket.png" width="150"><br>
                 90deg Corner Bracket
             </td>
             <td>
-                <img src="static/images/door_hinge_assembly.png" width="200"><br>
+                <img src="static/Frame/door_hinge_assembly.png" width="150"><br>
                 Door Hinge Assembly
             </td>
         </tr>
