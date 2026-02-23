@@ -6,6 +6,13 @@ Below are images of the CAD separated by subsections. Downloads for the CAD are 
 Frame
 ----------
 +-------------+-------------+-------------+
+| .. figure:: ../static/Frame/frame_assembly.png | .. figure:: ../static/Frame/frame.png  | .. figure:: ../static/Frame/25cm_aluminum_extrusion.png
+|    :width: 180px                               |    :width: 180px                       |    :width: 180px
+|                                                |                                        |
+|    Frame Assembly                              |    Frame                               |    25cm Aluminum Extrusion
++-------------+-------------+-------------+
+    
++-------------+-------------+-------------+
 | .. figure:: ../static/Frame/frame_assembly.png
 |    :width: 180px
 |
