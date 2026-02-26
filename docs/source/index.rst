@@ -7,7 +7,7 @@
    documentation for details.    
 
 OpenCAL: A Comprehensive Guide
-=====================
+==============================
 
 **What is CAL?**
 

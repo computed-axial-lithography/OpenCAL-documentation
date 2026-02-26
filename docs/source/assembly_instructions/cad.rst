@@ -4,97 +4,77 @@ CAD
 Below are images of the CAD separated by subsections. Downloads for the CAD are also provided underneath each image.
 
 Frame
-----------
+-----
 
-.. figure:: ../static/Frame/frame_assembly.png
-   :width: 180px
+.. card-carousel:: 2
 
-   Frame Assembly
+   .. card:: Frame
+      :img-background: ../static/Frame/frame.png
+   
+   
+   .. card:: 25cm Aluminum Extrusion
+      :img-background: ../static/Frame/25cm_aluminum_extrusion.png
+   
+   
+   .. card:: 65cm Aluminum Extrusion
+      :img-background: ../static/Frame/65cm_aluminum_extrusion.png
+   
+   
+   .. card:: 90deg Corner Bracket
+      :img-background: ../static/Frame/90deg_corner_bracket.png
+   
+   
+   .. card:: Door Hinge Assembly
+      :img-background: ../static/Frame/door_hinge_assembly.png
+   
+   
+   .. card:: Short Hinge Component
+      :img-background: ../static/Frame/short_hinge.png
+   
+   
+   .. card:: Long Hinge Component
+      :img-background: ../static/Frame/long_hinge.png
+   
+   
+   .. card:: Hinge Pin
+      :img-background: ../static/Frame/hinge_pin.png
+   
+   
+   .. card:: TPU Feet
+      :img-background: ../static/Frame/TPU_feet.png
+   
+   
+   .. card:: Back Projector Panel
+      :img-background: ../static/Frame/back_panel_panel.png
+   
+   
+   .. card:: Back Vial Panel
+      :img-background: ../static/Frame/back_vial_panel.png
+   
+   
+   .. card:: Front Vial Panel
+      :img-background: ../static/Frame/front_vial_panel.png
+   
+   
+   .. card:: Left Bottom Panel
+      :img-background: ../static/Frame/left_bottom_panel.png
+   
+   
+   .. card:: Right Bottom Panel
+      :img-background: ../static/Frame/right_bottom_panel.png
+   
+   
+   .. card:: Side Vial Panel
+      :img-background: ../static/Frame/side_vial_panel.png
+   
+   
+   .. card:: Top Projector Panel
+      :img-background: ../static/Frame/top_projector_panel.png
+   
+   
+   .. card:: Top Vial Panel
+      :img-background: ../static/Frame/top_vial_panel.png
 
-.. figure:: ../static/Frame/frame.png
-   :width: 180px
-
-   Frame
-
-.. figure:: ../static/Frame/25cm_aluminum_extrusion.png
-   :width: 180px
-
-   25cm Aluminum Extrusion
-
-.. figure:: ../static/Frame/65cm_aluminum_extrusion.png
-   :width: 180px
-
-   65cm Aluminum Extrusion
-
-.. figure:: ../static/Frame/90deg_corner_bracket.png
-   :width: 180px
-
-   90deg Corner Bracket
-
-.. figure:: ../static/Frame/door_hinge_assembly.png
-   :width: 180px
-
-   Door Hinge Assembly
-
-.. figure:: ../static/Frame/short_hinge.png
-   :width: 180px
-
-   Short Hinge Component
-
-.. figure:: ../static/Frame/long_hinge.png
-   :width: 180px
-
-   Long Hinge Component
-
-.. figure:: ../static/Frame/hinge_pin.png
-   :width: 180px
-
-   Hinge Pin
-
-.. figure:: ../static/Frame/TPU_feet.png
-   :width: 180px
-
-   TPU Feet
-
-.. figure:: ../static/Frame/back_panel_panel.png
-   :width: 180px
-
-   Back Projector Panel
-
-.. figure:: ../static/Frame/back_vial_panel.png
-   :width: 180px
-
-   Back Vial Panel
-
-.. figure:: ../static/Frame/front_vial_panel.png
-   :width: 180px
-
-   Front Vial Panel
-
-.. figure:: ../static/Frame/left_bottom_panel.png
-   :width: 180px
-
-   Left Bottom Panel
-
-.. figure:: ../static/Frame/right_bottom_panel.png
-   :width: 180px
-
-   Right Bottom Panel
-
-.. figure:: ../static/Frame/side_vial_panel.png
-   :width: 180px
-
-   Side Vial Panel
-
-.. figure:: ../static/Frame/top_projector_panel.png
-   :width: 180px
-
-   Top Projector Panel
-
-.. figure:: ../static/Frame/top_vial_panel.png
-   :width: 180px
-
-   Top Vial Panel
 
 Frame2
 ----------
