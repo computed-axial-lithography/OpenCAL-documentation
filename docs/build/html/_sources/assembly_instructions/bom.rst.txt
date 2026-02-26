@@ -1,13 +1,21 @@
 BOM
 ===
 
-Below is the Bill of Materials (BOM) separated by each subsection of the printer. While these are the exact quantities required, 
-it is recommended that extra hardware is obtained for maintenance.
+Click the following link to view the Bill of Materials (BOM):
+https://docs.google.com/spreadsheets/d/1t-iPMjO8VXI8oq7J862X-SkXfvMk6z9Z0AsXkNMo5Jw/edit?usp=sharing
 
-Frame
-----------
+The first tab is for the total inventory. This is what you will realistically spend.
 
-.. list-table:: 
+The second tab is for the used inventory. This is the actual cost of the printer.
+
+The third tab is the analysis, allowing you to see the breakdowns of the printer by category.
+
+..
+    Frame
+..
+    ----------
+.. 
+    list-table:: 
     :widths: 20 10 10 15
     :header-rows: 1
 
@@ -26,12 +34,15 @@ Frame
     *   - x
         - x
         - x
-        - x
+        - x 
       
 
-Optics
-----------
-.. list-table:: 
+..
+    Optics
+..
+    ----------
+.. 
+    list-table:: 
     :widths: 20 10 10 15
     :header-rows: 1
 
@@ -52,9 +63,12 @@ Optics
         - x
         - x
 
-Vial 
-----------
-.. list-table:: 
+..
+    Vial 
+..
+    ----------
+.. 
+    list-table:: 
     :widths: 20 10 10 15
     :header-rows: 1
 
@@ -75,9 +89,12 @@ Vial
         - x
         - x
 
-Vial Mechanism
-----------
-.. list-table:: 
+..
+    Vial Mechanism
+..
+    ----------
+.. 
+    list-table:: 
     :widths: 20 10 10 15
     :header-rows: 1
 
@@ -98,9 +115,12 @@ Vial Mechanism
         - x
         - x
 
-Electronics
-----------
-.. list-table:: 
+..
+    Electronics
+..
+    ----------
+.. 
+    list-table:: 
     :widths: 20 10 10 15
     :header-rows: 1
 
