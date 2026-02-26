@@ -9,7 +9,7 @@ Frame
 .. card-carousel:: 2
 
    .. card:: Frame
-      :img-background: ../static/Frame/frame.png
+      :img-background: ../static/Frame/Frame.png
    
    
    .. card:: 25cm Aluminum Extrusion
