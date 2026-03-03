@@ -1,7 +1,7 @@
 CAD
 ===
 
-Below are images of the CAD separated by subsections. 
+Below are images of the CAD separated by subsections. These images only list individual pieces and not subassemblies or assemblies (these are shown in the step-by-step instructions). 
 
 **NOTE:**
 
@@ -12,12 +12,7 @@ Frame
 -----
 
 .. card-carousel:: 2
-
-   .. card:: Frame
-      :link: https://www.printables.com/model/3161-3d-benchy
-      :img-bottom: ../static/Frame/Frame.png
-   
-   
+     
    .. card:: 25cm Aluminum Extrusion
       :link: https://www.printables.com/model/3161-3d-benchy
       :img-bottom: ../static/Frame/25cm_aluminum_extrusion.png
