@@ -34,12 +34,22 @@ is conducted.
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: Assembly Instructions
+   :caption: Engineering Documentation
    
-   assembly_instructions/bom
-   assembly_instructions/tools
-   assembly_instructions/cad
-   assembly_instructions/step_by_step
+   engineering_documentation/bom
+   engineering_documentation/tools
+   engineering_documentation/cad
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Step-by-Step Guides 
+
+   step_by_step/frame_stepbystep
+   step_by_step/optics_stepbystep
+   step_by_step/electronics_stepbystep
+   step_by_step/rotational_element_stepbystep
+   step_by_step/centrifucal_stepbystep
 
 .. toctree::
    :maxdepth: 2
