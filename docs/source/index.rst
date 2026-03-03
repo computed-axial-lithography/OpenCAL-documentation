@@ -6,9 +6,8 @@
    `reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
    documentation for details.    
 
-OpenCAL: A Comprehensive Guide
-==============================
-
+OpenCAL: A Comprehensive Guide!
+-------------------------------
 **What is CAL?**
 
 Computed Axial Lithography (CAL) is a recent advancement in volumetric additive manufacturing (VAM) that 

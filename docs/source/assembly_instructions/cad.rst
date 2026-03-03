@@ -140,7 +140,7 @@ Optics
    
    .. card:: Projector Shroud
       :link: https://www.printables.com/model/3161-3d-benchy
-      :img-bottom: ../static/Optics/200mm_fresnel_lens.png
+      :img-bottom: ../static/Optics/projector_shroud.png
    
 
 Rotational Element
@@ -156,9 +156,9 @@ Rotational Element
       :link: https://www.printables.com/model/3161-3d-benchy
       :img-bottom: ../static/Rotational_Element/back_top_plate.png
 
-   .. card:: Bpttom Glass Disk
+   .. card:: Bottom Glass Disk
       :link: https://www.printables.com/model/3161-3d-benchy
-      :img-bottom: ../static/Rotational_Element/bottom_glas_disk.png
+      :img-bottom: ../static/Rotational_Element/bottom_glass_disk.png
 
    .. card:: Bottom Glass Vial Attachment
       :link: https://www.printables.com/model/3161-3d-benchy
@@ -178,7 +178,7 @@ Rotational Element
 
    .. card:: Large Glass Vial
       :link: https://www.printables.com/model/3161-3d-benchy
-      :img-bottom: ../static/Rotational_Element/.png
+      :img-bottom: ../static/Rotational_Element/large_glass_vial.png
 
    .. card:: Mid Base Plate
       :link: https://www.printables.com/model/3161-3d-benchy
