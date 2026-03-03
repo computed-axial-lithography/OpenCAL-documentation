@@ -226,7 +226,71 @@ Rotational Element
 
 Electronics
 -----------
+.. card-carousel:: 2
 
+   .. card:: 5V 5.5A Step-Down Voltage Regulator
+      :link: https://www.printables.com/model/3161-3d-benchy
+      :img-bottom: ../static/Electronics/5V_regulator.png
+
+   .. card:: 19V Converter Mount
+      :link: https://www.printables.com/model/3161-3d-benchy
+      :img-bottom: ../static/Electronics/19V_mount.png
+
+   .. card:: DC 24V to 12V 5A Converter 60W
+      :link: https://www.printables.com/model/3161-3d-benchy
+      :img-bottom: ../static/Electronics/24V_12V_converter.png
+
+   .. card:: DC24V to DC19V 5A Converter 95W
+      :link: https://www.printables.com/model/3161-3d-benchy
+      :img-bottom: ../static/Electronics/24V_19V_converter.png
+
+   .. card:: DC 24V 20A Power Supply Transformer
+      :link: https://www.printables.com/model/3161-3d-benchy
+      :img-bottom: ../static/Electronics/24V_power_supply.png
+
+   .. card:: Electronics Bottom Plate 1
+      :link: https://www.printables.com/model/3161-3d-benchy
+      :img-bottom: ../static/Electronics/electronics_bottom_plate_1.png
+
+   .. card:: Electronics Bottom Plate 2
+      :link: https://www.printables.com/model/3161-3d-benchy
+      :img-bottom: ../static/Electronics/electronics_bottom_plate_2.png
+
+   .. card:: LCD Housing Connector
+      :link: https://www.printables.com/model/3161-3d-benchy
+      :img-bottom: ../static/Electronics/LCD_connector.png
+
+   .. card:: LCD Back Housing
+      :link: https://www.printables.com/model/3161-3d-benchy
+      :img-bottom: ../static/Electronics/LCD_housing_back.png
+
+   .. card:: LCD Front Housing
+      :link: https://www.printables.com/model/3161-3d-benchy
+      :img-bottom: ../static/Electronics/LCD_housing_front.png
+
+   .. card:: LCD Screen
+      :link: https://www.printables.com/model/3161-3d-benchy
+      :img-bottom: ../static/Electronics/LCD_screen.png
+
+   .. card:: Rotary Encoder
+      :link: https://www.printables.com/model/3161-3d-benchy
+      :img-bottom: ../static/Electronics/rotary_encoder.png
+
+   .. card:: Stepper Motor Circuit
+      :link: https://www.printables.com/model/3161-3d-benchy
+      :img-bottom: ../static/Electronics/stepper_motor_circuit.png
+
+   .. card:: Stepper Motor Hex Shaft
+      :link: https://www.printables.com/model/3161-3d-benchy
+      :img-bottom: ../static/Electronics/stepper_motor_shaft.png
+
+   .. card:: Stepper Motor
+      :link: https://www.printables.com/model/3161-3d-benchy
+      :img-bottom: ../static/Electronics/stepper_motor.png
+
+   .. card:: Terminal Block
+      :link: https://www.printables.com/model/3161-3d-benchy
+      :img-bottom: ../static/Electronics/terminal_block.png
 
 CentrifuCAL
 -----------
