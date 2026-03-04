@@ -72,12 +72,37 @@ Frame
       :link: https://www.printables.com/model/3161-3d-benchy
       :img-bottom: ../static/Frame/left_bottom_panel.png
    
+
+   .. card:: 12x5x2mm Rare Earth Magnet
+      :link: https://www.printables.com/model/3161-3d-benchy
+      :img-bottom: ../static/Frame/12x5x2mm_magnet.png
+
+
+   .. card:: Door Handle
+      :link: https://www.printables.com/model/3161-3d-benchy
+      :img-bottom: ../static/Frame/door_handle.png
+
+
+   .. card:: Magnet Frame Insert
+      :link: https://www.printables.com/model/3161-3d-benchy
+      :img-bottom: ../static/Frame/magnet_frame_insert.png
+
+
+   .. card:: Magnet Holder
+      :link: https://www.printables.com/model/3161-3d-benchy
+      :img-bottom: ../static/Frame/magnet_holder.png
+
+
+   .. card:: Panel Handle
+      :link: https://www.printables.com/model/3161-3d-benchy
+      :img-bottom: ../static/Frame/panel_handle.png
+   
    
    .. card:: Right Bottom Panel
       :link: https://www.printables.com/model/3161-3d-benchy
       :img-bottom: ../static/Frame/right_bottom_panel.png
    
-   
+
    .. card:: Side Vial Panel
       :link: https://www.printables.com/model/3161-3d-benchy
       :img-bottom: ../static/Frame/side_vial_panel.png
