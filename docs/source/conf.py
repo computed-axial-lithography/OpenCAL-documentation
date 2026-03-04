@@ -8,8 +8,8 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = "OpenCAL"
-copyright = "2025, UC Berkeley"
-author = "UC Berkeley"
+copyright = "2026, University of California, Berkeley"
+author = "University of California, Berkeley"
 release = "0.1"
 
 # -- General configuration ---------------------------------------------------
@@ -29,6 +29,6 @@ exclude_patterns = []
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-# html_theme = "sphinx_rtd_theme"
-html_theme = "alabaster"
+html_theme = "sphinx_rtd_theme"
+# html_theme = "alabaster"
 html_static_path = ["_static"]

@@ -1,10 +1,4 @@
 Data Generation
 ===============
 
-Data Generation test
-
-
-subsection
-----------
-
-This is a subsection
+**WORK IN PROGRESS**
