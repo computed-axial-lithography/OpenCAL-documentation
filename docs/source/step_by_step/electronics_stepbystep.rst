@@ -14,6 +14,8 @@ The electronics consists of the following subassemblies:
 
 * Camera Mount
 
+* Stepper Motor
+
 ----
 
 Bottom Plate

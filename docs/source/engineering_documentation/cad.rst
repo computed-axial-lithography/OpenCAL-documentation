@@ -176,6 +176,10 @@ Rotational Element
       :link: https://www.printables.com/model/3161-3d-benchy
       :img-bottom: ../static/Rotational_Element/back_top_plate.png
 
+   .. card:: Ball Bearing
+      :link: https://www.printables.com/model/3161-3d-benchy
+      :img-bottom: ../static/Rotational_Element/ball_bearing.png
+
    .. card:: Bottom Glass Disk
       :link: https://www.printables.com/model/3161-3d-benchy
       :img-bottom: ../static/Rotational_Element/bottom_glass_disk.png

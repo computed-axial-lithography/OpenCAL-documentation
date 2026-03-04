@@ -24,17 +24,18 @@ Aluminum Extrusion Frame
 
 ----
 
-.. image:: ../static/Frame/frame.png
+.. image:: ../static/Frame/Frame.png
     :align: center 
 
 Required Materials:
 ^^^^^^^^^^^^^^^^^^^
-* 25 cm Aluminum Extrusions (QTY 13)
-* 65 cm Aluminum Extrusions (QTY 4)
-* 90 deg Corner Gussets (QTY 41)
-* M5x8 Button Head Screws (QTY 94)
-* M5 TNut (QTy 94)
-* TPU Feet (QTY 6)
+* (QTY 4)  65 cm Aluminum Extrusions
+* (QTY 13) 25 cm Aluminum Extrusions  
+* (QTY 41) 90 deg Corner Gussets 
+* (QTY 94) M5x8 Button Head Screws 
+* (QTY 94) M5 TNut 
+* (QTY 6)  TPU Feet 
+
 
 .. image:: ../static/WIP.png
     :align: center 
@@ -188,13 +189,13 @@ LCD Panel
 
 Required Materials:
 ^^^^^^^^^^^^^^^^^^^
-* LCD Panel
-* Super Glue
-* 12x5x2mm Rare Earth Magnet Bars (QTY 8)
-* Magnet Holder (QTY 4)
-* Panel Handle (QTY 2)
-* M3x4x5 Heat Set Insert (QTY 4)
-* M3x6 Button Head Screw (QTY 4)
+* (QTY 1) LCD Panel
+* (QTY 1) Super Glue
+* (QTY 8) 12x5x2mm Rare Earth Magnet Bars 
+* (QTY 4) Magnet Holder 
+* (QTY 2) Panel Handle 
+* (QTY 4) M3x4x5 Heat Set Insert 
+* (QTY 4) M3x6 Button Head Screw 
 
 .. image:: ../static/WIP.png
     :align: center 
@@ -268,13 +269,13 @@ Back Projector Panel
 
 Required Materials:
 ^^^^^^^^^^^^^^^^^^^
-* Back Projector Panel
-* Super Glue
-* 12x5x2mm Rare Earth Magnet Bars (QTY 8)
-* Magnet Holder (QTY 4)
-* Panel Handle (QTY 2)
-* M3x4x5 Heat Set Insert (QTY 4)
-* M3x6 Button Head Screw (QTY 4)
+* (QTY 1) Back Projector Panel
+* (QTY 1) Super Glue
+* (QTY 8) 12x5x2mm Rare Earth Magnet Bars 
+* (QTY 4) Magnet Holder 
+* (QTY 2) Panel Handle 
+* (QTY 4) M3x4x5 Heat Set Insert 
+* (QTY 4) M3x6 Button Head Screw 
 
 .. image:: ../static/WIP.png
     :align: center 
@@ -348,13 +349,13 @@ Top Projector Panel
 
 Required Materials:
 ^^^^^^^^^^^^^^^^^^^
-* Back Projector Panel
-* Super Glue
-* 12x5x2mm Rare Earth Magnet Bars (QTY 8)
-* Magnet Holder (QTY 4)
-* Panel Handle (QTY 2)
-* M3x4x5 Heat Set Insert (QTY 4)
-* M3x6 Button Head Screw (QTY 4)
+* (QTY 1) Back Projector Panel
+* (QTY 1) Super Glue
+* (QTY 8) 12x5x2mm Rare Earth Magnet Bars 
+* (QTY 4) Magnet Holder 
+* (QTY 2) Panel Handle 
+* (QTY 4) M3x4x5 Heat Set Insert 
+* (QTY 4) M3x6 Button Head Screw 
 
 .. image:: ../static/WIP.png
     :align: center 
@@ -428,19 +429,19 @@ Door
 
 Required Materials:
 ^^^^^^^^^^^^^^^^^^^
-* Door Panel
-* Magnet Holder (QTY 2) 
-* Super Glue
-* 12x5x2mm Rare Earth Magnet Bars (QTY 4)
-* Magnet Holder (QTY 2)
-* M3x4x5 Heat Set Insert (QTY 1)
-* M3x6 Button Head Screw (QTY 1)
-* Short Hinge (QTY 2)
-* Long Hinge (QTY 2)
-* Hinge Pin (QTY 1)
-* M5x8 Button Head Screw (QTY 8)
-* M5 Hex Nut/M5 TNut (QTY 4)
-* M5 Hammer TNut (QTY 4)
+* (QTY 1) Door Panel
+* (QTY 2) Magnet Holder 
+* (QTY 1) Super Glue
+* (QTY 4) 12x5x2mm Rare Earth Magnet Bars 
+* (QTY 2) Magnet Holder 
+* (QTY 1) M3x4x5 Heat Set Insert 
+* (QTY 1) M3x6 Button Head Screw 
+* (QTY 2) Short Hinge 
+* (QTY 2) Long Hinge 
+* (QTY 1) Hinge Pin 
+* (QTY 8) M5x8 Button Head Screw 
+* (QTY 4) M5 Hex Nut/M5 TNut 
+* (QTY 4) M5 Hammer TNut 
 
 .. image:: ../static/WIP.png
     :align: center 
@@ -534,8 +535,8 @@ Magnet Frame Inserts
 
 Required Materials:
 ^^^^^^^^^^^^^^^^^^^
-* Magnet Frame Insert (QTY 14)
-* 12x5x2mm Rare Earth Magnet Bar (QTY 14)
+* (QTY 14) Magnet Frame Insert 
+* (QTY 14) 12x5x2mm Rare Earth Magnet Bar 
 
 .. image:: ../static/WIP.png
     :align: center  
