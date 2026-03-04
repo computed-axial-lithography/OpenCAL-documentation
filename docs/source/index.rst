@@ -6,7 +6,7 @@
    `reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
    documentation for details.    
 
-OpenCAL: A Comprehensive Guide!
+OpenCAL: A Comprehensive Guide
 -------------------------------
 **What is CAL?**
 
@@ -50,6 +50,7 @@ is conducted.
    step_by_step/electronics_stepbystep
    step_by_step/rotational_element_stepbystep
    step_by_step/centrifucal_stepbystep
+   step_by_step/main_assembly
 
 .. toctree::
    :maxdepth: 2

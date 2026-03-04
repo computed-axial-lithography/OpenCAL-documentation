@@ -1,4 +1,4 @@
-Frame
+Frame Subassemblies
 ++++++++++++++++++++++++
 
 The frame consists of the following subassemblies:
@@ -16,6 +16,8 @@ The frame consists of the following subassemblies:
 * Magnet Frame Inserts
 
 **NOTE:** The Aluminum Extrusion Frame is the most critical subassembly. This is the very first thing that should be built for OpenCAL. The other subassemblies can be created and installed at any point.
+
+----
 
 Aluminum Extrusion Frame
 ========================
@@ -174,6 +176,7 @@ Step-by-Step Instructions:
 .. image:: ../static/Frame/WIPF.png
     :align: center 
 
+----
 
 LCD Panel
 =========

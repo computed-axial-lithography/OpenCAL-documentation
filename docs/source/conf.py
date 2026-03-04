@@ -29,6 +29,12 @@ exclude_patterns = []
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
+html_static_path = ['static']
+html_logo = "static/oc_logo_new.png"
+html_theme_options = {
+    "logo_only": True,
+}
+
 html_theme = "sphinx_rtd_theme"
 # html_theme = "alabaster"
 html_static_path = ["_static"]

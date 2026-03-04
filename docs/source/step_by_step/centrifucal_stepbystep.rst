@@ -1,7 +1,30 @@
-CentrifuCAL
+CentrifuCAL Subassemblies
 ++++++++++++++++++++++++++++++
+The CentrifuCAL consists of the following subassemblies:
 
-CentrifuCAL
-==========
-Insert Steps Here.
+* 
 
+
+================
+
+----
+
+.. image:: ../static/WIP.png
+    :align: center 
+
+Required Materials:
+^^^^^^^^^^^^^^^^^^^
+*
+
+.. image:: ../static/WIP.png
+    :align: center 
+
+Required Tools:
+^^^^^^^^^^^^^^^
+*
+
+.. image:: ../static/WIP.png
+    :align: center 
+
+Step-by-Step Instructions
+^^^^^^^^^^^^^^^^^^^^^^^^^
