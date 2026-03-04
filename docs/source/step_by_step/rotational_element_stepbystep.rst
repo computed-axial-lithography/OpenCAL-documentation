@@ -18,6 +18,8 @@ The rotational element consists of the following subassemblies:
 
 * Back Top Plate
 
+----
+
 Rotation Stage
 ================
 
@@ -44,7 +46,7 @@ Step-by-Step Instructions
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
-
+----
 
 Large Vial
 ================
@@ -72,6 +74,7 @@ Step-by-Step Instructions
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
+----
 
 Small Vial
 ================
@@ -101,7 +104,7 @@ Step-by-Step Instructions
 
 
 
-
+----
 
 Front Base Plate
 ================
@@ -130,7 +133,7 @@ Step-by-Step Instructions
 
 
 
-
+----
 
 Back Base Plate
 ================
@@ -159,7 +162,7 @@ Step-by-Step Instructions
 
 
 
-
+----
 
 Mid Base Plate
 ================
@@ -189,7 +192,7 @@ Step-by-Step Instructions
 
 
 
-
+----
 
 Front Top Plate
 ================
@@ -219,7 +222,7 @@ Step-by-Step Instructions
 
 
 
-
+----
 
 Back Top Plate
 ================

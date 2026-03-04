@@ -14,6 +14,8 @@ The electronics consists of the following subassemblies:
 
 * Camera Mount
 
+----
+
 Bottom Plate
 ================
 
@@ -41,6 +43,7 @@ Step-by-Step Instructions
 
 
 
+----
 
 Top Plate
 ================
@@ -68,7 +71,7 @@ Step-by-Step Instructions
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
-
+----
 
 LCD Housing
 ================
@@ -98,7 +101,7 @@ Step-by-Step Instructions
 
 
 
-
+----
 
 19V Converter Assembly
 ======================
@@ -126,7 +129,7 @@ Step-by-Step Instructions
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
-
+----
 
 Raspberry Pi Housing
 ================
@@ -154,7 +157,7 @@ Step-by-Step Instructions
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
-
+----
 
 Camera Mount
 ================

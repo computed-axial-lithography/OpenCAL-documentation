@@ -256,6 +256,7 @@ Step-by-Step Instructions:
 .. image:: ../static/Frame/WIPF.png
     :align: center 
 
+----
 
 Back Projector Panel
 ====================
@@ -335,6 +336,7 @@ Step-by-Step Instructions:
 .. image:: ../static/Frame/WIPF.png
     :align: center 
 
+----
 
 Top Projector Panel
 ===================
@@ -414,6 +416,7 @@ Step-by-Step Instructions:
 .. image:: ../static/Frame/WIPF.png
     :align: center
 
+----
 
 Door
 =========
@@ -518,6 +521,8 @@ Step-by-Step Instructions:
 
 .. image:: ../static/Frame/WIPF.png
     :align: center 
+
+----
 
 Magnet Frame Inserts
 ====================

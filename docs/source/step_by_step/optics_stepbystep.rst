@@ -6,6 +6,8 @@ The optics consists of the following subassemblies:
 
 * Projector Mount
 
+----
+
 Collimating Lens
 ================
 
@@ -32,7 +34,7 @@ Step-by-Step Instructions
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
-
+----
 
 Projector Mount
 ================
