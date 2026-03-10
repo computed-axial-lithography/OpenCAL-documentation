@@ -31,6 +31,7 @@ exclude_patterns = []
 
 html_static_path = ['static']
 html_logo = "static/oc_logo_new.png"
+# html_logo = "static/opencal_logo_mediumblue_rbg.png"
 html_theme_options = {
     "logo_only": True,
 }

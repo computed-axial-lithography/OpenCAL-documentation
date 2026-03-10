@@ -54,9 +54,6 @@ Step-by-Step Instructions:
 
 1. Layout all of the required materials and tools.
 
-.. image:: ../static/Frame/WIPF.png
-    :align: center 
-
 2. Attach **QTY (4) 90 deg Corner Gussets** to **QTY (1) 25 cm Aluminum Extrusion** using **QTY (4) M5x8 Button Head Screws** and **QTY (4) M5 TNut** in the following configuration:
 
 .. image:: ../static/Frame/horiz_rail_4_gussets.png
@@ -92,7 +89,7 @@ Step-by-Step Instructions:
 .. image:: ../static/Frame/WIPF.png
     :align: center 
 
-9. Repeat Steps (7 & 8) five more times (should have a total of **2** of this assembly).
+9. Repeat Steps 7 & 8 five more times (should have a total of **2** of this assembly).
 
 .. image:: ../static/Frame/WIPF.png
     :align: center 
@@ -127,7 +124,7 @@ Step-by-Step Instructions:
 .. image:: ../static/Frame/WIPF.png
     :align: center 
 
-16. You should now have the bottom of the frame. Repeat Steps (12 & 13) with the remaining **QTY (2) 65 cm Aluminum Extrusion**.
+16. You should now have the bottom of the frame. Repeat Steps 12 & 13 with the remaining **QTY (2) 65 cm Aluminum Extrusion**.
 
 .. image:: ../static/Frame/WIPF.png
     :align: center 
@@ -222,7 +219,7 @@ Step-by-Step Instructions:
 .. image:: ../static/Frame/WIPF.png
     :align: center 
 
-3. Repeat Steps (1 & 2) three more times. You should have 4 of these assemblies total.
+3. Repeat Steps 1 & 2 three more times. You should have 4 of these assemblies total.
 
 .. image:: ../static/Frame/WIPF.png
     :align: center 
@@ -302,7 +299,7 @@ Step-by-Step Instructions:
 .. image:: ../static/Frame/WIPF.png
     :align: center 
 
-3. Repeat Steps (1 & 2) three more times. You should have 4 of these assemblies total.
+3. Repeat Steps 1 & 2 three more times. You should have 4 of these assemblies total.
 
 .. image:: ../static/Frame/WIPF.png
     :align: center 
@@ -382,7 +379,7 @@ Step-by-Step Instructions:
 .. image:: ../static/Frame/WIPF.png
     :align: center 
 
-3. Repeat Steps (1 & 2) three more times. You should have 4 of these assemblies total.
+3. Repeat Steps 1 & 2 three more times. You should have 4 of these assemblies total.
 
 .. image:: ../static/Frame/WIPF.png
     :align: center 
@@ -468,7 +465,7 @@ Step-by-Step Instructions:
 .. image:: ../static/Frame/WIPF.png
     :align: center
 
-3. Repeat Steps (1 & 2) one more time. You should have 2 of these assemblies.
+3. Repeat Steps 1 & 2 one more time. You should have 2 of these assemblies.
 
 .. image:: ../static/Frame/WIPF.png
     :align: center
@@ -503,7 +500,7 @@ Step-by-Step Instructions:
 .. image:: ../static/Frame/WIPF.png
     :align: center 
 
-10. Repeat Steps (8 & 9) one more time. You should have 2 of these assemblies total.
+10. Repeat Steps 8 & 9 one more time. You should have 2 of these assemblies total.
 
 .. image:: ../static/Frame/WIPF.png
     :align: center 
