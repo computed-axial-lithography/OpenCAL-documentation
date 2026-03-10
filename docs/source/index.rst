@@ -49,6 +49,7 @@ is conducted.
    step_by_step/optics_stepbystep
    step_by_step/rotational_element_stepbystep
    step_by_step/electronics_stepbystep
+   step_by_step/wiring_stepbystep
    step_by_step/centrifucal_stepbystep
    step_by_step/main_assembly
 
