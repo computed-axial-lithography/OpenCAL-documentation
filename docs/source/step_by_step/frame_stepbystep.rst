@@ -51,7 +51,7 @@ Required Tools:
 
 Step-by-Step Instructions:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
-**NOTE: All fasteners will be "hand tight".**
+**NOTE: All fasteners will be "hand tight". ENSURE all TNuts are in the correct orientation (screw goes into flanged end).**
 
 1. Layout all of the required materials and tools.
 
@@ -70,7 +70,7 @@ Step-by-Step Instructions:
 .. image:: ../static/Frame/WIPF.png
     :align: center 
 
-5. Attach **QTY (2) 90 deg Corner Gussets** to **QTY (1) 25 cm Aluminum Extrusion** using **QTY (2) M5x8 Button Head Screws** and **QTY (4) M5 TNut** in the following configuration:
+5. Attach **QTY (2) 90 deg Corner Gussets** to **QTY (1) 25 cm Aluminum Extrusion** using **QTY (4) M5x8 Button Head Screws** and **QTY (4) M5 TNut** in the following configuration. It is recommended to loosely install the screws and nuts on the gussets prior to rail installation (see image).
 
 .. image:: ../static/Frame/vert_rail_2_gussets.png
     :align: center 
@@ -105,7 +105,7 @@ Step-by-Step Instructions:
 .. image:: ../static/Frame/WIPF.png
     :align: center 
 
-12. Take QTY (1) of the assemblies from **Step 4** and slide it inbetween **QTY (2) 65 cm Aluminum Extrusion** to the very end in the following configuration:
+12. Take QTY (1) of the assemblies from **Step 4** and slide it inbetween **QTY (2) 65 cm Aluminum Extrusion** to the very end in the following configuration. Tighten the **QTY (2) M5x8 Button Head Screw** that connects to the 65 cm rail.
 
 .. image:: ../static/Frame/WIPF.png
     :align: center 
