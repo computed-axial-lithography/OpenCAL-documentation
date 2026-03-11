@@ -7,7 +7,6 @@ The CentrifuCAL consists of the following subassemblies:
 
 ================
 
-----
 
 .. image:: ../static/WIP.png
     :align: center 

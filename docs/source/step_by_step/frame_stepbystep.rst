@@ -119,14 +119,14 @@ Step-by-Step Instructions:
    .. image:: ../static/Frame/WIPF.png
        :align: center 
 
-15. Take QTY (1) of the assemblies from **Step 4**, FLIP IT, and slide it inbetween **QTY (2) 65 cm Aluminum Extrusion** to the opposite end in the following configuration. Keep this loose for the next step. 
+#. Take QTY (1) of the assemblies from **Step 4**, FLIP IT, and slide it inbetween **QTY (2) 65 cm Aluminum Extrusion** to the opposite end in the following configuration. Keep this loose for the next step. 
 
-.. image:: ../static/Frame/WIPF.png
-    :align: center 
+   .. image:: ../static/Frame/WIPF.png
+       :align: center 
 
-15a. Refer to the "Magnet Frame Insert" Subassembly to make **QTY (2) Magnet Frame Insert**.
+#. Refer to the "Magnet Frame Insert" Subassembly to make **QTY (2) Magnet Frame Insert**.
 
-15b. Pull out the rail from **Step 15** so that the back railing is exposed, slide in **QTY (2) Magnet Frame Insert**. Slide the rail back to the end and tighten it.
+#. Pull out the rail from **Step 15** so that the back railing is exposed, slide in **QTY (2) Magnet Frame Insert**. Slide the rail back to the end and tighten it.
 
    .. image:: ../static/Frame/WIPF.png
        :align: center 
@@ -543,12 +543,12 @@ Step-by-Step Instructions:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 **NOTE: Wear gloves while doing this so super glue does not contact your skin. Also, ENSURE the magnets are all in the same polarity as the panels**
 
-1. Place a dab of super glue into the crevice of **QTY (1) Magnet Frame Insert**. Place **QTY (1) 12x5x2mm Rare Earth Magnet Bar** on top of the crevice to bond the magnet.
+#. Place a dab of super glue into the crevice of **QTY (1) Magnet Frame Insert**. Place **QTY (1) 12x5x2mm Rare Earth Magnet Bar** on top of the crevice to bond the magnet.
 
    .. image:: ../static/Frame/WIPF.png
        :align: center 
 
-2. Repeat Step 1 nine more times. You should have 10 of these assemblies total.
+#. Repeat Step 1 nine more times. You should have 10 of these assemblies total.
 
    .. image:: ../static/Frame/WIPF.png
        :align: center 
@@ -563,4 +563,4 @@ Step-by-Step Instructions:
    .. image:: ../static/Frame/WIPF.png
        :align: center 
 
-5. The Magnet Frame Insert Subassembly is now complete.
+#. The Magnet Frame Insert Subassembly is now complete.
