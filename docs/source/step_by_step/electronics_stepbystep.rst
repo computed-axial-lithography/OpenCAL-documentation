@@ -23,7 +23,6 @@ The electronics consists of the following subassemblies:
 Bottom Plate
 ================
 
-----
 
 .. image:: ../static/WIP.png
     :align: center 
@@ -102,7 +101,6 @@ Step-by-Step Instructions
 Top Plate
 ================
 
-----
 
 .. image:: ../static/WIP.png
     :align: center 
@@ -164,7 +162,6 @@ Step-by-Step Instructions
 LCD Housing
 ================
 
-----
 
 .. image:: ../static/WIP.png
     :align: center 
@@ -229,7 +226,6 @@ NOTE: This will fix the encoder to the top lid. When moving the LCD Enclosure on
 19V Converter Assembly
 ======================
 
-----
 
 .. image:: ../static/WIP.png
     :align: center 
@@ -276,7 +272,6 @@ Ensure the fastener comes from the side with the buck converter and the washer i
 Raspberry Pi Housing
 ====================
 
-----
 
 .. image:: ../static/WIP.png
     :align: center 
@@ -388,7 +383,6 @@ Step-by-Step Instructions
 Camera Mount
 ================
 
-----
 
 .. image:: ../static/WIP.png
     :align: center 
