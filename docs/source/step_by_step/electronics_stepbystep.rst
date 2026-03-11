@@ -274,7 +274,7 @@ Ensure the fastener comes from the side with the buck converter and the washer i
 ----
 
 Raspberry Pi Housing
-================
+====================
 
 ----
 
@@ -332,12 +332,12 @@ Step-by-Step Instructions
 .. image:: ../static/WIP.png
     :align: center 
 
-4. Attach the cool fan grill to the **QTY (1) Brushless Cooling Fan** using **QTY (4) M3x10 Button Head Screw** and **QTY (4) M3 Hex Nut** from the side without the logo and wires. The screws should be going from the grill into the fan.
+4. Attach the cool fan grill to the **QTY (1) Brushless Cooling Fan** using **QTY (4) M3x10 Button Head Screw** and **QTY (4) M3 Hex Nut** from the side without the logo and wires. The screws should be going from the fan into the grill.
 
 .. image:: ../static/WIP.png
     :align: center 
 
-5. Attach the **QTY (1) Brushless Cooling Fan** to the back of the **QTY (1) RP5 Housing Door** (the side without the hinge indent) using **QTY (4) M3x10 Button Head Screws** and **QTY (4) M3 Hex Nut**. The fan should be orientated so that the wire is coming from the bottom left. The non-grill side of the fan should be interfacing with the door. The screws should be coming from the inner of the fan (from the fan to the door -- shown in the image).
+5. Attach the **QTY (1) Brushless Cooling Fan** to the back of the **QTY (1) RP5 Housing Door** (the side without the hinge indent) using **QTY (4) M3x10 Button Head Screws** and **QTY (4) M3 Hex Nut**. The fan should be orientated so that the wire is coming from the bottom left. The non-grill side of the fan should be interfacing with the door. The screws should be coming from the door to the fan (see image below).
 
 .. image:: ../static/WIP.png
     :align: center 

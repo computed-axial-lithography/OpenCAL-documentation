@@ -1,5 +1,5 @@
 Rotational Element Subassemblies
-++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++
 The rotational element consists of the following subassemblies:
 
 * Rotation Stage

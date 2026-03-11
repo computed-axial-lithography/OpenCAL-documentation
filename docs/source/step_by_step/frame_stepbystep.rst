@@ -31,11 +31,12 @@ Required Materials:
 ^^^^^^^^^^^^^^^^^^^
 * (QTY 4)  65 cm Aluminum Extrusions
 * (QTY 13) 25 cm Aluminum Extrusions  
-* (QTY 41) 90 deg Corner Gussets 
-* (QTY 94) M5x8 Button Head Screws 
-* (QTY 94) M5 TNut 
+* (QTY 44) 90 deg Corner Gussets 
+* (QTY 88) M5x8 Button Head Screws 
+* (QTY 12) M5x10 Button Head Screws
+* (QTY 100) M5 TNut 
 * (QTY 6)  TPU Feet 
-
+* (QTY 4) Magnet Frame Insert Assembly
 
 .. image:: ../static/WIP.png
     :align: center 
@@ -89,7 +90,7 @@ Step-by-Step Instructions:
 .. image:: ../static/Frame/WIPF.png
     :align: center 
 
-9. Repeat Steps 7 & 8 five more times (should have a total of **2** of this assembly).
+9. Repeat Steps 7 & 8 one more time (should have a total of **2** of this assembly).
 
 .. image:: ../static/Frame/WIPF.png
     :align: center 
@@ -119,7 +120,14 @@ Step-by-Step Instructions:
 .. image:: ../static/Frame/WIPF.png
     :align: center 
 
-15. Take QTY (1) of the assemblies from **Step 4**, FLIP IT, and slide it inbetween **QTY (2) 65 cm Aluminum Extrusion** to the opposite end in the following configuration: 
+15. Take QTY (1) of the assemblies from **Step 4**, FLIP IT, and slide it inbetween **QTY (2) 65 cm Aluminum Extrusion** to the opposite end in the following configuration. Keep this loose for the next step. 
+
+.. image:: ../static/Frame/WIPF.png
+    :align: center 
+
+15a. Refer to the "Magnet Frame Insert" Subassembly to make **QTY (2) Magnet Frame Insert**.
+
+15b. Pull out the rail from **Step 15** so that the back railing is exposed, slide in **QTY (2) Magnet Frame Insert**. Slide the rail back to the end and tighten it.
 
 .. image:: ../static/Frame/WIPF.png
     :align: center 
@@ -129,7 +137,7 @@ Step-by-Step Instructions:
 .. image:: ../static/Frame/WIPF.png
     :align: center 
 
-17. Take **QTY (6) TPU Feet** and install **QTY (2) M5 TNut** and **QTY (2) M5x8 Button Head Screw** into EACH foot (total 12 TNuts and screws should be used).
+17. Take **QTY (6) TPU Feet** and install **QTY (2) M5 TNut** and **QTY (2) M5x10 Button Head Screw** into EACH foot (total 12 TNuts and screws should be used).
 
 .. image:: ../static/Frame/WIPF.png
     :align: center 
@@ -139,7 +147,7 @@ Step-by-Step Instructions:
 .. image:: ../static/Frame/WIPF.png
     :align: center 
 
-19. Repeat Step 15. You should now have the top of the frame.
+19. Repeat Step 15, 15a, 15b. You should now have the top of the frame.
 
 .. image:: ../static/Frame/WIPF.png
     :align: center 
@@ -532,21 +540,22 @@ Magnet Frame Inserts
 
 Required Materials:
 ^^^^^^^^^^^^^^^^^^^
-* (QTY 14) Magnet Frame Insert 
-* (QTY 14) 12x5x2mm Rare Earth Magnet Bar 
+* (QTY 10) Magnet Frame Insert 
+* (QTY 10) 12x5x2mm Rare Earth Magnet Bar 
 
 .. image:: ../static/WIP.png
     :align: center  
 
 Step-by-Step Instructions:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
+**NOTE: Wear gloves while doing this so super glue does not contact your skin. Also, ENSURE the magnets are all in the same polarity as the panels**
 
-1. Slide **QTY (1) 12x5x2mm Rare Earth Magnet Bar** into the slot of **QTY (1) Magnet Frame Insert**.
+1. Place a dab of super glue into the crevice of **QTY (1) Magnet Frame Insert**. Place **QTY (1) 12x5x2mm Rare Earth Magnet Bar** on top of the crevice to bond the magnet.
 
 .. image:: ../static/Frame/WIPF.png
     :align: center 
 
-2. Repeat Step 1 thirteen more times. You should have 14 of these assemblies total.
+2. Repeat Step 1 nine more times. You should have 10 of these assemblies total.
 
 .. image:: ../static/Frame/WIPF.png
     :align: center 
@@ -561,9 +570,4 @@ Step-by-Step Instructions:
 .. image:: ../static/Frame/WIPF.png
     :align: center 
 
-5. With respect to the BACK of the frame, slide in QTY 4 of the assembly from Step 2. See the following locations below.
-
-.. image:: ../static/Frame/WIPF.png
-    :align: center 
-
-6. The Magnet Frame Insert Subassembly is now complete.
+5. The Magnet Frame Insert Subassembly is now complete.
