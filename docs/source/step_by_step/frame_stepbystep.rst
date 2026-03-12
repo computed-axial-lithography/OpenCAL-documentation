@@ -444,7 +444,7 @@ Required Materials:
 * (QTY 4) M3x4x5 Heat Set Insert 
 * (QTY 4) M3x6 Button Head Screw 
 
-.. image:: ../static/WIP.png
+.. image:: ../static/Step_by_Step/Frame_Subassemblies/Top_Projector_Panel/top-projector-materials.jpg
     :align: center 
 
 Required Tools:
@@ -453,7 +453,7 @@ Required Tools:
 * M2 Hex Key
 * Super Glue
 
-.. image:: ../static/WIP.png
+.. image:: ../static/Step_by_Step/Frame_Subassemblies/LCD_Panel/LCD-tools.JPG
     :align: center 
 
 Step-by-Step Instructions:
@@ -462,47 +462,50 @@ Step-by-Step Instructions:
 
 #. Lay a **QTY (1) Magnet Holders** on the flat end. Add a drop of super glue into the center box. Carefully place **QTY (1) 12x5x2mm Rare Earth Magnet Bar** in the center box. Wait ~ 2 mintues for cure.
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Top_Projector_Panel/
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/LCD_Panel/LCD-1.JPG
+       :align: center 
+
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/LCD_Panel/LCD-1-2.JPG
        :align: center 
 
 #. After cure, place another drop of super glue on top of the magnet from Step 1. Carefully place another **QTY (1) 12x5x2mm Rare Earth Magnet Bar** in the same orientation on top of the previous magnet (ensure that the magnets are in the same polar orientation and are aligned with each other).
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Top_Projector_Panel/
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/LCD_Panel/LCD-2.JPG
+       :align: center 
+
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/LCD_Panel/LCD-2-2.JPG
        :align: center 
 
 #. Repeat Steps 1 & 2 three more times. You should have 4 of these assemblies total.
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Top_Projector_Panel/
-       :align: center 
-
 #. Insert **QTY (2) M3x4x5 Heat Set Insert** into each of the holes on the back of **QTY (1) Panel Handle** using a soldering iron. To the best of your ability, ensure the heat inserts are straight.
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Top_Projector_Panel/
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/LCD_Panel/LCD-4.JPG
        :align: center 
 
 #. Repeat Step 4 one more time. You should have 2 handles with installed inserts.
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Top_Projector_Panel/
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/LCD_Panel/LCD-5.JPG
        :align: center 
 
 #. Add a couple dabs of super glue around the panel interface of the magnet holders (seen below). Press it into the top left of the **QTY (1) Top Projector Panel** (from the front of the panel-- small hole is on the left, big hole is on the right) at the designated location. Add more pressure to ensure a flush fit.
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Top_Projector_Panel/
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Top_Projector_Panel/top-projector-6.jpg
        :align: center 
 
 #. Repeat Step 6 three more times with the remaining assemblies from Step 3 at each of the corners of the panel. Ensure all magnets are facing the correct way (right-side up CAL logo).
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Top_Projector_Panel/
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Top_Projector_Panel/top-projector-7.jpg
        :align: center 
 
 #. Install the **QTY (2) Panel Handle Assemblies** from Step 5 by screwing them in with **QTY (4) M3x6 Button Head Screws** in the following locations. 
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Top_Projector_Panel/
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Top_Projector_Panel/top-projector-8.jpg
        :align: center 
 
 #. The Top Projector Panel subassembly is now complete.
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Top_Projector_Panel/
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Top_Projector_Panel/top-projector-9.jpg
        :align: center
 
 ----
