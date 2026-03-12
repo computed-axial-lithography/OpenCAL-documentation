@@ -21,6 +21,8 @@ The frame consists of the following subassemblies:
 
 * Side Vial Panel
 
+* Bottom Panels
+
 * Magnet Frame Inserts
 
 **NOTE:** The Aluminum Extrusion Frame is the most critical subassembly. This is the very first thing that should be built for OpenCAL. The other subassemblies can be created and installed at any point.
@@ -725,6 +727,44 @@ Step-by-Step Instructions:
 #. The Side Vial Panel subassembly is now complete.
 
    .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/
+       :align: center 
+
+----
+
+Bottom Panels
+==============
+
+----
+
+.. image:: ../static/Frame/WIPF.png
+    :align: center
+
+Required Materials:
+^^^^^^^^^^^^^^^^^^^
+* (QTY 2) Bottom Panel
+* (QTY 12) M5x8 Button Head Screws
+* (QTY 12) M5 Hammer TNut  
+
+.. image:: ../static/Step_by_Step/Frame_Subassemblies/Top_Vial_Panel/top-vial-materials.jpg
+    :align: center
+
+Required Tools:
+^^^^^^^^^^^^^^^
+No Tools Required.
+
+
+Step-by-Step Instructions:
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+**NOTE 1: Ensure all Hammer TNuts are in the correct orientation (wide end on bottom).**
+
+#. Place **QTY (6) M5x8 Button Head Screw** through each of the holes on the **QTY (1) Bottom Panel** from the front (choose one side, panel is symmetrical). Loosely install **QTY (6) M5 Hammer TNut** on the opposite ends.
+
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Top_Vial_Panel/top-vial-1.jpg
+       :align: center 
+
+#. Repeat Step 1 one more time. The Bottom Panels subassembly is now complete.
+
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Top_Vial_Panel/top-vial-2.jpg
        :align: center 
 
 ----
