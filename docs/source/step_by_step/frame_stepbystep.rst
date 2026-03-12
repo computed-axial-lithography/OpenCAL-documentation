@@ -9,9 +9,15 @@ The frame consists of the following subassemblies:
 
 * Back Projector Panel
 
+* Side Projector Panel
+
 * Top Projector Panel
 
 * Door
+
+* Back Vial Panel
+
+* Side Vial Panel
 
 * Magnet Frame Inserts
 
@@ -22,6 +28,7 @@ The frame consists of the following subassemblies:
 Aluminum Extrusion Frame
 ========================
 
+----
 
 .. image:: ../static/Frame/Frame.png
    :align: center 
@@ -50,7 +57,7 @@ Required Tools:
 
 Step-by-Step Instructions:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
-**NOTE: All fasteners will be "hand tight". ENSURE all TNuts are in the correct orientation (screw goes into flanged end).**
+**NOTE: All fasteners will be "hand tight". ENSURE all TNuts are in the correct orientation (screw goes into flanged end). ENSURE all the sides of the 90 deg gussets are flush with their respective aluminum extrusions -- this may need to be done after the rail positions are locked.**
 
 #. Layout all of the required materials and tools.
 
@@ -114,7 +121,7 @@ Step-by-Step Instructions:
    .. image:: ../static/Frame/WIPF.png
        :align: center 
 
-#. Take QTY (1) of the assemblies from **Step 10** and slide it from the same point in between the **QTY (2) 65 cm Aluminum Extrusion** ~300mm from the rail in **Step 13** (front rail to front rail) in the following configuration:
+#. Take QTY (1) of the assemblies from **Step 10** and slide it from the same point in between the **QTY (2) 65 cm Aluminum Extrusion** ~260mm from the rail in **Step 13** (front rail to front rail) in the following configuration. You may need to loosen the brackets from the previous two steps to slide it in. This rail location is temporary and will be changed in main assembly.
 
    .. image:: ../static/Frame/WIPF.png
        :align: center 
@@ -126,12 +133,17 @@ Step-by-Step Instructions:
 
 #. Refer to the "Magnet Frame Insert" Subassembly to make **QTY (2) Magnet Frame Insert**.
 
-#. Pull out the rail from **Step 15** so that the back railing is exposed, slide in **QTY (2) Magnet Frame Insert**. Slide the rail back to the end and tighten it.
+#. Pull out the rail from **Step 15** so that the back railing is exposed, slide in **QTY (2) Magnet Frame Insert**. Slide the rail back to be flush with the end and tighten it.
 
    .. image:: ../static/Frame/WIPF.png
        :align: center 
 
-#. You should now have the bottom of the frame. Repeat Steps 12 & 13 with the remaining **QTY (2) 65 cm Aluminum Extrusion**.
+#. You should now have the bottom of the frame. 
+
+   .. image:: ../static/Frame/WIPF.png
+       :align: center 
+
+#. Repeat Steps 12, 13, 15, 16, & 17 with the remaining **QTY (2) 65 cm Aluminum Extrusion**.
 
    .. image:: ../static/Frame/WIPF.png
        :align: center 
@@ -141,12 +153,12 @@ Step-by-Step Instructions:
    .. image:: ../static/Frame/WIPF.png
        :align: center 
 
-#. Take these assemblies and slide 3 of them on the bottom of each of the **QTY (2) 65 cm Aluminum Extrusion** from the bottom frame assembly. Two of the feet should go on each end and one should be near the center. Fasten these feet down.
+#. Take these assemblies and slide 3 of them on the bottom (will need to flip the bottom frame) of each of the **QTY (2) 65 cm Aluminum Extrusion** from the **Bottom Frame Assembly** made in Step 18. Two of the feet should go on each end and one should be near the center. Fasten these feet down.
 
    .. image:: ../static/Frame/WIPF.png
        :align: center 
 
-#. Repeat Step 15. You should now have the top of the frame.
+#. You should now have the top and bottom of the frame.
 
    .. image:: ../static/Frame/WIPF.png
        :align: center 
@@ -156,12 +168,12 @@ Step-by-Step Instructions:
    .. image:: ../static/Frame/WIPF.png
        :align: center 
 
-#. Take QTY (6) of the assembly from Step 5 and, from the top down, vertically slide them into the following configuration:
+#. Take QTY (6) of the assembly from Step 5 and, from the top down, vertically slide them into the **Bottom Frame** (top down) in the following configuration.
 
    .. image:: ../static/Frame/WIPF.png
        :align: center 
 
-#. Slide the M5 TNuts from Step 20 under each of the **QTY (6) 90 deg Corner Gussets** and fasten down with **QTY (6) M5x8 Button Head Screw**. 
+#. Slide the M5 TNuts from Step 23 under each of the **QTY (6) 90 deg Corner Gussets** and fasten down with **QTY (6) M5x8 Button Head Screw**. Also fasten the side fasteners that the vertical rail slides into. Loosen and tighten the brackets so that the vertical rails are flush (by touch) with the railings on each side.
 
    .. image:: ../static/Frame/WIPF.png
        :align: center 
@@ -171,12 +183,12 @@ Step-by-Step Instructions:
    .. image:: ../static/Frame/WIPF.png
        :align: center 
 
-#. Slide the M5 TNuts from Step 20 under each of the **QTY (6) 90 deg Corner Gussets** and fasten down with **QTY (6) M5x8 Button Head Screw**. 
+#. Slide the M5 TNuts from Step 23 under each of the **QTY (6) 90 deg Corner Gussets** and fasten down with **QTY (6) M5x8 Button Head Screw**. You will not be able to slide the M5 TNuts through the corner brackets due to the little locater knobs on them. You may need to loosen the corner brackets, bring it down, align the TNut, and bring it back up and tighten.
 
    .. image:: ../static/Frame/WIPF.png
        :align: center 
 
-#. The Aluminum Extrusion Frame is now complete.
+#. Ensure all railing and 90 deg corner brackets are flush with each other. Ensure all fasteners are completely hand tight. The Aluminum Extrusion Frame is now complete.
 
    .. image:: ../static/Frame/WIPF.png
        :align: center 
@@ -186,14 +198,16 @@ Step-by-Step Instructions:
 LCD Panel
 =========
 
+----
 
 .. image:: ../static/Frame/WIPF.png
     :align: center 
 
 Required Materials:
 ^^^^^^^^^^^^^^^^^^^
+**NOTE: The Magnet Holders have been already glued in & the Heat Inserts have already been installed.**
+
 * (QTY 1) LCD Panel
-* (QTY 1) Super Glue
 * (QTY 8) 12x5x2mm Rare Earth Magnet Bars 
 * (QTY 4) Magnet Holder 
 * (QTY 2) Panel Handle 
@@ -206,14 +220,17 @@ Required Materials:
 Required Tools:
 ^^^^^^^^^^^^^^^
 * Soldering Iron
-* M2.5 Hex Key
+* M2 Hex/Allen Key
+* Super Glue
 
 .. image:: ../static/WIP.png
     :align: center 
 
 Step-by-Step Instructions:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
-**NOTE:** Ensure all magnets are the correct polarity. Do this by keeping the magnets together and only taking a magnet out one by one and placing them in the same orientation (same side down). If the polarities get flipped, you may need to repeat some steps.
+**NOTE 1: Ensure all magnets are the correct polarity. Do this by keeping the magnets together and only taking a magnet out one by one and placing them in the same orientation (same side down). If the polarities get flipped, you may need to repeat some steps.**
+
+**NOTE 2: The Magnet Holders had already been glued on to the panel prior to instruction writing. Images will reflect this.**
 
 #. Lay a **QTY (1) Magnet Holders** on the flat end. Add a drop of super glue into the center box. Carefully place **QTY (1) 12x5x2mm Rare Earth Magnet Bar** in the center box. Wait ~ 2 mintues for cure.
 
@@ -226,9 +243,6 @@ Step-by-Step Instructions:
        :align: center 
 
 #. Repeat Steps 1 & 2 three more times. You should have 4 of these assemblies total.
-
-   .. image:: ../static/Frame/WIPF.png
-       :align: center 
 
 #. Insert **QTY (2) M3x4x5 Heat Set Insert** into each of the holes on the back of **QTY (1) Panel Handle** using a soldering iron. To the best of your ability, ensure the heat inserts are straight.
 
@@ -260,19 +274,56 @@ Step-by-Step Instructions:
    .. image:: ../static/Frame/WIPF.png
        :align: center 
 
+
 ----
 
 Back Projector Panel
+=========
+
+----
+
+.. image:: ../static/Frame/WIPF.png
+    :align: center
+
+Required Materials:
+^^^^^^^^^^^^^^^^^^^
+* (QTY 1) Back Projector Panel
+* (QTY 7) M5x8 Button Head Screws
+* (QTY 7) M5 Hammer TNut  
+
+Required Tools:
+^^^^^^^^^^^^^^^
+No Tools Required.
+
+
+Step-by-Step Instructions:
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+**NOTE 1: Ensure all Hammer TNuts are in the correct orientation (wide end on bottom).**
+
+#. Place **QTY (7) M5x8 Button Head Screw** through each of the holes on the **QTY (1) Back Projector Panel** from the front (face with logo). Loosely install **QTY (7) M5 Hammer TNut** on the opposite ends.
+
+   .. image:: ../static/Frame/WIPF.png
+       :align: center 
+
+#. The Back Projector Panel subassembly is now complete.
+
+   .. image:: ../static/Frame/WIPF.png
+       :align: center 
+
+
+----
+
+Side Projector Panel
 ====================
 
+----
 
 .. image:: ../static/WIP.png
     :align: center 
 
 Required Materials:
 ^^^^^^^^^^^^^^^^^^^
-* (QTY 1) Back Projector Panel
-* (QTY 1) Super Glue
+* (QTY 1) Side Projector Panel
 * (QTY 8) 12x5x2mm Rare Earth Magnet Bars 
 * (QTY 4) Magnet Holder 
 * (QTY 2) Panel Handle 
@@ -285,16 +336,19 @@ Required Materials:
 Required Tools:
 ^^^^^^^^^^^^^^^
 * Soldering Iron
-* M2.5 Hex Key
+* M2 Hex Key
+* Super Glue
 
 .. image:: ../static/WIP.png
     :align: center 
 
 Step-by-Step Instructions:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
-**NOTE:** Ensure all magnets are the correct polarity. Do this by keeping the magnets together and only taking a magnet out one by one and placing them in the same orientation (same side down). If the polarities get flipped, you may need to repeat some steps.
+**NOTE 1: Ensure all magnets are the correct polarity. Do this by keeping the magnets together and only taking a magnet out one by one and placing them in the same orientation (same side down). If the polarities get flipped, you may need to repeat some steps.**
 
-#. Lay a **QTY (1) Magnet Holders** on the flat end. Add a drop of super glue into the center box. Carefully place **QTY (1) 12x5x2mm Rare Earth Magnet Bar** in the center box. Wait ~ 2 mintues for cure.
+**NOTE 2: The Magnet Holders had already been glued on to the panel prior to instruction writing. Images will reflect this.**
+
+#. Lay a **QTY (1) Magnet Holder** on the flat end. Add a drop of super glue into the center box. Carefully place **QTY (1) 12x5x2mm Rare Earth Magnet Bar** in the center box. Wait ~ 2 mintues for cure.
 
    .. image:: ../static/Frame/WIPF.png
        :align: center 
@@ -319,7 +373,7 @@ Step-by-Step Instructions:
    .. image:: ../static/Frame/WIPF.png
        :align: center 
 
-#. Add a couple dabs of super glue around the panel interface of the magnet holders (seen below). Press it into the top left of the **QTY (1) Back Projector Panel** (from the front of the panel) at the designated location. Add more pressure to ensure a flush fit.
+#. Add a couple dabs of super glue around the panel interface of the magnet holders (seen below). Press it into the top left of the **QTY (1) Side Projector Panel** (from the front of the panel) at the designated location. Add more pressure to ensure a flush fit.
 
    .. image:: ../static/Frame/WIPF.png
        :align: center 
@@ -334,7 +388,7 @@ Step-by-Step Instructions:
    .. image:: ../static/Frame/WIPF.png
        :align: center 
 
-#. The Back Projector Panel subassembly is now complete.
+#. The Side Projector Panel subassembly is now complete.
 
    .. image:: ../static/Frame/WIPF.png
        :align: center 
@@ -344,12 +398,14 @@ Step-by-Step Instructions:
 Top Projector Panel
 ===================
 
+----
+
 .. image:: ../static/WIP.png
     :align: center 
 
 Required Materials:
 ^^^^^^^^^^^^^^^^^^^
-* (QTY 1) Back Projector Panel
+* (QTY 1) Top Projector Panel
 * (QTY 1) Super Glue
 * (QTY 8) 12x5x2mm Rare Earth Magnet Bars 
 * (QTY 4) Magnet Holder 
@@ -422,6 +478,7 @@ Step-by-Step Instructions:
 Door
 =========
 
+----
 
 .. image:: ../static/WIP.png
     :align: center 
@@ -522,11 +579,85 @@ Step-by-Step Instructions:
    .. image:: ../static/Frame/WIPF.png
        :align: center 
 
+
+----
+
+Back Vial Panel
+=========
+
+----
+
+.. image:: ../static/Frame/WIPF.png
+    :align: center
+
+Required Materials:
+^^^^^^^^^^^^^^^^^^^
+* (QTY 1) Back Vial Panel
+* (QTY 4) M5x8 Button Head Screws
+* (QTY 4) M5 Hammer TNut  
+
+Required Tools:
+^^^^^^^^^^^^^^^
+No Tools Required.
+
+
+Step-by-Step Instructions:
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+**NOTE 1: Ensure all Hammer TNuts are in the correct orientation (wide end on bottom).**
+
+#. Place **QTY (7) M5x8 Button Head Screw** through each of the holes on the **QTY (1) Back Vial Panel** from the front (face with logo). Loosely install **QTY (7) M5 Hammer TNut** on the opposite ends.
+
+   .. image:: ../static/Frame/WIPF.png
+       :align: center 
+
+#. The Back Vial Panel subassembly is now complete.
+
+   .. image:: ../static/Frame/WIPF.png
+       :align: center 
+
+
+----
+
+Side Vial Panel
+=========
+
+----
+
+.. image:: ../static/Frame/WIPF.png
+    :align: center
+
+Required Materials:
+^^^^^^^^^^^^^^^^^^^
+* (QTY 1) Back Vial Panel
+* (QTY 4) M5x8 Button Head Screws
+* (QTY 4) M5 Hammer TNut  
+
+Required Tools:
+^^^^^^^^^^^^^^^
+No Tools Required.
+
+
+Step-by-Step Instructions:
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+**NOTE 1: Ensure all Hammer TNuts are in the correct orientation (wide end on bottom).**
+
+#. Place **QTY (7) M5x8 Button Head Screw** through each of the top and bottom corner holes on the **QTY (1) Side Vial Panel** from the front (face with logo). Loosely install **QTY (7) M5 Hammer TNut** on the opposite ends.
+
+   .. image:: ../static/Frame/WIPF.png
+       :align: center 
+
+#. The Side Vial Panel subassembly is now complete.
+
+   .. image:: ../static/Frame/WIPF.png
+       :align: center 
+
+
 ----
 
 Magnet Frame Inserts
 ====================
 
+----
 
 .. image:: ../static/Frame/WIPF.png
     :align: center 
