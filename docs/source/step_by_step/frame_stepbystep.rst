@@ -337,7 +337,7 @@ Step-by-Step Instructions:
 
 ----
 
-Back Projector Panel
+Side Projector Panel
 ====================
 
 ----
