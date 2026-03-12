@@ -8,9 +8,7 @@ The rotational element consists of the following subassemblies:
 
 * Small Vial
 
-* Front Base Plate
-
-* Back Base Plate 
+* Side Base Plates
 
 * Front Top Plate
 
@@ -178,7 +176,7 @@ Step-by-Step Instructions:
 
 ----
 
-Front Base Plate
+Side Base Plates
 ================
 
 ----
@@ -188,9 +186,9 @@ Front Base Plate
 
 Required Materials:
 ^^^^^^^^^^^^^^^^^^^
-* (QTY 1) Front Base Plate
-* (QTY 2) M5x8 Button Head Screw
-* (QTY 2) M5 Hammer TNut
+* (QTY 2) Side Base Plate
+* (QTY 4) M5x8 Button Head Screw
+* (QTY 4) M5 Hammer TNut
 
 .. image:: ../static/WIP.png
     :align: center 
@@ -202,15 +200,16 @@ No Tools Required.
 Step-by-Step Instructions:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1. Take **QTY (1) Front Base Plate** and place **QTY (2) M5x8 Button Head Screw** from the top in the counterbored holes. Loosely install **QTY (2) M5 Hammer TNut** on the opposite end of each fastener.
+1. Take **QTY (1) Side Base Plate** and place **QTY (2) M5x8 Button Head Screw** from the top in the counterbored holes. Loosely install **QTY (2) M5 Hammer TNut** on the opposite end of each fastener.
 
 .. image:: ../static/WIP.png
     :align: center 
 
-2. The Front Base Plate is now complete.
+2. Repeat Step 1 one more time. The Side Base Plates subassembly is now complete.
 
 .. image:: ../static/WIP.png
     :align: center 
+
 
 ----
 
