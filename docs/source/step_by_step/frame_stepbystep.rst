@@ -153,7 +153,7 @@ Step-by-Step Instructions:
 
 #. Repeat Steps 12, 13, 15, 16, & 17 with the remaining **QTY (2) 65 cm Aluminum Extrusion**.
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Aluminum_Extrusion_Frame/frame-18b.jpg
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Aluminum_Extrusion_Frame/Frame-18b.jpg
        :align: center 
 
 #. Take **QTY (6) TPU Feet** and install **QTY (2) M5 TNut** and **QTY (2) M5x8 Button Head Screw** into EACH foot (total 12 TNuts and screws should be used).
@@ -166,7 +166,10 @@ Step-by-Step Instructions:
 
 #. Take these assemblies and slide 3 of them on the bottom of each of the **QTY (2) 65 cm Aluminum Extrusion** from the bottom frame assembly. Two of the feet should go on each end and one should be near the center. Fasten these feet down.
 
-   .. image:: ../static/Frame/WIPF.png
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Aluminum_Extrusion_Frame/Frame-20.jpg
+       :align: center 
+
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Aluminum_Extrusion_Frame/Frame-20-2.jpg
        :align: center 
 
 #. You should now have the top and bottom of the frame.
