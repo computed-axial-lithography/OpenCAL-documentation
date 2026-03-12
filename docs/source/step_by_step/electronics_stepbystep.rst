@@ -14,6 +14,8 @@ The electronics consists of the following subassemblies:
 
 * Camera Mount
 
+* Switch
+
 **NOTE:** This is ONLY for electronic mounting. Wiring will occur in another page.
 
 ----
@@ -21,6 +23,7 @@ The electronics consists of the following subassemblies:
 Bottom Plate
 ================
 
+----
 
 .. image:: ../static/WIP.png
     :align: center 
@@ -108,6 +111,7 @@ Step-by-Step Instructions
 Top Plate
 ================
 
+----
 
 .. image:: ../static/WIP.png
     :align: center 
@@ -175,6 +179,7 @@ Step-by-Step Instructions
 LCD Housing
 ================
 
+----
 
 .. image:: ../static/WIP.png
     :align: center 
@@ -239,6 +244,7 @@ NOTE: This will fix the encoder to the top lid. When moving the LCD Enclosure on
 19V Converter Assembly
 ======================
 
+----
 
 .. image:: ../static/WIP.png
     :align: center 
@@ -285,6 +291,7 @@ Ensure the fastener comes from the side with the buck converter and the washer i
 Raspberry Pi Housing
 ====================
 
+----
 
 .. image:: ../static/WIP.png
     :align: center 
@@ -396,6 +403,7 @@ Step-by-Step Instructions
 Camera Mount
 ================
 
+----
 
 .. image:: ../static/WIP.png
     :align: center 
@@ -407,8 +415,7 @@ Required Materials:
 * (QTY 1) CSI to HDMI Adapter
 * (QTY 4) M5x8 Button Head Screw
 * (QTY 4) M5 Hammer TNut
-* (QTY 8) M2xX Button Head Screw
-* (QTY 8) M2 Hex Nut
+* (QTY 16) M2x6 Button Head Screw
 * (QTY 4) M2x6 Standoff
 * (QTY 4) M2x10 Standoff
 
@@ -426,6 +433,73 @@ Step-by-Step Instructions
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 **NOTE: Unless otherwised mentioned, all fasteners will be "hand tight".**
 
-1. The flat side of the camera mount is the "back". 
+**NOTE: The flat side of the camera mount is the "back" (without the counterbores).**
 
-NEED TO FINISH THIS SECTION
+1. Install **QTY (4) M2x6 Standoff** to the bottom of the **QTY (1) Raspberry Pi Camera** using **QTY (4) M2x6 Button Head Screw**. The screw should go from the camera to the standoff.
+
+    .. image:: ../static/WIP.png
+        :align: center
+
+2. Install the assembly from Step 1 into the '1' section using **QTY (4) M2x6 Button Head Screw** from the opposite end (with respect to the front--see image below). Ensure the camera ribbon cable goes to the left of the '1'.
+
+    .. image:: ../static/WIP.png
+        :align: center
+
+3. Install **QTY (4) M2x10 Standoff** to the bottom of **QTY (1) CSI to HDMI Adapter** using **QTY (4) M2x6 Button Head Screw**. The screw should go from the adapter to the standoff.
+
+    .. image:: ../static/WIP.png
+        :align: center
+
+4. Install the assembly from Step 3 into the '2' section using **QTY (4) M2x6 Button Head Screw** from the opposite end (with respect to the front--see image below). Ensure the hdmi port faces the right of the '2'.
+
+    .. image:: ../static/WIP.png
+        :align: center
+    
+5. Insert **QTY (4) M5x10 Button Head Screw** from the top on each of the side mounting points as shown below. Loosely install **QTY (4) M5 Hammer TNut** on the opposite end of each fastener.
+
+    .. image:: ../static/WIP.png
+        :align: center
+    
+6. The Camera Mount subassembly is now complete.
+
+    .. image:: ../static/WIP.png
+        :align: center
+
+
+----
+
+Switch
+====================
+
+----
+
+.. image:: ../static/WIP.png
+    :align: center 
+
+Required Materials:
+^^^^^^^^^^^^^^^^^^^
+* (QTY 1) Side Projector Panel subassembly
+* (QTY 1) Switch
+* (QTY 2) M3x10 Button Head Screw
+* (QTY 2) M3 Hex Nut
+
+.. image:: ../static/WIP.png
+    :align: center 
+
+Required Tools:
+^^^^^^^^^^^^^^^
+* M2 Hex/Allen Key
+
+.. image:: ../static/WIP.png
+    :align: center 
+
+Step-by-Step Instructions
+^^^^^^^^^^^^^^^^^^^^^^^^^
+**NOTE: Unless otherwised mentioned, all fasteners will be "hand tight". The Side Projector Panel subassembly needs to be completed prior to this.**
+
+#. Place the **QTY (1) Switch** from the front of the **QTY (1) Side Projector Panel subassembly** in the position below. Ensure the switch is on the left and plug is on the right. Install using **QTY (2) M3x10 Button Head Screw** and **QTY (2) M3 Hex Nut** from the opposite side.
+
+    .. image:: ../static/WIP.png
+        :align: center 
+
+#. The Switch subassembly is complete

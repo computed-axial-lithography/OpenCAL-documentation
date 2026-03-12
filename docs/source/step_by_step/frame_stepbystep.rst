@@ -53,8 +53,8 @@ Required Materials:
 
 Required Tools:
 ^^^^^^^^^^^^^^^
-* M3 Hex Key (recommended)
-* M3 Allen Wrench
+* M3 Hex/Allen Key
+* Metric Measuring Tape
 
 .. image:: ../static/Step_by_Step/Frame_Subassemblies/Aluminum_Extrusion_Frame/Frame-tools.jpg
    :align: center 
@@ -797,22 +797,14 @@ Step-by-Step Instructions:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 **NOTE: Wear gloves while doing this so super glue does not contact your skin. Also, ENSURE the magnets are all in the same polarity as the panels**
 
+**NOTE: These Magnet Frame Inserts will be installed after the printer is completed so that they do not fall out and get lost.**
+
 #. Place a dab of super glue into the crevice of **QTY (1) Magnet Frame Insert**. Place **QTY (1) 12x5x2mm Rare Earth Magnet Bar** on top of the crevice to bond the magnet.
 
    .. image:: ../static/Step_by_Step/Frame_Subassemblies/Magnet_Frame_Inserts/
        :align: center 
 
-#. Repeat Step 1 nine more times. You should have 10 of these assemblies total.
-
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Magnet_Frame_Inserts/
-       :align: center 
-
-#. With respect to the FRONT of the frame, slide in QTY 6 of the assembly from Step 2. See the following locations below.
-
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Magnet_Frame_Inserts/
-       :align: center 
-
-#. With respect to the TOP of the frame, slide in QTY 4 of the assembly from Step 2. See the following locations below.
+#. Repeat Step 1 nine more times. You should have 10 of these assemblies total. 
 
    .. image:: ../static/Step_by_Step/Frame_Subassemblies/Magnet_Frame_Inserts/
        :align: center 
