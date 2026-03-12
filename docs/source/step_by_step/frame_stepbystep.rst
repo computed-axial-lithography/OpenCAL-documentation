@@ -528,15 +528,16 @@ Required Materials:
 * (QTY 2) Magnet Holder 
 * (QTY 4) 12x5x2mm Rare Earth Magnet Bars 
 * (QTY 1) M3x6x5 Heat Set Insert 
-* (QTY 1) M3x10 Button Head Screw 
+* (QTY 1) M3x8 Button Head Screw 
 * (QTY 2) Short Hinge 
 * (QTY 2) Long Hinge 
 * (QTY 2) Hinge Pin 
-* (QTY 8) M5x8 Button Head Screw 
+* (QTY 4) M5x8 Button Head Screw 
+* (QTY 4) M5x10 Button Head Screw 
 * (QTY 4) M5 Hex Nut/M5 TNut 
 * (QTY 4) M5 Hammer TNut 
 * (QTY 1) Door Handle
-* (QTY 1) Door Handle Washer
+* (QTY 1) M3 Washer
 
 .. image:: ../static/WIP.png
     :align: center 
@@ -553,9 +554,7 @@ Required Tools:
 
 Step-by-Step Instructions:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
-**NOTE 1: Ensure all magnets are the correct polarity. Do this by keeping the magnets together and only taking a magnet out one by one and placing them in the same orientation (same side down). If the polarities get flipped, you may need to repeat some steps.**
-
-**NOTE 2: The Heat Set Insert has already been installed to the Door Handle. Images will reflect this.**
+**NOTE: The Heat Set Insert and Magnets have already been installed to the Door Handle and Magnet Holders Respectively. Images will reflect this.**
 
 #. Align **QTY (1) Short Hinge** with **QTY (1) Long Hinge** with the short hinge on the left and long hinge on the right. Ensure it is in the following orientation:
 
@@ -577,7 +576,7 @@ Step-by-Step Instructions:
    .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/
        :align: center
 
-#. Align the holes of the **QTY (2) Long Hinge** part of the assembly with the corresponding holes in the FRONT of the **QTY (1) Door panel**. The front of the panel is designated as the side with the hinge holes on the left and handle hole on the right.
+#. Align the holes of the **QTY (2) Long Hinge** part of the assembly with the corresponding holes in the FRONT of the **QTY (1) Door panel**. Install using **QTY (4) M3x10 Button Head Screw** and **QTY (4) M5 Hex Nut/TNut**. The front of the panel is designated as the side with the hinge holes on the left and handle hole on the right.
 
    .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/
        :align: center
@@ -587,7 +586,7 @@ Step-by-Step Instructions:
    .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/
        :align: center
 
-#. Install the assembly from Step 6 with **QTY (1) M3x6 Button Head Screw** from the back. The handle should be on the right side.
+#. Install the assembly from Step 6 with **QTY (1) M3x8 Button Head Screw** and **QTY (1) M3 Washer** from the back. The handle should be on the right side.
 
    .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/
        :align: center

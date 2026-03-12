@@ -14,8 +14,6 @@ The electronics consists of the following subassemblies:
 
 * Camera Mount
 
-* Stepper Motor
-
 **NOTE:** This is ONLY for electronic mounting. Wiring will occur in another page.
 
 ----
@@ -29,15 +27,19 @@ Bottom Plate
 
 Required Materials:
 ^^^^^^^^^^^^^^^^^^^
+**NOTE: Heat Set Insert has already been installed into the Bottom Plates.**
+
 * (QTY 1) Bottom Plate 1
 * (QTY 1) Bottom Plate 2
 * (QTY 1) 24V Power Supply
 * (QTY 1) 5V Buck Converter
 * (QTY 1) Terminal Block
-* (QTY 4) M2xX Standoffs 
-* (QTY 4) M2xX Button Head Screw
+* (QTY 3) M2x10 Standoffs 
+* (QTY 6) M2x6 Button Head Screw
 * (QTY 8) M3x4x5 Heat Set Insert
-* (QTY 8) M3xX Button Head Screw
+* (QTY 8) M3x6 Button Head Screw
+* (QTY 4) M5x10 Button Head Screw
+* (QTY 4) M5 Hammer TNut
 
 .. image:: ../static/WIP.png
     :align: center 
@@ -45,8 +47,8 @@ Required Materials:
 Required Tools:
 ^^^^^^^^^^^^^^^
 * Soldering Iron
-* M2.5 Hex/Allen Key
-* M1.5 Hex/Allen Key
+* M2 Hex/Allen Key
+* Small Phillips Driver (+1.5)
 
 .. image:: ../static/WIP.png
     :align: center 
@@ -65,32 +67,37 @@ Step-by-Step Instructions
 .. image:: ../static/WIP.png
     :align: center 
 
-3. Flip the **QTY (1) Bottom Plate 1** and align it with **QTY (1) Bottom Plate 2**. Fasten down the plates using **QTY (4) M3xX Button Head Screw** using a M2.5 Hex/Allen Key.
+3. Flip the **QTY (1) Bottom Plate 1** and align it with **QTY (1) Bottom Plate 2**. Fasten down the plates using **QTY (4) M3x6 Button Head Screw** using a M2.5 Hex/Allen Key.
 
 .. image:: ../static/WIP.png
     :align: center 
 
-4. In the '1' area, install **QTY (4) M2xX Standoffs** by placing it in the designated locations and screwing them in with **QTY (4) M2xX Button Head Screw** on the opposite end of the Bottom Plate 1.
+4. Install **QTY (1) 5V Buck Converter** onto **QTY (3) M2x10 Standoff** using **QTY (3) M2x6 Button Head Screws** from the front (screws should be going from converter to standoffs).
 
 .. image:: ../static/WIP.png
     :align: center 
 
-5. Take the **QTY (1) 5V Buck Converter** and install it in section '1', on top of the standoffs installed in Step 4 using **QTY (4) M2xX Button Head SCrew**. Ensure that it is orientated where the wires are coming out on the left of the '1'.
+5. In the '1' area, install the assembly from Step 4 by placing it in the designated locations and screwing them in with **QTY (3) M2x6 Button Head Screw** on the opposite end of the Bottom Plate 1. Ensure that it is orientated where the wires are coming out on the left of the '1'.
 
 .. image:: ../static/WIP.png
     :align: center 
 
-6. Take the **QTY (1) Terminal Block** and install it in section '2' using **QTY (4) M3xX Button Head Screw**. Ensure that it is orientated where the wires are coming out on the left of the '2'.
+6. Take the **QTY (1) Terminal Block** and install it in section '2' using **QTY (4) M3x6 Button Head Screw**. Ensure that it is orientated where the AB screw terminals are facing the 5V Buck converter (see image below).
 
 .. image:: ../static/WIP.png
     :align: center 
 
-7. Take the **QTY (1) 24V Power Supply** and place it in section '3'. Ensure that it is orientated where the wires are coming out from the top. This will not be fixed down due to its wait.
+7. Take the **QTY (1) 24V Power Supply** and place it in section '3'. Ensure that it is orientated where the wires would be coming out from the top. This will not be fixed down due to its weight.
 
 .. image:: ../static/WIP.png
     :align: center 
 
-8. The Bottom Plate is now complete.
+8. Place **QTY (4) M5x10 Button Head Screw** through each of the holes on the **QTY (1) Bottom Plate 1** and **QTY (1) Bottom Plate 2** from the top. Loosely install **QTY (4) M5 Hammer TNut** on the opposite ends.
+
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Back_Projector_Panel/Back-2.JPG
+       :align: center 
+
+9. The Bottom Plate is now complete.
 
 .. image:: ../static/WIP.png
     :align: center 
@@ -108,12 +115,12 @@ Top Plate
 Required Materials:
 ^^^^^^^^^^^^^^^^^^^
 * (QTY 1) Back Top Plate
-* (QTY 4) M2xX Standoffs
-* (QTY 8) M2xX Button Head Screws
-* (QTY 1) Stepper Motor Circuit 
+* (QTY 4) M2x10 Standoffs
+* (QTY 8) M2x6 Button Head Screws
+* (QTY 1) Stepper Motor Circuit / Perfboard Assembly
 * (QTY 1) 12V Buck Converter 
 * (QTY 2) M3x4x5 Heat Insert
-* (QTY 2) M3xX Button Head Screw
+* (QTY 2) M3x6 Button Head Screw
 
 .. image:: ../static/WIP.png
     :align: center 
@@ -121,8 +128,9 @@ Required Materials:
 Required Tools:
 ^^^^^^^^^^^^^^^
 * Soldering Iron 
-* M2.5 Allen/Hex Key
-* M1.5 Allen/Hex Key
+* M2 Allen/Hex Key
+* Small Phillips Driver (+1.5)
+
 
 .. image:: ../static/WIP.png
     :align: center 
@@ -131,27 +139,32 @@ Step-by-Step Instructions
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 **NOTE: Unless otherwised mentioned, all fasteners will be "hand tight". Ensure that heat set inserts have ~2 minutes to cool post installation.**
 
-1. Take **QTY (2) M3x4x5mm Heat Set Insert** and, using a soldering iron, place them into the following locations on the **QTY (1) Bottom Plate 1** (in the '5' area). Ensure that the top of the heat set inserts are flush with the surfaces.
+1. Take **QTY (2) M3x4x5mm Heat Set Insert** and, using a soldering iron, place them into the following locations on the **QTY (1) Top Plate** (in the '5' area). Ensure that the top of the heat set inserts are flush with the surfaces.
 
 .. image:: ../static/WIP.png
     :align: center 
 
-2. In the '4' area, install **QTY (4) M2xX Standoffs** by placing it in the designated locations and screwing them in with **QTY (4) M2xX Button Head Screw** on the opposite end of the Back Top Plate.
+2. Install the Perfboard Assembly from the Wiring Page with the **QTY (1) Stepper Motor Circuit** onto **QTY (4) M2x10 Standoffs** using **QTY (4) M2x6 Button Head Screws** from the top (screws should be going from Perfboard Assembly to standoffs).
 
 .. image:: ../static/WIP.png
     :align: center 
 
-3. Take the **QTY (1) Stepper Motor Circuit** and install it in section '4', on top of the standoffs installed in Step 2 using **QTY (4) M2xX Button Head Screw**. Ensure that it is orientated where the wires are coming out on the top.
+3. Take the assembly from Step 2 and install it in section '4', using **QTY (4) M2x6 Button Head Screw** from the opposite end of the Top Plate. Ensure that it is orientated where the wires are coming out on the top.
 
 .. image:: ../static/WIP.png
     :align: center 
 
-4. Take **QTY (1) 12V Buck Converter** and install it in section '5', using **QTY (2) M3xX Button Head Screwn**. Ensure that it is orientated where the wires are coming out on the top.
+4. Take **QTY (1) 12V Buck Converter** and install it in section '5', using **QTY (2) M3x6 Button Head Screw**. Ensure that it is orientated where the wires are coming out on the top.
 
 .. image:: ../static/WIP.png
     :align: center 
 
-5. The Top Plate is now complete.
+5. Place **QTY (4) M5x10 Button Head Screw** through each of the holes on the **QTY (1) Top Plate** from the BOTTOM. Loosely install **QTY (4) M5 Hammer TNut** on the opposite ends.
+
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Back_Projector_Panel/Back-2.JPG
+       :align: center 
+
+6. The Top Plate is now complete.
 
 .. image:: ../static/WIP.png
     :align: center 
