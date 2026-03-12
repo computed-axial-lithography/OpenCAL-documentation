@@ -618,7 +618,7 @@ Step-by-Step Instructions:
 ----
 
 Top Vial Panel
-=========
+==============
 
 ----
 
@@ -631,6 +631,9 @@ Required Materials:
 * (QTY 4) M5x8 Button Head Screws
 * (QTY 4) M5 Hammer TNut  
 
+.. image:: ../static/Step_by_Step/Frame_Subassemblies/Top_Vial_Panel/top-vial-materials.jpg
+    :align: center
+
 Required Tools:
 ^^^^^^^^^^^^^^^
 No Tools Required.
@@ -642,12 +645,12 @@ Step-by-Step Instructions:
 
 #. Place **QTY (4) M5x8 Button Head Screw** through each of the holes on the **QTY (1) Top Vial Panel** from the front (this is NOT symmetrical--the front is when the small hole is on top of the big hole and the wider side (relative to center hole) is on the left and narrower side is on the right). Loosely install **QTY (4) M5 Hammer TNut** on the opposite ends.
 
-   .. image:: ../static/Frame/WIPF.png
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Top_Vial_Panel/top-vial-1.jpg
        :align: center 
 
 #. The Top Vial Panel subassembly is now complete.
 
-   .. image:: ../static/Frame/WIPF.png
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Top_Vial_Panel/top-vial-2.jpg
        :align: center 
 
 ----
@@ -666,6 +669,9 @@ Required Materials:
 * (QTY 4) M5x8 Button Head Screws
 * (QTY 4) M5 Hammer TNut  
 
+.. image:: ../static/Step_by_Step/Frame_Subassemblies/Back_Vial_Panel/back-vial-materials.jpg
+    :align: center
+  
 Required Tools:
 ^^^^^^^^^^^^^^^
 No Tools Required.
@@ -677,12 +683,12 @@ Step-by-Step Instructions:
 
 #. Place **QTY (7) M5x8 Button Head Screw** through each of the holes on the **QTY (1) Back Vial Panel** from the front (face with logo). Loosely install **QTY (7) M5 Hammer TNut** on the opposite ends.
 
-   .. image:: ../static/Frame/WIPF.png
+.. image:: ../static/Step_by_Step/Frame_Subassemblies/Back_Vial_Panel/back-vial-2.jpg
        :align: center 
 
 #. The Back Vial Panel subassembly is now complete.
 
-   .. image:: ../static/Frame/WIPF.png
+.. image:: ../static/Step_by_Step/Frame_Subassemblies/Back_Vial_Panel/back-vial-2.jpg
        :align: center 
 
 
