@@ -659,7 +659,7 @@ Step-by-Step Instructions:
 ----
 
 Back Vial Panel
-=========
+===============
 
 ----
 
@@ -698,7 +698,7 @@ Step-by-Step Instructions:
 ----
 
 Side Vial Panel
-=========
+===============
 
 ----
 
@@ -711,6 +711,9 @@ Required Materials:
 * (QTY 4) M5x8 Button Head Screws
 * (QTY 4) M5 Hammer TNut  
 
+.. image:: ../static/Step_by_Step/Frame_Subassemblies/Side_Vial_Panel/side-vial-materials.jpg
+    :align: center
+
 Required Tools:
 ^^^^^^^^^^^^^^^
 No Tools Required.
@@ -722,13 +725,13 @@ Step-by-Step Instructions:
 
 #. Place **QTY (4) M5x8 Button Head Screw** through each of the top and bottom corner holes on the **QTY (1) Side Vial Panel** from the front (face with logo). Loosely install **QTY (4) M5 Hammer TNut** on the opposite ends.
 
-   .. image:: ../static/Frame/WIPF.png
-       :align: center 
+.. image:: ../static/Step_by_Step/Frame_Subassemblies/Side_Vial_Panel/side-vial-1.jpg
+    :align: center
 
 #. The Side Vial Panel subassembly is now complete.
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/
-       :align: center 
+.. image:: ../static/Step_by_Step/Frame_Subassemblies/Side_Vial_Panel/side-vial-2.jpg
+    :align: center
 
 ----
 
@@ -746,7 +749,7 @@ Required Materials:
 * (QTY 12) M5x8 Button Head Screws
 * (QTY 12) M5 Hammer TNut  
 
-.. image:: ../static/Step_by_Step/Frame_Subassemblies/Top_Vial_Panel/top-vial-materials.jpg
+.. image:: ../static/Step_by_Step/Frame_Subassemblies/Bottom_Panels/bottom-panels-materials.jpg
     :align: center
 
 Required Tools:
@@ -760,13 +763,13 @@ Step-by-Step Instructions:
 
 #. Place **QTY (6) M5x8 Button Head Screw** through each of the holes on the **QTY (1) Bottom Panel** from the front (choose one side, panel is symmetrical). Loosely install **QTY (6) M5 Hammer TNut** on the opposite ends.
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Top_Vial_Panel/top-vial-1.jpg
-       :align: center 
+.. image:: ../static/Step_by_Step/Frame_Subassemblies/Bottom_Panels/bottom-panels-1.jpg
+    :align: center
 
 #. Repeat Step 1 one more time. The Bottom Panels subassembly is now complete.
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Top_Vial_Panel/top-vial-2.jpg
-       :align: center 
+.. image:: ../static/Step_by_Step/Frame_Subassemblies/Bottom_Panels/bottom-panels-2.jpg
+    :align: center
 
 ----
 
