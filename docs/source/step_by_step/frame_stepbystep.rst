@@ -524,17 +524,17 @@ Required Materials:
 ^^^^^^^^^^^^^^^^^^^
 * (QTY 1) Door Panel
 * (QTY 2) Magnet Holder 
-* (QTY 1) Super Glue
 * (QTY 4) 12x5x2mm Rare Earth Magnet Bars 
-* (QTY 2) Magnet Holder 
-* (QTY 1) M3x4x5 Heat Set Insert 
-* (QTY 1) M3x6 Button Head Screw 
+* (QTY 1) M3x6x5 Heat Set Insert 
+* (QTY 1) M3x10 Button Head Screw 
 * (QTY 2) Short Hinge 
 * (QTY 2) Long Hinge 
-* (QTY 1) Hinge Pin 
+* (QTY 2) Hinge Pin 
 * (QTY 8) M5x8 Button Head Screw 
 * (QTY 4) M5 Hex Nut/M5 TNut 
 * (QTY 4) M5 Hammer TNut 
+* (QTY 1) Door Handle
+* (QTY 1) Door Handle Washer
 
 .. image:: ../static/WIP.png
     :align: center 
@@ -543,7 +543,8 @@ Required Tools:
 ^^^^^^^^^^^^^^^
 * Soldering Iron
 * M3 Allen Wrench
-* M2.5 Allen Wrench
+* M2 Allen Wrench
+* Super Glue
 
 .. image:: ../static/WIP.png
     :align: center 
