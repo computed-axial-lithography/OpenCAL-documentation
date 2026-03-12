@@ -460,7 +460,7 @@ Required Tools:
 
 Step-by-Step Instructions:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
-**NOTE:** Ensure all magnets are the correct polarity. Do this by keeping the magnets together and only taking a magnet out one by one and placing them in the same orientation (same side down). If the polarities get flipped, you may need to repeat some steps.
+**NOTE: Ensure all magnets are the correct polarity. Do this by keeping the magnets together and only taking a magnet out one by one and placing them in the same orientation (same side down). If the polarities get flipped, you may need to repeat some steps.**
 
 #. Lay a **QTY (1) Magnet Holders** on the flat end. Add a drop of super glue into the center box. Carefully place **QTY (1) 12x5x2mm Rare Earth Magnet Bar** in the center box. Wait ~ 2 mintues for cure.
 
@@ -522,6 +522,8 @@ Door
 
 Required Materials:
 ^^^^^^^^^^^^^^^^^^^
+**NOTE: Heat Set Insert has already been installed into the Door Handle.**
+
 * (QTY 1) Door Panel
 * (QTY 2) Magnet Holder 
 * (QTY 4) 12x5x2mm Rare Earth Magnet Bars 
@@ -551,6 +553,9 @@ Required Tools:
 
 Step-by-Step Instructions:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
+**NOTE 1: Ensure all magnets are the correct polarity. Do this by keeping the magnets together and only taking a magnet out one by one and placing them in the same orientation (same side down). If the polarities get flipped, you may need to repeat some steps.**
+
+**NOTE 2: The Heat Set Insert has already been installed to the Door Handle. Images will reflect this.**
 
 #. Align **QTY (1) Short Hinge** with **QTY (1) Long Hinge** with the short hinge on the left and long hinge on the right. Ensure it is in the following orientation:
 
