@@ -637,7 +637,7 @@ Step-by-Step Instructions:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 **NOTE 1: Ensure all Hammer TNuts are in the correct orientation (wide end on bottom).**
 
-#. Place **QTY (4) M5x8 Button Head Screw** through each of the holes on the **QTY (1) Top Vial Panel** from the front (this is NOT symmetrical--the front is when the wider side (relative to center hole) is on the left and narrower side is on the right). Loosely install **QTY (4) M5 Hammer TNut** on the opposite ends.
+#. Place **QTY (4) M5x8 Button Head Screw** through each of the holes on the **QTY (1) Top Vial Panel** from the front (this is NOT symmetrical--the front is when the small hole is on top of the big hole and the wider side (relative to center hole) is on the left and narrower side is on the right). Loosely install **QTY (4) M5 Hammer TNut** on the opposite ends.
 
    .. image:: ../static/Frame/WIPF.png
        :align: center 
