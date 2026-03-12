@@ -15,6 +15,8 @@ The frame consists of the following subassemblies:
 
 * Door
 
+* Top Vial Panel 
+
 * Back Vial Panel
 
 * Side Vial Panel
@@ -430,7 +432,6 @@ Top Projector Panel
 Required Materials:
 ^^^^^^^^^^^^^^^^^^^
 * (QTY 1) Top Projector Panel
-* (QTY 1) Super Glue
 * (QTY 8) 12x5x2mm Rare Earth Magnet Bars 
 * (QTY 4) Magnet Holder 
 * (QTY 2) Panel Handle 
@@ -443,7 +444,8 @@ Required Materials:
 Required Tools:
 ^^^^^^^^^^^^^^^
 * Soldering Iron
-* M2.5 Hex Key
+* M2 Hex Key
+* Super Glue
 
 .. image:: ../static/WIP.png
     :align: center 
@@ -477,7 +479,7 @@ Step-by-Step Instructions:
    .. image:: ../static/Step_by_Step/Frame_Subassemblies/Top_Projector_Panel/
        :align: center 
 
-#. Add a couple dabs of super glue around the panel interface of the magnet holders (seen below). Press it into the top left of the **QTY (1) Top Projector Panel** (from the front of the panel) at the designated location. Add more pressure to ensure a flush fit.
+#. Add a couple dabs of super glue around the panel interface of the magnet holders (seen below). Press it into the top left of the **QTY (1) Top Projector Panel** (from the front of the panel-- small hole is on the left, big hole is on the right) at the designated location. Add more pressure to ensure a flush fit.
 
    .. image:: ../static/Step_by_Step/Frame_Subassemblies/Top_Projector_Panel/
        :align: center 
@@ -606,6 +608,41 @@ Step-by-Step Instructions:
 
 ----
 
+Top Vial Panel
+=========
+
+----
+
+.. image:: ../static/Frame/WIPF.png
+    :align: center
+
+Required Materials:
+^^^^^^^^^^^^^^^^^^^
+* (QTY 1) Top Vial Panel
+* (QTY 4) M5x8 Button Head Screws
+* (QTY 4) M5 Hammer TNut  
+
+Required Tools:
+^^^^^^^^^^^^^^^
+No Tools Required.
+
+
+Step-by-Step Instructions:
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+**NOTE 1: Ensure all Hammer TNuts are in the correct orientation (wide end on bottom).**
+
+#. Place **QTY (4) M5x8 Button Head Screw** through each of the holes on the **QTY (1) Top Vial Panel** from the front (this is NOT symmetrical--the front is when the wider side (relative to center hole) is on the left and narrower side is on the right). Loosely install **QTY (4) M5 Hammer TNut** on the opposite ends.
+
+   .. image:: ../static/Frame/WIPF.png
+       :align: center 
+
+#. The Top Vial Panel subassembly is now complete.
+
+   .. image:: ../static/Frame/WIPF.png
+       :align: center 
+
+----
+
 Back Vial Panel
 =========
 
@@ -665,7 +702,7 @@ Step-by-Step Instructions:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 **NOTE 1: Ensure all Hammer TNuts are in the correct orientation (wide end on bottom).**
 
-#. Place **QTY (7) M5x8 Button Head Screw** through each of the top and bottom corner holes on the **QTY (1) Side Vial Panel** from the front (face with logo). Loosely install **QTY (7) M5 Hammer TNut** on the opposite ends.
+#. Place **QTY (4) M5x8 Button Head Screw** through each of the top and bottom corner holes on the **QTY (1) Side Vial Panel** from the front (face with logo). Loosely install **QTY (4) M5 Hammer TNut** on the opposite ends.
 
    .. image:: ../static/Frame/WIPF.png
        :align: center 
