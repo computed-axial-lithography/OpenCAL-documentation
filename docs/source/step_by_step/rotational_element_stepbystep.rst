@@ -134,11 +134,6 @@ Step-by-Step Instructions:
 
 
 
-
-
-
-
-
 ----
 
 Small Vial
@@ -151,24 +146,26 @@ Small Vial
 
 Required Materials:
 ^^^^^^^^^^^^^^^^^^^
-*
+* (QTY 1) Small glass vial
+* (QTY 1) Small vial lid
+* (QTY 1) 2x18mm O-ring
 
-.. image:: ../static/WIP.png
+.. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Small_Vial/
     :align: center 
 
-Required Tools:
-^^^^^^^^^^^^^^^
-*
-
-.. image:: ../static/WIP.png
-    :align: center 
 
 Step-by-Step Instructions:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1. Stretch o-ring over the small vial lid groove. 
 
+   .. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Small_Vial/small-vial-1.JPG
+       :align: center 
 
+2. Place the lid in a glass vial to seal. 
 
+   .. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Small_Vial/small-vial-2.JPG
+       :align: center 
 
 
 ----
@@ -185,10 +182,10 @@ Required Materials:
 ^^^^^^^^^^^^^^^^^^^
 * (QTY 1) Front Base Plate
 * (QTY 1) Back Base Plate
-* (QTY 4) M5x8 Button Head Screw
+* (QTY 4) M5x10 Button Head Screw
 * (QTY 4) M5 Hammer TNut
 
-.. image:: ../static/WIP.png
+.. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Front_Back_Base_Plates/front-back-materials.JPG
     :align: center 
 
 Required Tools:
@@ -200,7 +197,7 @@ Step-by-Step Instructions:
 
 1. Take **QTY (1) Front Base Plate** and place **QTY (2) M5x8 Button Head Screw** from the top in the counterbored holes. Loosely install **QTY (2) M5 Hammer TNut** on the opposite end of each fastener.
 
-.. image:: ../static/WIP.png
+.. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Front_Back_Base_Plates/front-back-1.JPG
     :align: center 
 
 2. Repeat Step 1 one more time with **QTY (1) Back Base Plate** The Front & Back Base Plates subassembly is now complete.
