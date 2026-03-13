@@ -811,7 +811,7 @@ Required Tools:
 
 * Super Glue
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Magnet_Frame_Inserts/inserts-tools.JPG
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Magnet_Frame_Inserts/inserts-tools.jpg
        :align: center
 
 Step-by-Step Instructions:

@@ -131,7 +131,7 @@ Required Materials:
 * (QTY 2) M3x4x5 Heat Insert
 * (QTY 2) M3x6 Button Head Screw
 
-.. image:: ../static/WIP.png
+.. image:: ../static/Step_by_Step/Electronics_Subassemblies/Top_Plate/topplate-materials.jpg
     :align: center
 
 Required Tools:
@@ -150,39 +150,37 @@ Step-by-Step Instructions
 
 #. Take **QTY (2) M3x4x5mm Heat Set Insert** and, using a soldering iron, place them into the following locations on the **QTY (1) Top Plate** (in the '2' area). Ensure that the top of the heat set inserts are flush with the surfaces.
 
-   .. image:: ../static/WIP.png
+   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Top_Plate/topplate-1.jpg
        :align: center
 
 #. Attach the Perfboard Assembly from the Wiring Page with the **QTY (1) Stepper Motor Circuit** onto **QTY (4) M2x10 Standoffs** using **QTY (4) M2x6 Button Head Screws** from the top (screws should be going from Perfboard Assembly to standoffs).
 
-   .. image:: ../static/WIP.png
+   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Top_Plate/topplate-2.jpg
        :align: center
 
 #. Take the assembly from Step 2 and install it in section '1', using **QTY (4) M2x6 Button Head Screw** from the opposite end of the Top Plate. Ensure that it is orientated where the motor circuit is closer to the right side of the '1' on the 3D print.
 
-   .. image:: ../static/WIP.png
+   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Top_Plate/topplate-3.jpg
        :align: center
 
 #. Take **QTY (1) 12V Buck Converter** and install it in section '2', using **QTY (2) M3x6 Button Head Screw**. Ensure that it is orientated where the screw terminals are on the top (see image).
 
-   .. image:: ../static/WIP.png
+   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Top_Plate/topplate-4.jpg
        :align: center
 
 #. Place **QTY (4) M5x10 Button Head Screw** through each of the holes on the **QTY (1) Top Plate** from the BOTTOM. Loosely install **QTY (4) M5 Hammer TNut** on the opposite ends.
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Back_Projector_Panel/Back-2.JPG
-       :align: center
 
 #. The Top Plate is now complete.
 
-   .. image:: ../static/WIP.png
+   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Top_Plate/topplate-6.jpg
        :align: center
 
 
 ----
 
 LCD Housing
-================
+===========
 
 ----
 
@@ -205,7 +203,7 @@ Required Materials:
 * (QTY 2) M5x10 Button Head Screw
 * (QTY 2) M5 Hammer TNut
 
-.. image:: ../static/WIP.png
+.. image:: ../static/Step_by_Step/Electronics_Subassemblies/LCD_Housing/LCD-materials.jpg
     :align: center
 
 Required Tools:
@@ -222,17 +220,20 @@ Step-by-Step Instructions
 
 #. Take **QTY (4) M3x6x5mm Heat Set Insert** and, using a soldering iron, place them into the following locations on the **QTY (1) LCD Base** from the front. Ensure that the top of the heat set inserts are flush with the surfaces.
 
-   .. image:: ../static/WIP.png
+   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/LCD_Housing/LCD-1.jpg
        :align: center
 
 #. Take **QTY (2) M3x6x5mm Heat Set Insert** and, using a soldering iron, place them into the following locations on the **QTY (1) LCD Connector** from the front. Ensure that the top of the heat set inserts are flush with the surfaces.
 
-   .. image:: ../static/WIP.png
+   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/LCD_Housing/LCD-2.jpg
        :align: center
 
 #. Install the **QTY (1) LCD Connector** using **QTY (2) M3x8 Button Head Screw**. The connector should be oriented so that the cutout is under the big cutout on the LCD Base (see image). The screws should be going through the LCD Base from the center counterbores and into the connector.
 
-   .. image:: ../static/WIP.png
+   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/LCD_Housing/LCD-3a.jpg
+       :align: center
+
+   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/LCD_Housing/LCD-3b.jpg
        :align: center
 
 #. Pull out the knob of the **QTY (1) Knob Encoder** and keep it to the side. Also unscrew the **QTY (1) Knob Encoder Nut** and **QTY (1) Knob Encoder Washer** if it is attached. Install the **QTY (1) LCD Screen** and Knob Encoder by aligning their holes with the small extruded pillars on the **QTY (1) LCD Base** and pressing down. Ensure the LCD screen is on the left and encoder is on the right. Ensure the PCB of the LCD comes out the back and the wire prongs of the encoder come out the back at the top.
