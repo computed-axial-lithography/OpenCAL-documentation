@@ -118,6 +118,8 @@ Top Plate
 
 Required Materials:
 ^^^^^^^^^^^^^^^^^^^
+**NOTE: Heat set inserts were already installed into the Back Top Plate**
+
 * (QTY 1) Back Top Plate
 * (QTY 4) M2x10 Standoffs
 * (QTY 8) M2x6 Button Head Screws
@@ -143,22 +145,22 @@ Step-by-Step Instructions
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 **NOTE: Unless otherwised mentioned, all fasteners will be "hand tight". Ensure that heat set inserts have ~2 minutes to cool post installation.**
 
-1. Take **QTY (2) M3x4x5mm Heat Set Insert** and, using a soldering iron, place them into the following locations on the **QTY (1) Top Plate** (in the '5' area). Ensure that the top of the heat set inserts are flush with the surfaces.
+1. Take **QTY (2) M3x4x5mm Heat Set Insert** and, using a soldering iron, place them into the following locations on the **QTY (1) Top Plate** (in the '2' area). Ensure that the top of the heat set inserts are flush with the surfaces.
 
 .. image:: ../static/WIP.png
     :align: center 
 
-2. Install the Perfboard Assembly from the Wiring Page with the **QTY (1) Stepper Motor Circuit** onto **QTY (4) M2x10 Standoffs** using **QTY (4) M2x6 Button Head Screws** from the top (screws should be going from Perfboard Assembly to standoffs).
+2. Attach the Perfboard Assembly from the Wiring Page with the **QTY (1) Stepper Motor Circuit** onto **QTY (4) M2x10 Standoffs** using **QTY (4) M2x6 Button Head Screws** from the top (screws should be going from Perfboard Assembly to standoffs).
 
 .. image:: ../static/WIP.png
     :align: center 
 
-3. Take the assembly from Step 2 and install it in section '4', using **QTY (4) M2x6 Button Head Screw** from the opposite end of the Top Plate. Ensure that it is orientated where the wires are coming out on the top.
+3. Take the assembly from Step 2 and install it in section '1', using **QTY (4) M2x6 Button Head Screw** from the opposite end of the Top Plate. Ensure that it is orientated where the motor circuit is closer to the right side of the '1' on the 3D print.
 
 .. image:: ../static/WIP.png
     :align: center 
 
-4. Take **QTY (1) 12V Buck Converter** and install it in section '5', using **QTY (2) M3x6 Button Head Screw**. Ensure that it is orientated where the wires are coming out on the top.
+4. Take **QTY (1) 12V Buck Converter** and install it in section '2', using **QTY (2) M3x6 Button Head Screw**. Ensure that it is orientated where the screw terminals are on the top (see image).
 
 .. image:: ../static/WIP.png
     :align: center 
@@ -186,12 +188,17 @@ LCD Housing
 
 Required Materials:
 ^^^^^^^^^^^^^^^^^^^
+**NOTE: Heat set inserts had already been installed into the LCD Base. The Knob Encoder mounting Washer & Nut should come with the Knob Encoder kit.**
+
 * (QTY 1) LCD Base
 * (QTY 1) LCD Connector
 * (QTY 1) LCD Top
 * (QTY 1) LCD Screen
 * (QTY 1) Knob Encoder
-* (QTY 4) M3xX Button Head Screw
+* (QTY 1) Knob Encoder Washer
+* (QTY 1) Knob Encoder Nut
+* (QTY 6) M3x6x5 Heat Set Insert
+* (QTY 6) M3x8 Button Head Screw
 * (QTY 2) M5x10 Button Head Screw
 * (QTY 2) M5 Hammer TNut
 
@@ -201,7 +208,7 @@ Required Materials:
 Required Tools:
 ^^^^^^^^^^^^^^^
 * M3 Hex/Allen Key
-* M2.5 Hex/Allen Key
+* M2 Hex/Allen Key
 
 .. image:: ../static/WIP.png
     :align: center 
@@ -210,34 +217,46 @@ Step-by-Step Instructions
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 **NOTE: Unless otherwised mentioned, all fasteners will be "hand tight".**
 
-1. Take **QTY (4) M3x4x5mm Heat Set Insert** and, using a soldering iron, place them into the following locations on the **QTY (1) LCD Base** from the front of it. Ensure that the top of the heat set inserts are flush with the surfaces.
+1. Take **QTY (4) M3x6x5mm Heat Set Insert** and, using a soldering iron, place them into the following locations on the **QTY (1) LCD Base** from the front. Ensure that the top of the heat set inserts are flush with the surfaces.
 
 .. image:: ../static/WIP.png
     :align: center
 
-2. Unscrew the knob of the **QTY (1) Knob Encoder** and keep it to the side. Install the **QTY (1) LCD Screen** and Knob Encoder by aligning their holes with the small extruded pillars on the **QTY (1) LCD Base**. Ensure the LCD screen is on the left and encoder is on the right. Ensure the wires of the LCD come out the back and the wires of the encoder come out the back at the top.
+2. Take **QTY (2) M3x6x5mm Heat Set Insert** and, using a soldering iron, place them into the following locations on the **QTY (1) LCD Connector** from the front. Ensure that the top of the heat set inserts are flush with the surfaces.
+
+.. image:: ../static/WIP.png
+    :align: center
+
+3. Install the **QTY (1) LCD Connector** using **QTY (2) M3x8 Button Head Screw**. The connector should be oriented so that the cutout is under the big cutout on the LCD Base (see image). The screws should be going through the LCD Base from the center counterbores and into the connector.
 
 .. image:: ../static/WIP.png
     :align: center 
 
-3. Slide **QTY (2) M5x10 Button Head Screw** in each of the counterbored holes on the **QTY (1) LCD Base**. Align the **QTY (1) LCD Connector** with these fasteners, ensuring the cut out on the connector is on the LCD Screen side. Keep this together by loosely installing **QTY (2) M5 Hammer TNut** on the opposite end of the M5 fastners.
+4. Pull out the knob of the **QTY (1) Knob Encoder** and keep it to the side. Also unscrew the **QTY (1) Knob Encoder Nut** and **QTY (1) Knob Encoder Washer** if it is attached. Install the **QTY (1) LCD Screen** and Knob Encoder by aligning their holes with the small extruded pillars on the **QTY (1) LCD Base** and pressing down. Ensure the LCD screen is on the left and encoder is on the right. Ensure the PCB of the LCD comes out the back and the wire prongs of the encoder come out the back at the top.
 
 .. image:: ../static/WIP.png
     :align: center 
 
-4. Temporarily install the **QTY (1) LCD Top** by aligning it with the base (matching the LCD Screen hole) and ensuring the counterbores are external. Fasten down using **QTY (4) M3xX Button Head Screw** using a M2.5 Hex/Allen Key.
+5. Slide **QTY (2) M5x10 Button Head Screw** through the holes on the side of the LCD Base. Loosely install **QTY (2) M5 Hammer TNut** to the other side.
 
 .. image:: ../static/WIP.png
     :align: center 
 
-5. Screw the knob of the Knob Encoder back on. 
+6. Install the **QTY (1) LCD Top** by aligning it with the base (matching the LCD Screen hole) and ensuring the counterbores are external. Fasten down using **QTY (4) M3x8 Button Head Screw**.
+
+.. image:: ../static/WIP.png
+    :align: center 
+
+7. Place **QTY (1) Knob Encoder Washer** over the Knob Encoder and screw on **QTY (1) Knob Encoder Nut**. Press on the Knob onto the Knob Encoder.  
 NOTE: This will fix the encoder to the top lid. When moving the LCD Enclosure on the rail, the LCD Top will need to be removed. However, due to the encoder, it cannot be completely removed (assuming it is plugged in) and must be held while the entire enclosure is being moved. This will be repeated in the main assembly page.
 
 .. image:: ../static/WIP.png
     :align: center 
 
-6. The LCD Enclosure is now complete.
+8. The LCD Enclosure is now complete.
 
+.. image:: ../static/WIP.png
+    :align: center 
 
 ----
 
@@ -253,7 +272,7 @@ Required Materials:
 ^^^^^^^^^^^^^^^^^^^
 * (QTY 1) 19V Converter Mount
 * (QTY 1) 19V Buck Converter
-* (QTY 2) M3xX Button Head Screw
+* (QTY 2) M3x6 Button Head Screw
 * (QTY 2) M3 Washer
 * (QTY 2) M3 Hex Nut
 * (QTY 2) M5x8 Button Head Screw
@@ -264,7 +283,7 @@ Required Materials:
 
 Required Tools:
 ^^^^^^^^^^^^^^^
-* M2.5 Hex/Allen Key
+* M2 Hex/Allen Key
 
 .. image:: ../static/WIP.png
     :align: center 
@@ -273,8 +292,7 @@ Step-by-Step Instructions
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 **NOTE: Unless otherwised mentioned, all fasteners will be "hand tight".**
 
-1. Place the flat end of the **QTY (1) 19V Buck Converter** against the non-counterbored side of the **QTY (1) 19V Converter Mount** with the wires going to the left. Fasten these together using **QTY (2) M3xX Button Head Screw**, **QTY (2) M3 Washer**, and **QTY (2) M3 Hex Nut**. 
-Ensure the fastener comes from the side with the buck converter and the washer is under the head of the fastener (the nut should be in the counterbore). 
+1. Place the flat end of the **QTY (1) 19V Buck Converter** against the non-counterbored side of the **QTY (1) 19V Converter Mount** with the wires going to the left. Fasten these together using **QTY (2) M3x8 Button Head Screw**, **QTY (2) M3 Washer**, and **QTY (2) M3 Hex Nut** from the opposite end. Ensure the fastener comes from the 3D printed side and the washer is under the head of the fastener (the fastener and washer should be in the counterbore). 
 
 .. image:: ../static/WIP.png
     :align: center 
@@ -306,11 +324,11 @@ Required Materials:
 * (QTY 1)  Brushless Cooling Fan
 * (QTY 1)  CSI to HDMI Adapter
 * (QTY 4)  M2x10 Standoff
-* (QTY 8)  M2xX Button Head Screw
-* (QTY 5)  M3xX Button Head Screw 
-* (QTY 8)  M3x10 Button Head Screw 
+* (QTY 12) M2x6 Button Head Screw
+* (QTY 1)  M3x8 Button Head Screw 
+* (QTY 12) M3x10 Button Head Screw 
 * (QTY 12) M3 Hex Nut
-* (QTY 8)  M5x8 Button Head Screw
+* (QTY 4)  M5x8 Button Head Screw
 * (QTY 4)  M5 Hammer TNut 
 * (QTY 1)  M3x4x5 Heat Set Insert
 
@@ -413,7 +431,7 @@ Required Materials:
 * (QTY 1) Camera Mount
 * (QTY 1) Raspberry Pi Camera
 * (QTY 1) CSI to HDMI Adapter
-* (QTY 4) M5x8 Button Head Screw
+* (QTY 4) M5x10 Button Head Screw
 * (QTY 4) M5 Hammer TNut
 * (QTY 16) M2x6 Button Head Screw
 * (QTY 4) M2x6 Standoff
@@ -424,16 +442,18 @@ Required Materials:
 
 Required Tools:
 ^^^^^^^^^^^^^^^
-* M1.5 Hex/Allen Key
+* Small Phillips Driver (+1.5)
 
 .. image:: ../static/WIP.png
     :align: center 
 
 Step-by-Step Instructions
 ^^^^^^^^^^^^^^^^^^^^^^^^^
-**NOTE: Unless otherwised mentioned, all fasteners will be "hand tight".**
+**NOTE 1: Unless otherwised mentioned, all fasteners will be "hand tight".**
 
-**NOTE: The flat side of the camera mount is the "back" (without the counterbores).**
+**NOTE 2: The flat side of the camera mount is the "back" (without the counterbores).**
+
+**NOTE 3: The Wiring Section will install the ribbon cable that connects the camera to the adapter.**
 
 1. Install **QTY (4) M2x6 Standoff** to the bottom of the **QTY (1) Raspberry Pi Camera** using **QTY (4) M2x6 Button Head Screw**. The screw should go from the camera to the standoff.
 
