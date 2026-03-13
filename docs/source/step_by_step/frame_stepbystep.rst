@@ -539,7 +539,7 @@ Required Materials:
 * (QTY 1) Door Handle
 * (QTY 1) M3 Washer
 
-.. image:: ../static/WIP.png
+.. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/door-materials.jpg
     :align: center 
 
 Required Tools:
@@ -558,67 +558,80 @@ Step-by-Step Instructions:
 
 #. Align **QTY (1) Short Hinge** with **QTY (1) Long Hinge** with the short hinge on the left and long hinge on the right. Ensure it is in the following orientation:
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/door-1.jpg
        :align: center
 
 #. Insert **QTY (1) Hinge Pin** from the top, ensuring that it goes all the way through.
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/door-2.jpg
        :align: center
 
 #. Repeat Steps 1 & 2 one more time. You should have 2 of these assemblies.
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/door-3.jpg
        :align: center
 
 #. On the **QTY (2) Short Hinge**, loose install **QTY (4) M5x8 Button Head Screw** with **QTY (4) M5 Hammer TNut**.
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/door-4.jpg
        :align: center
 
 #. Align the holes of the **QTY (2) Long Hinge** part of the assembly with the corresponding holes in the FRONT of the **QTY (1) Door panel**. Install using **QTY (4) M3x10 Button Head Screw** and **QTY (4) M5 Hex Nut/TNut**. The front of the panel is designated as the side with the hinge holes on the left and handle hole on the right.
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/door-5a.jpg
+       :align: center
+
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/door-5b.jpg
        :align: center
 
 #. Install **QTY (1) M3x4x5 Heat Set Insert** into the **QTY (1) Door Handle** from the back.
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/door-6.jpg
        :align: center
 
 #. Install the assembly from Step 6 with **QTY (1) M3x8 Button Head Screw** and **QTY (1) M3 Washer** from the back. The handle should be on the right side.
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/door-7a.jpg
+       :align: center
+
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/door-7b.jpg
        :align: center
 
 #. Lay a **QTY (1) Magnet Holders** on the flat end. Add a drop of super glue into the center box. Carefully place **QTY (1) 12x5x2mm Rare Earth Magnet Bar** in the center box. Wait ~ 2 mintues for cure.
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/LCD_Panel/LCD-1.JPG
+       :align: center 
+
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/LCD_Panel/LCD-1-2.JPG
        :align: center 
 
 #. After cure, place another drop of super glue on top of the magnet from Step 1. Carefully place another **QTY (1) 12x5x2mm Rare Earth Magnet Bar** in the same orientation on top of the previous magnet (ensure that the magnets are in the same polar orientation and are aligned with each other).
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/LCD_Panel/LCD-2.JPG
+       :align: center 
+
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/LCD_Panel/LCD-2-2.JPG
        :align: center 
 
 #. Repeat Steps 8 & 9 one more time. You should have 2 of these assemblies total.
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/door-10.jpg
        :align: center 
 
 #. Add a couple dabs of super glue around the panel interface of the magnet holders (seen below). Press it into the top right of the **QTY (1) Door Panel** (from the front of the panel) at the designated location. Add more pressure to ensure a flush fit.
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/door-11a.jpg
+       :align: center 
+
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/door-11b.jpg
        :align: center 
 
 #. Repeat Step 11 one more time with the remaining assembly from Step 10 at the bottom right corner of the panel. Ensure all magnets are facing the correct way (right-side up CAL logo).
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/
-       :align: center 
 
 #. The Door Subassembly is now complete.
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/door-13.jpg
        :align: center 
 
 
@@ -638,8 +651,8 @@ Required Materials:
 * (QTY 4) M5x8 Button Head Screws
 * (QTY 4) M5 Hammer TNut  
 
-.. image:: ../static/Step_by_Step/Frame_Subassemblies/Top_Vial_Panel/top-vial-materials.jpg
-    :align: center
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Top_Vial_Panel/top-vial-materials.jpg
+       :align: center
 
 Required Tools:
 ^^^^^^^^^^^^^^^
@@ -676,8 +689,8 @@ Required Materials:
 * (QTY 4) M5x8 Button Head Screws
 * (QTY 4) M5 Hammer TNut  
 
-.. image:: ../static/Step_by_Step/Frame_Subassemblies/Back_Vial_Panel/back-vial-materials.jpg
-    :align: center
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Back_Vial_Panel/back-vial-materials.jpg
+       :align: center
   
 Required Tools:
 ^^^^^^^^^^^^^^^
@@ -690,13 +703,13 @@ Step-by-Step Instructions:
 
 #. Place **QTY (7) M5x8 Button Head Screw** through each of the holes on the **QTY (1) Back Vial Panel** from the front (face with logo). Loosely install **QTY (7) M5 Hammer TNut** on the opposite ends.
 
-.. image:: ../static/Step_by_Step/Frame_Subassemblies/Back_Vial_Panel/back-vial-2.jpg
-       :align: center 
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Back_Vial_Panel/back-vial-2.jpg
+      :align: center 
 
 #. The Back Vial Panel subassembly is now complete.
 
-.. image:: ../static/Step_by_Step/Frame_Subassemblies/Back_Vial_Panel/back-vial-2.jpg
-       :align: center 
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Back_Vial_Panel/back-vial-2.jpg
+      :align: center 
 
 
 ----
@@ -715,8 +728,8 @@ Required Materials:
 * (QTY 4) M5x8 Button Head Screws
 * (QTY 4) M5 Hammer TNut  
 
-.. image:: ../static/Step_by_Step/Frame_Subassemblies/Side_Vial_Panel/side-vial-materials.jpg
-    :align: center
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Side_Vial_Panel/side-vial-materials.jpg
+       :align: center
 
 Required Tools:
 ^^^^^^^^^^^^^^^
@@ -729,13 +742,13 @@ Step-by-Step Instructions:
 
 #. Place **QTY (4) M5x8 Button Head Screw** through each of the top and bottom corner holes on the **QTY (1) Side Vial Panel** from the front (face with logo). Loosely install **QTY (4) M5 Hammer TNut** on the opposite ends.
 
-.. image:: ../static/Step_by_Step/Frame_Subassemblies/Side_Vial_Panel/side-vial-1.jpg
-    :align: center
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Side_Vial_Panel/side-vial-1.jpg
+       :align: center
 
 #. The Side Vial Panel subassembly is now complete.
 
-.. image:: ../static/Step_by_Step/Frame_Subassemblies/Side_Vial_Panel/side-vial-2.jpg
-    :align: center
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Side_Vial_Panel/side-vial-2.jpg
+       :align: center
 
 ----
 
@@ -767,13 +780,13 @@ Step-by-Step Instructions:
 
 #. Place **QTY (6) M5x8 Button Head Screw** through each of the holes on the **QTY (1) Bottom Panel** from the front (choose one side, panel is symmetrical). Loosely install **QTY (6) M5 Hammer TNut** on the opposite ends.
 
-.. image:: ../static/Step_by_Step/Frame_Subassemblies/Bottom_Panels/bottom-panels-1.jpg
-    :align: center
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Bottom_Panels/bottom-panels-1.jpg
+       :align: center
 
 #. Repeat Step 1 one more time. The Bottom Panels subassembly is now complete.
 
-.. image:: ../static/Step_by_Step/Frame_Subassemblies/Bottom_Panels/bottom-panels-2.jpg
-    :align: center
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Bottom_Panels/bottom-panels-2.jpg
+       :align: center
 
 ----
 
@@ -790,8 +803,8 @@ Required Materials:
 * (QTY 10) Magnet Frame Insert 
 * (QTY 10) 12x5x2mm Rare Earth Magnet Bar 
 
-.. image:: ../static/WIP.png
-    :align: center  
+   .. image:: ../static/WIP.png
+       :align: center  
 
 Step-by-Step Instructions:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^

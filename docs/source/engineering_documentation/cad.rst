@@ -164,7 +164,7 @@ Optics
    
 
 Rotational Element
-----------
+------------------
 
 .. card-carousel:: 2
 
