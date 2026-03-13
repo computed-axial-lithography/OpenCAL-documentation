@@ -41,7 +41,7 @@ Required Materials:
 * (QTY 5) M5 Hammer TNut
 
 
-.. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Rotation_Stage/rotational_element_materials.png
+.. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Rotation_Stage/rotational_element_materials.JPG
     :align: center
 
 Required Tools:
@@ -83,12 +83,12 @@ Step-by-Step Instructions:
 
 6. Take **QTY (3) M3x4x5mm Heat Set Insert** and, using a soldering iron, place them into the following locations on the **QTY (1) Mid Base Plate**. Ensure that the top of the heat set inserts are flush with the surface.
 
-   .. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Rotation_Stage/rot-stage-6.png
+   .. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Rotation_Stage/rot-stage-6.JPG
        :align: center
 
 7. Place **QTY (5) M5x10 Button Head Screw** in each of the counterbored holes shown below. Loosely install **QTY (5) M5 Hammer TNut** on the opposite end of each fastener.
 
-   .. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Rotation_Stage/rot-stage-7.png
+   .. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Rotation_Stage/rot-stage-7.JPG
        :align: center
 
 8. Take the assembly from Step 5 and place it in the center cutout on the Mid Base Plate, aligning the silhouettes. Using **QTY (3) M3x5 Button Head Screw** to fasten the Rotation Stage and Mid Base Plate together. The Rotation Element Mid Base Plate is now complete.

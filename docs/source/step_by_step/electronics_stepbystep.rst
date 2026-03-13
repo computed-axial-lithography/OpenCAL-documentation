@@ -44,7 +44,7 @@ Required Materials:
 * (QTY 4) M5x10 Button Head Screw
 * (QTY 4) M5 Hammer TNut
 
-.. image:: ../static/WIP.png
+.. image:: ../static/Step_by_Step/Electronics_Subassemblies/Bottom_Plate/bottomplate-materials.jpg
     :align: center
 
 Required Tools:
@@ -62,47 +62,50 @@ Step-by-Step Instructions
 
 #. Take the **QTY (1) Bottom Plate 2** and flip it so that it is laying on the top. Take **QTY (4) M3x4x5mm Heat Set Insert** and, using a soldering iron, place them into the following locations on the Bottom Plate 2. Ensure that the top of the heat set inserts are flush with the surfaces.
 
-   .. image:: ../static/WIP.png
+   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Bottom_Plate/bottomplate-1.jpg
        :align: center
 
 #. Take **QTY (4) M3x4x5mm Heat Set Insert** and, using a soldering iron, place them into the following locations on the **QTY (1) Bottom Plate 1** (in the '2' area). Ensure that the top of the heat set inserts are flush with the surfaces.
 
-   .. image:: ../static/WIP.png
+   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Bottom_Plate/bottomplate-2.jpg
        :align: center
 
 #. Flip the **QTY (1) Bottom Plate 1** and align it with **QTY (1) Bottom Plate 2**. Fasten down the plates using **QTY (4) M3x6 Button Head Screw** using a M2.5 Hex/Allen Key.
 
-   .. image:: ../static/WIP.png
+   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Bottom_Plate/bottomplate-3.jpg
        :align: center
 
 #. Install **QTY (1) 5V Buck Converter** onto **QTY (3) M2x10 Standoff** using **QTY (3) M2x6 Button Head Screws** from the front (screws should be going from converter to standoffs).
 
-   .. image:: ../static/WIP.png
+   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Bottom_Plate/bottomplate-4a.jpg
+       :align: center
+
+   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Bottom_Plate/bottomplate-4b.jpg
        :align: center
 
 #. In the '1' area, install the assembly from Step 4 by placing it in the designated locations and screwing them in with **QTY (3) M2x6 Button Head Screw** on the opposite end of the Bottom Plate 1. Ensure that it is orientated where the wires are coming out on the left of the '1'.
 
-   .. image:: ../static/WIP.png
+   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Bottom_Plate/bottomplate-5.jpg
        :align: center
 
 #. Take the **QTY (1) Terminal Block** and install it in section '2' using **QTY (4) M3x6 Button Head Screw**. Ensure that it is orientated where the AB screw terminals are facing the 5V Buck converter (see image below).
 
-   .. image:: ../static/WIP.png
+   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Bottom_Plate/bottomplate-6.jpg
        :align: center
 
 #. Take the **QTY (1) 24V Power Supply** and place it in section '3'. Ensure that it is orientated where the wires would be coming out from the top. This will not be fixed down due to its weight.
 
-   .. image:: ../static/WIP.png
+   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Bottom_Plate/bottomplate-7a.jpg
+       :align: center
+
+   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Bottom_Plate/bottomplate-7b.jpg
        :align: center
 
 #. Place **QTY (4) M5x10 Button Head Screw** through each of the holes on the **QTY (1) Bottom Plate 1** and **QTY (1) Bottom Plate 2** from the top. Loosely install **QTY (4) M5 Hammer TNut** on the opposite ends.
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Back_Projector_Panel/Back-2.JPG
-       :align: center
-
 #. The Bottom Plate is now complete.
 
-   .. image:: ../static/WIP.png
+   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Bottom_Plate/bottomplate-9.jpg
        :align: center
 
 
