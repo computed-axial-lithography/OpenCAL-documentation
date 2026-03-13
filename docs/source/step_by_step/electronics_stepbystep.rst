@@ -316,6 +316,8 @@ Raspberry Pi Housing
 
 Required Materials:
 ^^^^^^^^^^^^^^^^^^^
+**NOTE: Heat set is already installed into RP5 Housing.**
+
 * (QTY 1)  RP5 Housing
 * (QTY 1)  Raspberry Pi 5
 * (QTY 1)  RP5 Housing Door
@@ -337,11 +339,10 @@ Required Materials:
 
 Required Tools:
 ^^^^^^^^^^^^^^^
-* M1.5 Hex/Allen Key
-* M2.5 Hex/Allen Key
+* M2 Hex/Allen Key
 * M3 Hex/Allen Key
 * Soldering Iron
-
+* Small Phillips Driver (+1.5)
 
 .. image:: ../static/WIP.png
     :align: center 
@@ -365,12 +366,12 @@ Step-by-Step Instructions
 .. image:: ../static/WIP.png
     :align: center 
 
-4. Attach the cool fan grill to the **QTY (1) Brushless Cooling Fan** using **QTY (4) M3x10 Button Head Screw** and **QTY (4) M3 Hex Nut** from the side without the logo and wires. The screws should be going from the fan into the grill.
+4. Attach the cool fan grill to the **QTY (1) Brushless Cooling Fan** using **QTY (4) M3x10 Button Head Screw** and **QTY (4) M3 Hex Nut** from the side WITHOUT the logo and wires. The screws should be going from the grill into the fan.
 
 .. image:: ../static/WIP.png
     :align: center 
 
-5. Attach the **QTY (1) Brushless Cooling Fan** to the back of the **QTY (1) RP5 Housing Door** (the side without the hinge indent) using **QTY (4) M3x10 Button Head Screws** and **QTY (4) M3 Hex Nut**. The fan should be orientated so that the wire is coming from the bottom left. The non-grill side of the fan should be interfacing with the door. The screws should be coming from the door to the fan (see image below).
+5. Attach the **QTY (1) Brushless Cooling Fan** to the back of the **QTY (1) RP5 Housing Door** (the side without the hinge indent) using **QTY (4) M3x10 Button Head Screws** and **QTY (4) M3 Hex Nut**. The fan should be orientated so that the wire is coming from the top left (while looking from the 3D printed door). The non-grill side of the fan should be interfacing with the door. The screws should be coming from the door to the fan (see image below).
 
 .. image:: ../static/WIP.png
     :align: center 
@@ -380,12 +381,12 @@ Step-by-Step Instructions
 .. image:: ../static/WIP.png
     :align: center 
 
-7. Attach **QTY (4) M2x10 Standoff** in the designated location and screwing them in with **QTY (4) M2xX Button Head Screw** on the opposite end of the Back Top Plate.
+7. Attach **QTY (4) M2x10 Standoff** to **QTY (1) CSI to HDMI Adapter** in the corners and screwing them in with **QTY (4) M2x6 Button Head Screw**.
 
 .. image:: ../static/WIP.png
     :align: center 
 
-8. Attach **QTY (1) CSI to HDMI Adapter** on these standoffs from Step 7 using **QTY (4) M2xX Button Head Screw** , ensuring the port comes out on the right (see image below). 
+8. Attach the assembly from Step 7 using **QTY (4) M2x6 Button Head Screw** from the opposite end of the 3D print, ensuring the port comes out on the right whiling looking from the door (see image below). 
 
 .. image:: ../static/WIP.png
     :align: center 
