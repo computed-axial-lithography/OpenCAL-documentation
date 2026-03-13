@@ -112,11 +112,6 @@ Step-by-Step Instructions
     .. image:: ../static/WIP.png
         :align: center
 
-#. Move the projector rail close to the Bottom Plate from the previous step. Install the **Projector Mount**, move the projector rail as needed based on the locator pieces. Tighten all M5 fasteners.
-
-    .. image:: ../static/WIP.png
-        :align: center
-
 #. Install the **Back Top Plate** from the bottom up in the position below. Ensure it is pulled as back as possible. Tighten the M5 fasteners.
 
     .. image:: ../static/WIP.png
@@ -133,6 +128,11 @@ Step-by-Step Instructions
         :align: center
 
 #. Install the **19V Converter Mount** in the position shown below. Tighten the M5 fasteners.
+
+    .. image:: ../static/WIP.png
+        :align: center
+
+#. Move the projector rail close to the Bottom Plate from the previous step. Install the **Projector Mount**, move the projector rail as needed based on the locator pieces. Tighten all M5 fasteners.
 
     .. image:: ../static/WIP.png
         :align: center

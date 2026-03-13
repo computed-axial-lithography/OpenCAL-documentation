@@ -327,7 +327,7 @@ Raspberry Pi Housing
 
 Required Materials:
 ^^^^^^^^^^^^^^^^^^^
-**NOTE: Heat set is already installed into RP5 Housing.**
+**NOTE: Heat set is already installed into RP5 Housing. M2 Hex Nuts are missing from image.**
 
 * (QTY 1)  RP5 Housing
 * (QTY 1)  Raspberry Pi 5
@@ -393,17 +393,17 @@ Step-by-Step Instructions
    .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/
        :align: center
 
-#. Attach **QTY (4) M2x10 Standoff** to **QTY (1) CSI to HDMI Adapter** in the corners and screwing them in with **QTY (4) M2x6 Button Head Screw**.
+#. Attach **QTY (4) M2x10 Standoff** to **QTY (1) CSI to HDMI Adapter** in the corners and screw them in with **QTY (4) M2x6 Button Head Screw**.
 
    .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/
        :align: center
 
-#. Attach the assembly from Step 7 using **QTY (4) M2x6 Button Head Screw** from the opposite end of the 3D print, ensuring the port comes out on the right whiling looking from the door (see image below).
+#. Attach the assembly from Step 7 in the section '2' using **QTY (4) M2x6 Button Head Screw** from the opposite end of the 3D print, ensuring the port comes out on the right whiling looking from the door (see image below).
 
    .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/
        :align: center
 
-#. Attach **QTY (1) Raspberry Pi 5** onto the RP5 Housing using **QTY (4) M2x6 Button Head Screw** and **QTY (4) M2 Hex Nut** on the opposite end. The ports on the Raspberry Pi should be on the top. The screws should be going from the Raspberry Pi 5 to the Housing, with the nuts on the external side.
+#. Attach **QTY (1) Raspberry Pi 5** onto the RP5  in section '1' using **QTY (4) M2x6 Button Head Screw** and **QTY (4) M2 Hex Nut** on the opposite end. The ports on the Raspberry Pi should be on the top. The screws should be going from the Raspberry Pi 5 to the Housing, with the nuts on the external side.
 
    .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/
        :align: center

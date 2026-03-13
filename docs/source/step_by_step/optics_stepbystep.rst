@@ -61,7 +61,13 @@ Projector Mount
 
 Required Materials:
 ^^^^^^^^^^^^^^^^^^^
-*
+* (QTY 1)
+* (QTY 1)
+* (QTY 1)
+* (QTY 1)
+* (QTY 1)
+* (QTY 1)
+
 
 .. image:: ../static/WIP.png
     :align: center 
