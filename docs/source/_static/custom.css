@@ -1,0 +1,10 @@
+/* This file intentionally left blank. */
+
+.wy-side-nav-search, .wy-nav-top {
+    background: #FFC31B !important;
+}
+
+.wy-menu-vertical header, 
+.wy-menu-vertical p.caption {
+    color: #FFC31B !important;
+}
