@@ -120,7 +120,7 @@ Required Materials:
 ^^^^^^^^^^^^^^^^^^^
 **NOTE: Heat set inserts were already installed into the Back Top Plate**
 
-* (QTY 1) Back Top Plate
+* (QTY 1) Back Top Plate 
 * (QTY 4) M2x10 Standoffs
 * (QTY 8) M2x6 Button Head Screws
 * (QTY 1) Stepper Motor Circuit / Perfboard Assembly

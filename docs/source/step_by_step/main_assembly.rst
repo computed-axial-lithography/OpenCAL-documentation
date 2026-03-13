@@ -92,7 +92,7 @@ Step-by-Step Instructions
     .. image:: ../static/WIP.png
         :align: center
 
-#. Install the **Rotation Stage** in the position below. The cut-out in the mid base plate should be on the rail in between the vial and projector sections. Tighten the M5 fasteners.
+#. Install the **Rotation Stage** in the position below. The cut-out in the mid base plate should be on the rail in between the vial and projector sections. Ensure the mid base plate is pulled to be flush with the front base plate. Tighten the M5 fasteners.
 
     .. image:: ../static/WIP.png
         :align: center

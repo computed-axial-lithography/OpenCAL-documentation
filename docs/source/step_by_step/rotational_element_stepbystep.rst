@@ -208,7 +208,7 @@ Step-by-Step Instructions:
 .. image:: ../static/WIP.png
     :align: center 
 
-2. Repeat Step 1 one more time with **QTY (1) Back Base Plate** The Front & Back Base Plates subassembly is now complete.
+2. Repeat Step 1 one more time with **QTY (1) Back Base Plate**. The Back Base Plate is the one with mounting slots rather than holes. The Front & Back Base Plates subassembly is now complete.
 
 .. image:: ../static/WIP.png
     :align: center 
