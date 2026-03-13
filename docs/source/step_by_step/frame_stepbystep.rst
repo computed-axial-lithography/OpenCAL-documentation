@@ -803,7 +803,7 @@ Required Materials:
 * (QTY 10) Magnet Frame Insert
 * (QTY 10) 12x5x2mm Rare Earth Magnet Bar
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Magnet_Frame_Inserts/
+   .. image:: ../static/WIP.png
        :align: center
 
 Required Tools:

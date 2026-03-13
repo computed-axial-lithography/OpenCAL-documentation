@@ -238,28 +238,31 @@ Step-by-Step Instructions
 
 #. Pull out the knob of the **QTY (1) Knob Encoder** and keep it to the side. Also unscrew the **QTY (1) Knob Encoder Nut** and **QTY (1) Knob Encoder Washer** if it is attached. Install the **QTY (1) LCD Screen** and Knob Encoder by aligning their holes with the small extruded pillars on the **QTY (1) LCD Base** and pressing down. Ensure the LCD screen is on the left and encoder is on the right. Ensure the PCB of the LCD comes out the back and the wire prongs of the encoder come out the back at the top.
 
-   .. image:: ../static/WIP.png
+   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/LCD_Housing/LCD-4a.jpg
+       :align: center
+
+   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/LCD_Housing/LCD-4b.jpg
        :align: center
 
 #. Slide **QTY (2) M5x10 Button Head Screw** through the holes on the side of the LCD Base. Loosely install **QTY (2) M5 Hammer TNut** to the other side.
 
-   .. image:: ../static/WIP.png
+   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/LCD_Housing/LCD-5.jpg
        :align: center
 
 #. Install the **QTY (1) LCD Top** by aligning it with the base (matching the LCD Screen hole) and ensuring the counterbores are external. Fasten down using **QTY (4) M3x8 Button Head Screw**.
 
-   .. image:: ../static/WIP.png
+   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/LCD_Housing/LCD-6.jpg
        :align: center
 
 #. Place **QTY (1) Knob Encoder Washer** over the Knob Encoder and screw on **QTY (1) Knob Encoder Nut**. Press on the Knob onto the Knob Encoder.
 NOTE: This will fix the encoder to the top lid. When moving the LCD Enclosure on the rail, the LCD Top will need to be removed. However, due to the encoder, it cannot be completely removed (assuming it is plugged in) and must be held while the entire enclosure is being moved. This will be repeated in the main assembly page.
 
-   .. image:: ../static/WIP.png
+   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/LCD_Housing/LCD-7.jpg
        :align: center
 
 #. The LCD Enclosure is now complete.
 
-   .. image:: ../static/WIP.png
+   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/LCD_Housing/LCD-8.jpg
        :align: center
 
 ----
@@ -282,7 +285,7 @@ Required Materials:
 * (QTY 2) M5x8 Button Head Screw
 * (QTY 2) M5 Hammer TNut
 
-.. image:: ../static/WIP.png
+.. image:: ../static/Step_by_Step/Electronics_Subassemblies/19V_Converter_Assembly/19v-materials.jpg
     :align: center
 
 Required Tools:
@@ -298,15 +301,19 @@ Step-by-Step Instructions
 
 #. Place the flat end of the **QTY (1) 19V Buck Converter** against the non-counterbored side of the **QTY (1) 19V Converter Mount** with the wires going to the left. Fasten these together using **QTY (2) M3x8 Button Head Screw**, **QTY (2) M3 Washer**, and **QTY (2) M3 Hex Nut** from the opposite end. Ensure the fastener comes from the 3D printed side and the washer is under the head of the fastener (the fastener and washer should be in the counterbore).
 
-   .. image:: ../static/WIP.png
+   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/19V_Converter_Assembly/19v-1a.jpg
+       :align: center
+
+   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/19V_Converter_Assembly/19v-1b.jpg
        :align: center
 
 #. Insert **QTY (2) M5x8 Button Head Screw** from the top on each of the side mounting points as shown below. Loosely install **QTY (2) M5 Hammer TNut** on the opposite end of each fastener.
 
-   .. image:: ../static/WIP.png
+#. The 19V Converter Assembly is now complete.
+
+   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/19V_Converter_Assembly/19v-3.jpg
        :align: center
 
-#. The 19V Converter Assembly is now complete.
 
 ----
 
