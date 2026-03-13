@@ -465,7 +465,7 @@ Required Materials:
 * (QTY 4) M2x6 Standoff
 * (QTY 4) M2x10 Standoff
 
-.. image:: ../static/WIP.png
+.. image:: ../static/Step_by_Step/Electronics_Subassemblies/Camera_Mount/camera-materials.jpg
     :align: center
 
 Required Tools:
@@ -485,32 +485,29 @@ Step-by-Step Instructions
 
 #. Install **QTY (4) M2x6 Standoff** to the bottom of the **QTY (1) Raspberry Pi Camera** using **QTY (4) M2x6 Button Head Screw**. The screw should go from the camera to the standoff.
 
-    .. image:: ../static/WIP.png
+    .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Camera_Mount/camera-1.jpg
         :align: center
 
 #. Install the assembly from Step 1 into the '1' section using **QTY (4) M2x6 Button Head Screw** from the opposite end (with respect to the front--see image below). Ensure the camera ribbon cable goes to the left of the '1'.
 
-    .. image:: ../static/WIP.png
+    .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Camera_Mount/camera-2.jpg
         :align: center
 
 #. Install **QTY (4) M2x10 Standoff** to the bottom of **QTY (1) CSI to HDMI Adapter** using **QTY (4) M2x6 Button Head Screw**. The screw should go from the adapter to the standoff.
 
-    .. image:: ../static/WIP.png
+    .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Camera_Mount/camera-3.jpg
         :align: center
 
 #. Install the assembly from Step 3 into the '2' section using **QTY (4) M2x6 Button Head Screw** from the opposite end (with respect to the front--see image below). Ensure the hdmi port faces the right of the '2'.
 
-    .. image:: ../static/WIP.png
+    .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Camera_Mount/camera-4.jpg
         :align: center
 
 #. Insert **QTY (4) M5x10 Button Head Screw** from the top on each of the side mounting points as shown below. Loosely install **QTY (4) M5 Hammer TNut** on the opposite end of each fastener.
 
-    .. image:: ../static/WIP.png
-        :align: center
-
 #. The Camera Mount subassembly is now complete.
 
-    .. image:: ../static/WIP.png
+    .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Camera_Mount/camera-6.jpg
         :align: center
 
 
