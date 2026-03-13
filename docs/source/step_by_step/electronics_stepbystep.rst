@@ -346,7 +346,7 @@ Required Materials:
 * (QTY 4)  M5 Hammer TNut
 * (QTY 1)  M3x4x5 Heat Set Insert
 
-.. image:: ../static/Step_by_Step/Electronics_Subassemblies/Raspberry_Pi_Housing/
+.. image:: ../static/Step_by_Step/Electronics_Subassemblies/Raspberry_Pi_Housing/rp5-materials.jpg
     :align: center
 
 Required Tools:
@@ -528,7 +528,7 @@ Required Materials:
 * (QTY 2) M3x10 Button Head Screw
 * (QTY 2) M3 Hex Nut
 
-.. image:: ../static/WIP.png
+.. image:: ../static/Step_by_Step/Electronics_Subassemblies/Switch/switch-materials.jpg
     :align: center
 
 Required Tools:
@@ -544,7 +544,11 @@ Step-by-Step Instructions
 
 #. Place the **QTY (1) Switch** from the front of the **QTY (1) Side Projector Panel subassembly** in the position below. Ensure the switch is on the left and plug is on the right. Install using **QTY (2) M3x10 Button Head Screw** and **QTY (2) M3 Hex Nut** from the opposite side.
 
-    .. image:: ../static/WIP.png
+    .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Switch/switch-1a.jpg
+        :align: center
+
+    .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Switch/switch-1b.jpg
         :align: center
 
 #. The Switch subassembly is complete
+
