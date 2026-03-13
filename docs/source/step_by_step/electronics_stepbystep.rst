@@ -346,7 +346,7 @@ Required Materials:
 * (QTY 4)  M5 Hammer TNut
 * (QTY 1)  M3x4x5 Heat Set Insert
 
-.. image:: ../static/Step_by_Step/Frame_Subassemblies/
+.. image:: ../static/Step_by_Step/Electronics_Subassemblies/Raspberry_Pi_Housing/
     :align: center
 
 Required Tools:
@@ -365,69 +365,84 @@ Step-by-Step Instructions
 
 #. Align **QTY (2) RP5 Door Hinge** with each other by placing the circular ends in between each other. Each hinge should be flipped relative to the other hinge. Ensure it is in the following orientation:
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/
+   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Raspberry_Pi_Housing/rp5-1.jpg
        :align: center
 
 #. Insert **QTY (1) Hinge Pin** from the top, ensuring that it goes all the way through. Both Hinges are the same, so either orientation will work.
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/
+   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Raspberry_Pi_Housing/rp5-2.jpg
        :align: center
 
 #. Insert **QTY (1) M3x4x5 Heat Insert** into **QTY (1) RP5 Housing** in the designated location using a soldering iron. Ensure that the top of the heat set inserts are flush with the surfaces.
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/
+   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Raspberry_Pi_Housing/rp5-3.jpg
        :align: center
 
 #. Attach the cool fan grill to the **QTY (1) Brushless Cooling Fan** using **QTY (4) M3x10 Button Head Screw** and **QTY (4) M3 Hex Nut** from the side WITHOUT the logo and wires. The screws should be going from the grill into the fan.
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/
+   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Raspberry_Pi_Housing/rp5-4.jpg
        :align: center
 
 #. Attach the **QTY (1) Brushless Cooling Fan** to the back of the **QTY (1) RP5 Housing Door** (the side without the hinge indent) using **QTY (4) M3x10 Button Head Screws** and **QTY (4) M3 Hex Nut**. The fan should be orientated so that the wire is coming from the top left (while looking from the 3D printed door with the hinge indent on the left). The non-grill side of the fan should be interfacing with the door. The screws should be coming from the door to the fan (see image below).
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/
+   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Raspberry_Pi_Housing/rp5-5a.jpg
+       :align: center
+
+   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Raspberry_Pi_Housing/rp5-5b.jpg
        :align: center
 
 #. Attach one of the Hinges from the assembly in Step 2 to the hinge indent area on the RP5 Housing Door (opposite side of fan) using **QTY (2) M3x10 Button Head Screw** and **QTY (2) M3 Hex Nut**. The bottom of the hinge that touches the door should be the extruded side -- not the flat side (see image below).
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/
+   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Raspberry_Pi_Housing/rp5-6a.jpg
+       :align: center
+
+   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Raspberry_Pi_Housing/rp5-6b.jpg
        :align: center
 
 #. Attach **QTY (4) M2x10 Standoff** to **QTY (1) CSI to HDMI Adapter** in the corners and screwing them in with **QTY (4) M2x6 Button Head Screw**.
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/
+   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Raspberry_Pi_Housing/rp5-7.jpg
        :align: center
 
 #. Attach the assembly from Step 7 using **QTY (4) M2x6 Button Head Screw** from the opposite end of the 3D print, ensuring the port comes out on the right whiling looking from the door (see image below).
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/
+   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Raspberry_Pi_Housing/rp5-8.jpg
        :align: center
 
 #. Attach **QTY (1) Raspberry Pi 5** onto the RP5 Housing using **QTY (4) M2x6 Button Head Screw** and **QTY (4) M2 Hex Nut** on the opposite end. The ports on the Raspberry Pi should be on the top. The screws should be going from the Raspberry Pi 5 to the Housing, with the nuts on the external side.
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/
+   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Raspberry_Pi_Housing/rp5-9a.jpg
+       :align: center
+
+   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Raspberry_Pi_Housing/rp5-9b.jpg
+       :align: center
+
+   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Raspberry_Pi_Housing/rp5-9c.jpg
        :align: center
 
 #. Take the assembly from Step 6 and attach the other Hinge to the RP5 Housing at the RP5 Housing hinge indent using **QTY (2) M3x10 Button Head Screw** and **QTY (2) M3 Hex Nut** with the screws going from the Hinge to the Housing.
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/
+   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Raspberry_Pi_Housing/rp5-10a.jpg
+       :align: center
+
+   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Raspberry_Pi_Housing/rp5-10b.jpg
        :align: center
 
 #. Close the door and lock it by screwing in **QTY (1) M3x8 Button Head Screw** in the designated location (see image below).
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/
+   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Raspberry_Pi_Housing/rp5-11.jpg
        :align: center
 
 #.  Insert **QTY (4) M5x10 Button Head Screw** from the top on each of the side mounting points as shown below. Loosely install **QTY (4) M5 Hammer TNut** on the opposite end of each fastener.
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/
-       :align: center
 
 #. The Raspberry Pi Housing is now complete.
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/
+   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Raspberry_Pi_Housing/rp5-13a.jpg
        :align: center
 
+   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Raspberry_Pi_Housing/rp5-13b.jpg
+       :align: center
 
 ----
 
