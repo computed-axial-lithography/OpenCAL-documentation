@@ -329,8 +329,9 @@ Required Materials:
 * (QTY 12) M2x6 Button Head Screw
 * (QTY 1)  M3x8 Button Head Screw 
 * (QTY 12) M3x10 Button Head Screw 
+* (QTY 4)  M2 Hex Nut
 * (QTY 12) M3 Hex Nut
-* (QTY 4)  M5x8 Button Head Screw
+* (QTY 4)  M5x10 Button Head Screw
 * (QTY 4)  M5 Hammer TNut 
 * (QTY 1)  M3x4x5 Heat Set Insert
 
@@ -371,7 +372,7 @@ Step-by-Step Instructions
    .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/
        :align: center 
 
-#. Attach the **QTY (1) Brushless Cooling Fan** to the back of the **QTY (1) RP5 Housing Door** (the side without the hinge indent) using **QTY (4) M3x10 Button Head Screws** and **QTY (4) M3 Hex Nut**. The fan should be orientated so that the wire is coming from the top left (while looking from the 3D printed door). The non-grill side of the fan should be interfacing with the door. The screws should be coming from the door to the fan (see image below).
+#. Attach the **QTY (1) Brushless Cooling Fan** to the back of the **QTY (1) RP5 Housing Door** (the side without the hinge indent) using **QTY (4) M3x10 Button Head Screws** and **QTY (4) M3 Hex Nut**. The fan should be orientated so that the wire is coming from the top left (while looking from the 3D printed door with the hinge indent on the left). The non-grill side of the fan should be interfacing with the door. The screws should be coming from the door to the fan (see image below).
 
    .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/
        :align: center 
@@ -391,7 +392,7 @@ Step-by-Step Instructions
    .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/
        :align: center 
 
-#. Attach **QTY (1) Raspberry Pi 5** onto the RP5 Housing using **QTY (4) M3x10 Button Head Screw** and **QTY (4) M3 Hex Nut** on the opposite end. The ports on the Raspberry Pi should be on the top. The screws should be going from the Raspberry Pi 5 to the Housing, with the nuts on the external side.
+#. Attach **QTY (1) Raspberry Pi 5** onto the RP5 Housing using **QTY (4) M2x6 Button Head Screw** and **QTY (4) M2 Hex Nut** on the opposite end. The ports on the Raspberry Pi should be on the top. The screws should be going from the Raspberry Pi 5 to the Housing, with the nuts on the external side.
 
    .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/
        :align: center 
@@ -401,12 +402,12 @@ Step-by-Step Instructions
    .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/
        :align: center 
 
-#. Close the door and lock it by screwing in **QTY (1) M3x10 Button Head Screw** in the designated location (see image below).
+#. Close the door and lock it by screwing in **QTY (1) M3x8 Button Head Screw** in the designated location (see image below).
 
    .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/
        :align: center 
 
-#.  Insert **QTY (4) M5x8 Button Head Screw** from the top on each of the side mounting points as shown below. Loosely install **QTY (4) M5 Hammer TNut** on the opposite end of each fastener.
+#.  Insert **QTY (4) M5x10 Button Head Screw** from the top on each of the side mounting points as shown below. Loosely install **QTY (4) M5 Hammer TNut** on the opposite end of each fastener.
 
    .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/
        :align: center 
