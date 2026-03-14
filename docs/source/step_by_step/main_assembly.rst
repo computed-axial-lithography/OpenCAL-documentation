@@ -122,7 +122,7 @@ Step-by-Step Instructions
     .. image:: ../static/WIP.png
         :align: center
 
-#. Install the **RP5 Housing** from the back. You will need to make sure to bring it from the bottom up since this assembly "sandwiches" the rail. Tighten the M5 fasteners.
+#. Install the **RP5 Housing** from the back. You will need to make sure to bring it from the bottom up since this assembly "sandwiches" the rail. Once the RP5 Housing is pulled up and nuts are in the rails, pull it all the way to the left as much as possible. Tighten the M5 fasteners.
 
     .. image:: ../static/WIP.png
         :align: center
