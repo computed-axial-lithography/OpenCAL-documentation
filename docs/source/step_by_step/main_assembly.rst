@@ -132,6 +132,11 @@ Step-by-Step Instructions
     .. image:: ../static/WIP.png
         :align: center
 
+#. Install the **LCD Housing** by carefully removing the screws on each corner of the LCD Top and lifting it. Ensure the LCD Screen does not fall out. Align the nuts on the connector near the position shown below and tighten the M5 fasteners. Place the LCD Top back on and tighten the four forner screws. The position of this housing will slightly change once the LCD Panel is installed in the next phase. 
+  
+    .. image:: ../static/WIP.png
+        :align: center
+
 #. Move the projector rail close to the Bottom Plate from the previous step. Install the **Projector Mount**, move the projector rail as needed based on the locator pieces. Tighten all M5 fasteners.
 
     .. image:: ../static/WIP.png

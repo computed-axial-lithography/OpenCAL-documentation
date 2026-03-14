@@ -200,7 +200,7 @@ Required Materials:
 * (QTY 1) Knob Encoder Nut
 * (QTY 6) M3x6x5 Heat Set Insert
 * (QTY 6) M3x8 Button Head Screw
-* (QTY 2) M5x10 Button Head Screw
+* (QTY 2) M5x8 Button Head Screw
 * (QTY 2) M5 Hammer TNut
 
 .. image:: ../static/Step_by_Step/Electronics_Subassemblies/LCD_Housing/LCD-materials.jpg
@@ -244,7 +244,7 @@ Step-by-Step Instructions
    .. image:: ../static/Step_by_Step/Electronics_Subassemblies/LCD_Housing/LCD-4b.jpg
        :align: center
 
-#. Slide **QTY (2) M5x10 Button Head Screw** through the holes on the side of the LCD Base. Loosely install **QTY (2) M5 Hammer TNut** to the other side.
+#. Slide **QTY (2) M5x8 Button Head Screw** through the holes on the side of the LCD Base. Loosely install **QTY (2) M5 Hammer TNut** to the other side.
 
    .. image:: ../static/Step_by_Step/Electronics_Subassemblies/LCD_Housing/LCD-5.jpg
        :align: center
@@ -254,7 +254,7 @@ Step-by-Step Instructions
    .. image:: ../static/Step_by_Step/Electronics_Subassemblies/LCD_Housing/LCD-6.jpg
        :align: center
 
-#. Place **QTY (1) Knob Encoder Washer** over the Knob Encoder and screw on **QTY (1) Knob Encoder Nut**. Press on the Knob onto the Knob Encoder.
+#. Place **QTY (1) Knob Encoder Washer** over the Knob Encoder and screw on **QTY (1) Knob Encoder Nut**. You may need to pull up the Knob Encoder via the knob portion to continue screwing on the nut and making it tight. Press on the Knob onto the Knob Encoder.
 NOTE: This will fix the encoder to the top lid. When moving the LCD Enclosure on the rail, the LCD Top will need to be removed. However, due to the encoder, it cannot be completely removed (assuming it is plugged in) and must be held while the entire enclosure is being moved. This will be repeated in the main assembly page.
 
    .. image:: ../static/Step_by_Step/Electronics_Subassemblies/LCD_Housing/LCD-7.jpg
