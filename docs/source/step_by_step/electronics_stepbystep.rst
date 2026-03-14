@@ -21,7 +21,7 @@ The electronics consists of the following subassemblies:
 ----
 
 Bottom Plate
-================
+============
 
 ----
 

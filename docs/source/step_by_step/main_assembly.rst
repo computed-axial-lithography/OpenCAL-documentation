@@ -73,7 +73,7 @@ Step-by-Step Instructions
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 **NOTE 1: All fasteners will be "hand tight". Ensure all TNuts are in the correct orientation (screw goes into flanged end). Ensure all Hammer TNuts are in the rail before tightening.** 
 
-**NOTE 2: The "front" of the printer is the face where the vial section (smaller section) is on the left and optics section is on the right.
+**NOTE 2: The "front" of the printer is the face where the vial section (smaller section) is on the left and optics section is on the right.**
 
 **NOTE 3: Positioning will be not be referred to in text. See images for positioning**
 
