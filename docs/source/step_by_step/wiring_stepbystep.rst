@@ -115,7 +115,7 @@ Power Distribution
       :align: center
 
       +--------------+---------+--------------------+-------+-------------+
-      | Component    | Name    | Connector          | Gauge | Length (CM) |
+      | Component    | Name    | Connector          | Gauge | Length (cm) |
       +==============+=========+====================+=======+=============+
       | Power Switch | Live    | Quick Release Plug |       |             |
       +--------------+---------+--------------------+ 18    | 41          |
@@ -142,7 +142,7 @@ Power Distribution
       :align: center
 
       +--------------+------+--------------------+-------+-------------+
-      | Component    | Name | Connector          | Gauge | Length (CM) |
+      | Component    | Name | Connector          | Gauge | Length (cm) |
       +==============+======+====================+=======+=============+
       | 5V Converter | Vin  | Through-hole solder|       |             |
       +--------------+------+--------------------+ 26    | 19          |
@@ -164,7 +164,7 @@ Power Distribution
       :align: center
    
       +---------------+---------+--------------------+-------+-------------+
-      | Component     | Name    | Connector          | Gauge | Length (CM) |
+      | Component     | Name    | Connector          | Gauge | Length (cm) |
       +===============+=========+====================+=======+=============+
       | 12V Converter | Input + | Screw Terminal     |       |             |
       +---------------+---------+--------------------+ 22    | 45          |
@@ -189,7 +189,7 @@ Power Distribution
       :align: center
    
       +---------------+---------+--------------------+-------+-------------+
-      | Component     | Name    | Connector          | Gauge | Length (CM) |
+      | Component     | Name    | Connector          | Gauge | Length (cm) |
       +===============+=========+====================+=======+=============+
       | 19V Converter | In+     | Pre-attached       |       |             |
       +---------------+---------+--------------------+ 18    | 15          |
@@ -208,7 +208,7 @@ Power Distribution
       :align: center
    
       +-----------------+---------+---------------------+-------+-------------+
-      | Component       | Name    | Connector           | Gauge | Length (CM) |
+      | Component       | Name    | Connector           | Gauge | Length (cm) |
       +=================+=========+=====================+=======+=============+
       | 5V Converter    | Vout    | Through-hole solder |       |             |
       +-----------------+---------+---------------------+ 26    | 4           |
@@ -228,7 +228,7 @@ Top Plate Housing Connections
       :align: center
 
       +--------------------+-------+----------------+-------+-------------+
-      | Component          | Name  | Connector      | Gauge | Length (CM) |
+      | Component          | Name  | Connector      | Gauge | Length (cm) |
       +====================+=======+================+=======+=============+
       | Motor              | A-    | Pre-attached   |       |             |
       +--------------------+-------+----------------+ 26    | 15          |
@@ -275,7 +275,7 @@ Top Plate Housing Connections
       :align: center
 
       +------------------+---------+----------------+-------+-------------+
-      | Component        | Name    | Connector      | Gauge | Length (CM) |
+      | Component        | Name    | Connector      | Gauge | Length (cm) |
       +==================+=========+================+=======+=============+
       | Encoder          | EA+     | Pre-attached   |       |             |
       +------------------+---------+----------------+ 26    | 28          |
@@ -319,7 +319,7 @@ Top Plate Housing Connections
       :align: center
    
       +------------------+---------+----------------+-------+-------------+
-      | Component        | Name    | Connector      | Gauge | Length (CM) |
+      | Component        | Name    | Connector      | Gauge | Length (cm) |
       +==================+=========+================+=======+=============+
       | RP5              | 3v3     | 4 Pin JST Plug |       |             |
       +------------------+---------+----------------+ 26    | 40          |
@@ -350,7 +350,7 @@ IMAGE: CAD WITH ROUTING + TOP VIEW HIGHLIGHT
       :align: center
    
       +-----------------+----------+----------------+-------+-------------+
-      | Component       | Name     | Connector      | Gauge | Length (CM) |
+      | Component       | Name     | Connector      | Gauge | Length (cm) |
       +=================+==========+================+=======+=============+
       | Perf Board      | VS       | 2 Pin JST Plug |       |             |
       +-----------------+----------+----------------+ 26    | 13          |
@@ -373,7 +373,7 @@ IMAGE: CAD WITH ROUTING + TOP VIEW HIGHLIGHT
       :align: center
    
       +------------------+---------+----------------+-------+-------------+
-      | Component        | Name    | Connector      | Gauge | Length (CM) |
+      | Component        | Name    | Connector      | Gauge | Length (cm) |
       +==================+=========+================+=======+=============+
       | Fan              | Power   | Pre-attached   |       |             |
       +------------------+---------+----------------+ 26    | 8           |
@@ -408,7 +408,7 @@ LCD Housing
       :align: center
    
       +-----------------+---------+----------------+-------+-------------+
-      | Component       | Name    | Connector      | Gauge | Length (CM) |
+      | Component       | Name    | Connector      | Gauge | Length (cm) |
       +=================+=========+================+=======+=============+
       | LCD             | SDA     | Dupont Socket  |       |             |
       +-----------------+---------+----------------+ 26    | 92          |
@@ -436,7 +436,7 @@ LCD Housing
       :align: center
 
       +-----------------+---------+----------------+-------+-------------+
-      | Component       | Name    | Connector      | Gauge | Length (CM) |
+      | Component       | Name    | Connector      | Gauge | Length (cm) |
       +=================+=========+================+=======+=============+
       | Encoder Knob    | \+      | Dupont Socket  |       |             |
       +-----------------+---------+----------------+ 26    | 104         |
@@ -479,7 +479,7 @@ LED
       :align: center
 
       +--------------------+--------+--------------------+-------+-------------+
-      | Component          | Name   | Connector          | Gauge | Length (CM) |
+      | Component          | Name   | Connector          | Gauge | Length (cm) |
       +====================+========+====================+=======+=============+
       | LED                | 5V     | Through-hole solder|       |             |
       +--------------------+--------+--------------------+ 26    | 20          |
@@ -503,7 +503,7 @@ LED
       :align: center
    
       +--------------------+------------+----------------+-------+-------------+
-      | Component          | Name       | Connector      | Gauge | Length (CM) |
+      | Component          | Name       | Connector      | Gauge | Length (cm) |
       +====================+============+================+=======+=============+
       | Terminal Block     | A5         | Dupont Socket  |       |             |
       +--------------------+------------+----------------+ 26    | 20          |
@@ -566,7 +566,7 @@ Remaining Connections
       :align: center
    
       +----------------+-------+----------------+-------+-------------+
-      | Component      | Name  | Connector      | Gauge | Length (CM) |
+      | Component      | Name  | Connector      | Gauge | Length (cm) |
       +================+=======+================+=======+=============+
       | RP5            | Power | Dupont Socket  |       |             |
       +----------------+-------+----------------+ 26    | 35          |
@@ -588,7 +588,7 @@ IMAGE: CAD DIAGRAM \+ USB
       :align: center
 
       +---------------+-------+----------------+-------+-------------+
-      | Component     | Name  | Connector      | Gauge | Length (CM) |
+      | Component     | Name  | Connector      | Gauge | Length (cm) |
       +===============+=======+================+=======+=============+
       | Projector     | Power | USB-C          |       |             |
       +---------------+-------+----------------+ 22    | 40          |
