@@ -63,19 +63,20 @@ Projector Mount
 
 Required Materials:
 ^^^^^^^^^^^^^^^^^^^
+* (QTY 1) Projector (NexiGo Nova Mini)
 * (QTY 1) Projector Interface
 * (QTY 1) XZ Stage
 * (QTY 1) Projector Stand
 * (QTY 1) XY Core
-* (QTY 1) X Locator
 * (QTY 2) Y Locator
 * (QTY 12) M3x40mm Stainless Steel Rod
 * (QTY 3) M3x40 Socket Head Screw
 * (QTY 3) 6x0.8x25mm Compression Spring
 * (QTY 9) M3 Hex Nuts
 * (QTY 3) M3 Washer
-* (QTY )
-
+* (QTY 1) 1/4-20x1/2 Button Head Screw
+* (QTY 4) M5x10 Button Head Screw
+* (QTY 4) M5 Hammer TNut 
 
 
 .. image:: ../static/WIP.png
@@ -92,7 +93,7 @@ Required Tools:
 
 Step-by-Step Instructions
 ^^^^^^^^^^^^^^^^^^^^^^^^^
-**NOTE: The "front" of the projector stand is the flat side. To press in the Steel Rods, it is recommended to use Needle Nose Pliers.**
+**NOTE: Unless otherwised mentioned, all fasteners will be "hand tight". The "front" of the projector stand is the flat side. To press in the Steel Rods, it is recommended to use Needle Nose Pliers. Always ensure the rods are flush with the 3D print.**
 
 #. Screw on **QTY (2) M3 Hex Nut** on **QTY (1) M3x40 Socket Head Screw** and then place **QTY (1) M3 Washer** over.
 
@@ -106,7 +107,7 @@ Step-by-Step Instructions
     .. image:: ../static/WIP.png
         :align: center 
 
-#. The **QTY (1) XY Core** has two hex holes and two circular holes for M3 Hex Nuts and M3 Screws respectively. On the top hole, screw the assembly from Step 2 through the circular hole until it comes out the hex hole. Screw on **QTY (1) M3 Hex Nut**. Grab the head of the M3 Socket Screw and pull the hex nut in so that it is as deep in the hex hole as possible. Remove the screw from the M3 Hex Nut, ensuring that the M3 Hex Nut remains deep in the hex hole.
+#. The **QTY (1) XY Core** has two hex holes and two circular holes for M3 Hex Nuts and M3 Screws respectively. On the top hole, screw the assembly from Step 2 through the circular hole until it comes out the hex hole. Screw on **QTY (1) M3 Hex Nut**. Grab the head of the M3 Socket Screw and pull it so that the hex nut goes in the hex hole and is as deep in the hex hole as possible. Remove the screw from the M3 Hex Nut, ensuring that the M3 Hex Nut remains deep in the hex hole.
 
     .. image:: ../static/WIP.png
         :align: center 
@@ -153,10 +154,50 @@ Step-by-Step Instructions
 
 #. Press in **QTY (2) M3x40 Stainless Steel Rods** through the other through holes of the **QTY (1) XZ Stage**. Ensure that these rods also go through the slots on the XY Core. 
 
+    .. image:: ../static/WIP.png
+        :align: center 
 
+#. Press on the **QTY (1) Projector Interface** onto the **QTY (1) Projector** such that the flat sides are parallel with the face of the lens. Ensure the larger flat is faces the opposite side of the lens and that the rotation stage is aligned with the lens (see image below). Screw down using **QTY (1) 1/4-20x1/2 Button Head Screw**.
 
+    .. image:: ../static/WIP.png
+        :align: center 
 
+#. The **QTY (1) Projector Interface** has a hex hole and a circular hole for a M3 Hex Nut and M3 Screw respectively. Screw the assembly from Step 2 through the circular hole until it comes out the hex hole. Screw on **QTY (1) M3 Hex Nut** slightly. Grab the head of the M3 Socket Screw and pull it so that the hex nut goes in the hex hole and is as deep in the hex hole as possible. Remove the screw from the M3 Hex Nut, ensuring that the M3 Hex Nut remains deep in the hex hole.
 
+    .. image:: ../static/WIP.png
+        :align: center 
 
+#. Press in **QTY (1) 6x0.8x25 mm Compression Spring** into the circular holes on the **QTY (1) Projector Interface**.
 
+    .. image:: ../static/WIP.png
+        :align: center 
 
+#. Take the assembly from Step 13 and place it over the **QTY (1) Projector Interface** so that it grabs the spring from the previous step. The spring should interface with the top center hole of the Step 13 assembly. Ensure it is oriented such that the base of the Step 13 assembly is closer to the lens.
+
+    .. image:: ../static/WIP.png
+        :align: center 
+
+#. Screw in the last assembly from Step 2 through the center hole such that it goes through the spring and M3 nut. Keep turning until you feel it engage all the way through the nut. 
+
+    .. image:: ../static/WIP.png
+        :align: center 
+
+#. Insert **QTY (2) M3x40 Stainless Steel Rods** through the two side holes of the Step 13 assembly (from the top). Ensure the rods go through the slots on the **Projector Interface**
+
+    .. image:: ../static/WIP.png
+        :align: center 
+
+#. Install **QTY (2) Y Locator** underneath the base of the **Projector Stand** using **QTY (2) M5x10 Button Head Screw** with **QTY (2) Hammer TNut** from the counterbores on the Projector Stand (see image for location).
+    **NOTE: The screws in the image are inaccurate, we had to use longer screws due to a misprint. For general case, use M5x10 Button Head Screws.**
+    .. image:: ../static/WIP.png
+        :align: center 
+
+#. Install **QTY (2) M5x10 Button Head Screw** with **QTY (2) M5 Hammer TNut** on the opposite end of the **QTY (2) Y Locator**.
+
+    .. image:: ../static/WIP.png
+        :align: center 
+
+#. The Projector Mount subassembly is now complete.
+
+    .. image:: ../static/WIP.png
+        :align: center 

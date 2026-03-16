@@ -462,8 +462,7 @@ Required Materials:
 * (QTY 4) M5x10 Button Head Screw
 * (QTY 4) M5 Hammer TNut
 * (QTY 16) M2x6 Button Head Screw
-* (QTY 4) M2x6 Standoff
-* (QTY 4) M2x10 Standoff
+* (QTY 8) M2x10 Standoff
 
 .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Camera_Mount/camera-materials.jpg
     :align: center

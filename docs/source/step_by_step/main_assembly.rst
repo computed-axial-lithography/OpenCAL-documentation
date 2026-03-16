@@ -51,7 +51,8 @@ Electronics Subassemblies:
 
 Non-Subassemblies:
 * (QTY 1) Projector Shroud
-* 
+* (QTY 1) X Locator
+* (QTY 1) 200mm Fresnel Lens
 
 
 ----
@@ -137,10 +138,15 @@ Step-by-Step Instructions
     .. image:: ../static/WIP.png
         :align: center
 
-#. Move the projector rail close to the Bottom Plate from the previous step. Install the **Projector Mount**, move the projector rail as needed based on the locator pieces. Tighten all M5 fasteners.
+#. Move the projector rail close to the Bottom Plate from the previous step. Install the **Projector Mount**, move the projector rail as needed based on the Y locator pieces. Tighten all M5 fasteners.
 
     .. image:: ../static/WIP.png
         :align: center
+
+#. Install **QTY (1) X Locator** on the front facing side of the projector mount using **QTY (2) M5x8 Button Head Screw** and **QTY (2) M5 Hammer TNut** on the opposite end. Loosen the M5 fasteners that interface the rails on the projector mount (2 on the Y Locators on back rail and 2 on the Projector Stand) and move it so it is flush with the X Locator. Tighten all M5 fasteners.
+
+    .. image:: ../static/WIP.png
+        :align: center 
 
 #. Install the **Switch** subassembly in the position shown below by aligning the Magnet Frame Inserts in the railing with those on the panel. The top of the panel should touch the top of the frame railing. The exact position will later change once the other panels are on.
 
@@ -156,6 +162,7 @@ Step-by-Step Instructions
 
     .. image:: ../static/WIP.png
         :align: center 
+
 
 ----
 
