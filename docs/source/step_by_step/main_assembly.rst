@@ -82,7 +82,7 @@ Step-by-Step Instructions
     .. image:: ../static/WIP.png
         :align: center
 
-#. Flip the frame so that it is sitting on the TPU feet. Install the **Front Base Plate** in the position below. Tighten the M5 fasteners. Repeat with the **Back Base Plate** in the position below.
+#. Flip the frame so that it is sitting on the TPU feet. Install the **Front Base Plate** in the position below. Tighten the M5 fasteners. Repeat with the **Back Base Plate** in the position below. Ensure the Back Base Plate (the one with the slotted holes) is all the way in the back.
 
     .. image:: ../static/WIP.png
         :align: center
@@ -92,7 +92,7 @@ Step-by-Step Instructions
     .. image:: ../static/WIP.png
         :align: center
 
-#. Install the **Rotation Stage** in the position below. The cut-out in the mid base plate should be on the rail in between the vial and projector sections. Ensure the mid base plate is pulled to be flush with the front base plate. Tighten the M5 fasteners.
+#. Install the **Rotation Stage** in the position below. The cut-out in the mid base plate should be on the rail in between the vial and projector sections. Ensure the mid base plate is pulled to be flush with the front base plate. Tighten the M5 fasteners. Loosen the screws on the **Back Base Plate** and bring it as forward as possible. Tighten the M5 fasteners again.
 
     .. image:: ../static/WIP.png
         :align: center

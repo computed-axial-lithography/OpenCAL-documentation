@@ -439,11 +439,16 @@ Top Projector Panel
 
 Required Materials:
 ^^^^^^^^^^^^^^^^^^^
+**NOTE: Heat set inserts have already been installed into Top Caps.**
+
 * (QTY 1) Top Projector Panel
+* (QTY 1) Top Cap 1
+* (QTY 1) Top Cap 2
 * (QTY 8) 12x5x2mm Rare Earth Magnet Bars
 * (QTY 4) Magnet Holder
 * (QTY 2) Panel Handle
 * (QTY 4) M3x4x5 Heat Set Insert
+* (QTY 10) M3x6x5 Heat Set Insert
 * (QTY 4) M3x6 Button Head Screw
 
 .. image:: ../static/Step_by_Step/Frame_Subassemblies/Top_Projector_Panel/top-projector-materials.jpg
@@ -505,9 +510,14 @@ Step-by-Step Instructions:
    .. image:: ../static/Step_by_Step/Frame_Subassemblies/Top_Projector_Panel/top-projector-8.jpg
        :align: center
 
-#. The Top Projector Panel subassembly is now complete.
+#. Install the **QTY (1) Top Cap 1** and **QTY (1) Top Cap 2** to the same side as the handles (top side) using **QTY (10) M3x8 Button Head Screw** from the opposite end of the panel. The Top Caps, when placed together, are symmetrical so it does not matter what orientation, see image below.
 
    .. image:: ../static/Step_by_Step/Frame_Subassemblies/Top_Projector_Panel/top-projector-9.jpg
+       :align: center
+
+#. The Top Projector Panel subassembly is now complete.
+
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Top_Projector_Panel/top-projector-10.jpg
        :align: center
 
 ----
