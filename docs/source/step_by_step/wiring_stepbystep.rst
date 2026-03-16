@@ -5,16 +5,16 @@ Wiring
 Required Materials:
 ^^^^^^^^^^^^^^^^^^^
 
-* 26 AWG, 22AWG, 18AWG wire  
-* Heat shrink  
-* Quick disconnect plugs  
-* JST connectors  
-* 2.54mm pitch Dupont Connector Kit  
-* 4.8mm quick disconnect plugs  
-* Ring Connectors 5.3mm ID  
-* Perf board  
-* 8x1 Header Pins x2  
-* HDMI 0.5ft  
+* 26 AWG, 22AWG, 18AWG wire
+* Heat shrink
+* Quick disconnect plugs
+* JST connectors
+* 2.54mm pitch Dupont Connector Kit
+* 4.8mm quick disconnect plugs
+* Ring Connectors 5.3mm ID
+* Perf board
+* 8x1 Header Pins x2
+* HDMI 0.5ft
 * Zip Ties
 
 Electronics Component Pocket Labeling
@@ -37,8 +37,8 @@ Electronics Component Pocket Labeling
 Required Tools:
 ^^^^^^^^^^^^^^^
 
-* Soldering iron & solder  
-* Dupont crimping tool  
+* Soldering iron & solder
+* Dupont crimping tool
 * Heat gun
 
 References for wiring techniques:
@@ -46,7 +46,7 @@ References for wiring techniques:
 
 .. TODO: Add links here
 
-* Dupont connectors tutorial  
+* Dupont connectors tutorial
 * Ring connector tutorial
 
 **NOTE: The provided wire lengths are an approximation. For cleaner routing and to account for any differences in your OpenCAL build, measuring wire based on the distances between components in your system.**
@@ -56,13 +56,48 @@ This guide assumes all components have been mounted to the printer system.
 Stepper Driver Perf Board
 =========================
 
-1. Collect JST connector pack, perf board, 8 Position Header Pins, TMC2209  
-2. Solder header pins to board, using the TMC2209 pins as a reference for distance
+1. Collect JST connector pack, perf board, 8 Position Header Pins, TMC2209
+2. Solder header pins to board, using the TMC2209 pins as a reference for distance. (Row 5, Columns K-R; Row 10, Columns K-R)
 
-(image)
+   .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/driver_step2_vis.png
+      :align: center
 
-3. …  
-4. Connect the perf board to the top plate
+3. Solder a 4 pin JST plug one column past the lower header pin. (Row 3, Columns J-M)
+
+   .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/driver_step3_vis.png
+      :align: center
+
+4. Solder a 4 pin JST plug centered with the upper header pin. (Row 12, Columns M-P)
+
+   .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/driver_step4_vis.png
+      :align: center
+
+5. Solder a 2 pin JST plug to the lest size of the perf board. (Row 12, Columns E-F)
+
+   .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/driver_step5_vis.png
+      :align: center
+
+6. Connect the four center pins of the updder header pin to the JST connector. Connect the three pins at the end of the lower header pin to the JST connector. (M10 to M12, N10 to N12, O10 to O12, P10 to P12, K3 to K5, L3 to L5, M3 to M5)
+
+   .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/driver_step6_vis.png
+      :align: center
+
+7.
+
+   .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/driver_step7_vis.png
+      :align: center
+
+8.
+
+   .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/driver_step8_vis.png
+      :align: center
+
+9.
+
+   .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/
+      :align: center
+
+10.
 
 
 Power Distribution
@@ -259,7 +294,7 @@ Top Plate Housing Connections
    .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/top_plate_step3_cad_diagram.png
       :align: center
 
-      
+
 +------------------+---------+----------------+-------+-------------+
 | Component        | Name    | Connector      | Gauge | Length (CM) |
 +==================+=========+================+=======+=============+
@@ -323,7 +358,7 @@ IMAGE: CAD WITH ROUTING + TOP VIEW HIGHLIGHT
 | 12V Converter    | Output +| Screw Terminal |       |             |
 +------------------+---------+----------------+ 26    | 28          |
 | 2 Pin Dupont     | Slot 1  | Dupont Socket  |       |             |
-| Socket           |         | Pin            |       |             | 
+| Socket           |         | Pin            |       |             |
 +------------------+---------+----------------+-------+-------------+
 | 12V Converter    | Output -| Screw Terminal |       |             |
 +------------------+---------+----------------+ 26    | 28          |
@@ -448,7 +483,7 @@ LED
 | Resistor           | Wire End 2 | Wire Solder    |       |             |
 +--------------------+------------+----------------+-------+-------------+
 
-Camera  
+Camera
 ======
 
 *Note about camera assembly: if CSI to HDMI adapters are not available, a long CSI cable can be used as a substitute.*
@@ -487,7 +522,7 @@ Remaining Connections
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Remaining_Connections/remaining_step1_cad_diagram.png
       :align: center
-      
+
 
 +----------------+-------+----------------+-------+-------------+
 | Component      | Name  | Connector      | Gauge | Length (CM) |
@@ -507,7 +542,7 @@ IMAGE: CAD DIAGRAM \+ USB
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Remaining_Connections/remaining_step2_vis1.png
       :align: center
-      
+
 +---------------+-------+----------------+-------+-------------+
 | Component     | Name  | Connector      | Gauge | Length (CM) |
 +===============+=======+================+=======+=============+
@@ -520,7 +555,7 @@ IMAGE: CAD DIAGRAM \+ USB
 | 19V Converter | Out-  | USB-C          |       |             |
 +---------------+-------+----------------+-------+-------------+
 
-IMAGE: BARREL JACK TO 19V  
+IMAGE: BARREL JACK TO 19V
 
 3. Connect the projector to the RP5 using a micro-HDMI to HDMI cable. If using an alternative projector with a different video input method, use a cable for connection from micro-HDMI to the corresponding input plug type.
 
