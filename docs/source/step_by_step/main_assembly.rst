@@ -201,7 +201,7 @@ Main Assembly Process - Part 2
     .. image:: ../static/WIP.png
         :align: center 
 
-#. Carefully detach the **Switch Subassembly** from the magnets and pop it out slightly, ensuring that no wiring gets detached. Slide in **QTY (4) Magnet Frame Insert** on the top face of the top two 65cm rails (2 each). Place them approximately where you believe it would align with the Top Projector Panel.
+#. Carefully detach the **Switch Subassembly** from the magnets and pop it out slightly, ensuring that no wiring gets detached. Slide in **QTY (4) Magnet Frame Insert** on the top face of the top two 65cm rails (2 each). Place them approximately where you believe it would align with the Top Projector Panel. Then place **QTY (1) Magnet Frame Insert** on the front top rail (see image below).
 
     .. image:: ../static/WIP.png
         :align: center 
@@ -211,12 +211,33 @@ Main Assembly Process - Part 2
     .. image:: ../static/WIP.png
         :align: center 
 
-#. Pop on the **Top Projector Panel Subassembly**, ensuring the top Magnet Frame Inserts are aligned and it is in the position shown below. Ensure the wiring from the LCD Enclosure does not get caught. It should be orientated so that the CAL logos on the magnets are facing the front and the hole for the Pi is aligned.
+#. Pop on the **Top Projector Panel Subassembly**, ensuring the top Magnet Frame Inserts are aligned and it is in the position shown below. Ensure the wiring from the LCD Enclosure does not get caught. It should be orientated so that the CAL logos on the magnet holders are facing the front and the hole for the Pi is aligned.
 
     .. image:: ../static/WIP.png
         :align: center 
 
-#. 
+#. Open the Door and install **QTY (5) Magnet Frame Insert** on the front top and bottom rails (3 on each). Place them around the door magnets and around the LCD Panel magnets (see images below).
 
+    .. image:: ../static/WIP.png
+        :align: center 
 
+#. Install the **Side Vial Panel Subassembly** in the position below. Loosen the M5 fasteners on the Door Hinges that interface with the rail slightly (loose enought that you can move it but it does not fall). Align the Side Vial Panel such that the top of the panel is flush with the top surface of the Top Vial Panel. The back should be flush with the front surface of the Back Vial Panel. Tighten all M5 fasteners, including the ones on the Door Hinges.
 
+    .. image:: ../static/WIP.png
+        :align: center 
+
+#. Remove the corner screws on the **LCD Top** and carefully pull it open and slightly loosen (so that it can move but does not come off) the '2' M5 fasteners that connect the LCD Enclosure to the rail. Pop on the **LCD Panel Subassembly** by aligning it with the magnet frame inserts from the previous step and move the LCD Enclosure as needed. Go from the bottom up.The right side of the LCD Panel should be flush with the BACK surface of the Side Projector Panel.
+
+    .. image:: ../static/WIP.png
+        :align: center 
+
+#. OpenCAL is complete.
+
+    .. image:: ../static/WIP.png
+        :align: center 
+
+    .. image:: ../static/WIP.png
+        :align: center 
+        
+    .. image:: ../static/WIP.png
+        :align: center 
