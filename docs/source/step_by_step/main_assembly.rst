@@ -103,7 +103,7 @@ Step-by-Step Instructions
     .. image:: ../static/WIP.png
         :align: center
 
-#. Install ONE of the **Cols Lens Side Mount** to the back rail in the position below. Position it so the bottom is 95 mm from the top face of bottom rail of the frame. Tighten the M5 fasteners.
+#. Install ONE of the **Col Lens Side Mount** to the back rail in the position below. Position it so the bottom is 95 mm from the top face of bottom rail of the frame. Tighten the M5 fasteners.
 
     .. image:: ../static/WIP.png
         :align: center
@@ -170,3 +170,53 @@ Main Assembly Process - Part 2
 ===============================
 
 ----
+
+#. Carefully place in the **200mm Fresnel Lens** into the front slots on the collimating lens bottom and side mounts. The flat, non-grooved side of the lens should be facing the projector. See images below.
+
+    .. image:: ../static/WIP.png
+        :align: center 
+
+#. Now place the **Projector Shroud** into the other grooves/extrusions of the collimating side mount and the extrusion on the colliating lens bottom mount. The projector shroud can only fit in one way (one bottom slot, two side slots).
+
+    .. image:: ../static/WIP.png
+        :align: center 
+
+#. After the projector shroud is in, install the second **QTY (1) Col Lens Side Mount** on the front face, ensuring that the **200mm Fresnel Lens** is in the first (left) slot, and the **Projector Shroud** is in the right slot. The **Col Lens Side Mount** should be 95mm from the top of the bottom rail. Tighten all M5 fasteners. See images below.
+
+    .. image:: ../static/WIP.png
+        :align: center 
+
+#. This step is installing the **Top Vial Panel Subassembly** If the motor and encoder wires are plugged in, disconnect the Dupont connectors. Take off the **Stepper Motor Subassembly** and run the wires through the cut out in the panel. Place this on top and run the encoder wires through the wire routing cutout in the Top Housing Plate. Reconnect the Dupont connectors for the motor and encoder. Use the zip-tie cutouts to secure the motor and encoder wires. Leave enough slack in the wires for the motor to reach both the "down" and "up" positions. After the wires have been routed, place the panel flat, align the corner M5 Hammer TNuts with the railing and tighten. Ensure the side of the **Top Vial Panel** is flush with the side face of the rail.
+
+    .. image:: ../static/WIP.png
+        :align: center 
+
+#. Install the **Back Vial Panel Subassembly** in the position located below. Ensure that it is flush with the face of the back railing. You may need to loosen the M5 fasteners of the **RP5 Housing** to push it to the left a little in order to have the Back Vial Panel be flush. After screwing down the Back Vial Panel, bring the RP5 Housing to the right as possible (so it is against the back vial panel) and tigheten down.
+
+    .. image:: ../static/WIP.png
+        :align: center 
+
+#. Install the **Back Projector Panel Subassembly** by aligning all the M5 Hammer TNuts with their respective rails in the position located below. Tighten all M5 fasteners.
+
+    .. image:: ../static/WIP.png
+        :align: center 
+
+#. Carefully detach the **Switch Subassembly** from the magnets and pop it out slightly, ensuring that no wiring gets detached. Slide in **QTY (4) Magnet Frame Insert** on the top face of the top two 65cm rails (2 each). Place them approximately where you believe it would align with the Top Projector Panel.
+
+    .. image:: ../static/WIP.png
+        :align: center 
+
+#. (Recommended, not required) Tighten the 4 corner M5 fasteners on the Side Projector Panel, to ensure no wiring comes loose.
+
+    .. image:: ../static/WIP.png
+        :align: center 
+
+#. Pop on the **Top Projector Panel Subassembly**, ensuring the top Magnet Frame Inserts are aligned and it is in the position shown below. Ensure the wiring from the LCD Enclosure does not get caught. It should be orientated so that the CAL logos on the magnets are facing the front and the hole for the Pi is aligned.
+
+    .. image:: ../static/WIP.png
+        :align: center 
+
+#. 
+
+
+

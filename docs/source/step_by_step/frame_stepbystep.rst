@@ -422,6 +422,8 @@ Step-by-Step Instructions:
    .. image:: ../static/Step_by_Step/Frame_Subassemblies/Side_Projector_Panel/Side-8.JPG
        :align: center
 
+#. (Not shown in images). Loosely install **QTY (4) M5x8 Button Head Screw** and **QTY (4) M5 Hammer TNut** on each corner of the panel. Do not tighten these down as this will occur during Main Assembly Part 2.
+
 #. The Side Projector Panel subassembly is now complete.
 
    .. image:: ../static/Step_by_Step/Frame_Subassemblies/Side_Projector_Panel/Side-9.JPG
@@ -439,7 +441,7 @@ Top Projector Panel
 
 Required Materials:
 ^^^^^^^^^^^^^^^^^^^
-**NOTE: Heat set inserts have already been installed into Top Caps.**
+**NOTE: Heat set inserts have already been installed into Top Caps. Rare Earth Magnet Bars have already been installed into magnet holders and panel.**
 
 * (QTY 1) Top Projector Panel
 * (QTY 1) Top Cap 1
@@ -450,6 +452,7 @@ Required Materials:
 * (QTY 4) M3x4x5 Heat Set Insert
 * (QTY 10) M3x6x5 Heat Set Insert
 * (QTY 4) M3x6 Button Head Screw
+* (QTY 8) M3x8 Button Head Screw
 
 .. image:: ../static/Step_by_Step/Frame_Subassemblies/Top_Projector_Panel/top-projector-materials.jpg
     :align: center
@@ -514,6 +517,11 @@ Step-by-Step Instructions:
 
    .. image:: ../static/Step_by_Step/Frame_Subassemblies/Top_Projector_Panel/top-projector-9.jpg
        :align: center
+
+#. Glue on **QTY (1) RP5 Slot Cover** in the small hole on the **Top Projector Panel**.
+
+    .. image:: ../static/WIP.png
+        :align: center 
 
 #. The Top Projector Panel subassembly is now complete.
 
