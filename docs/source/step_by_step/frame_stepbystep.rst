@@ -441,7 +441,7 @@ Top Projector Panel
 
 Required Materials:
 ^^^^^^^^^^^^^^^^^^^
-**NOTE: Heat set inserts have already been installed into Top Caps. Rare Earth Magnet Bars have already been installed into magnet holders and panel.**
+**NOTE: Heat set inserts have already been installed into Top Caps. Rare Earth Magnet Bars have already been installed into magnet holders and panel. RP5 Guard is not depicted.**
 
 * (QTY 1) Top Projector Panel
 * (QTY 1) Top Cap 1
@@ -453,6 +453,7 @@ Required Materials:
 * (QTY 10) M3x6x5 Heat Set Insert
 * (QTY 4) M3x6 Button Head Screw
 * (QTY 8) M3x8 Button Head Screw
+* (QTY 1) RP5 Guard
 
 .. image:: ../static/Step_by_Step/Frame_Subassemblies/Top_Projector_Panel/top-projector-materials.jpg
     :align: center
@@ -518,7 +519,7 @@ Step-by-Step Instructions:
    .. image:: ../static/Step_by_Step/Frame_Subassemblies/Top_Projector_Panel/top-projector-9.jpg
        :align: center
 
-#. Glue on **QTY (1) RP5 Slot Cover** in the small hole on the **Top Projector Panel**.
+#. Glue on **QTY (1) RP5 Guard** in the small hole on the **Top Projector Panel**.
 
     .. image:: ../static/WIP.png
         :align: center 
@@ -668,13 +669,14 @@ Required Materials:
 * (QTY 1) Top Vial Panel
 * (QTY 4) M5x8 Button Head Screws
 * (QTY 4) M5 Hammer TNut
+* (QTY 1) Motor Wire Guard
 
    .. image:: ../static/Step_by_Step/Frame_Subassemblies/Top_Vial_Panel/top-vial-materials.jpg
        :align: center
 
 Required Tools:
 ^^^^^^^^^^^^^^^
-No Tools Required.
+* (QTY 1) Super Glue
 
 
 Step-by-Step Instructions:
@@ -685,6 +687,11 @@ Step-by-Step Instructions:
 
    .. image:: ../static/Step_by_Step/Frame_Subassemblies/Top_Vial_Panel/top-vial-1.jpg
        :align: center
+    
+#. Glue on **QTY (1) Motor Wire Guard** in the small hole on the **Top Projector Panel**.
+
+    .. image:: ../static/WIP.png
+        :align: center 
 
 #. The Top Vial Panel subassembly is now complete.
 
