@@ -1,3 +1,5 @@
+.. _wiring-instructions:
+
 Wiring
 ++++++++++++++++++++++++++++++
 
