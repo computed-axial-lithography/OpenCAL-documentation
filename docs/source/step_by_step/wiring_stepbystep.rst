@@ -1,6 +1,11 @@
 Wiring
 ++++++++++++++++++++++++++++++
 
+.. figure:: ../static/Step_by_Step/Wiring_Images/wiring_diagram.png
+   :align: center
+   
+   General wiring diagram
+
 
 Required Materials:
 ^^^^^^^^^^^^^^^^^^^
@@ -84,23 +89,25 @@ Stepper Driver Perf Board
    .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/driver_step6_vis.png
       :align: center
 
-7.
+7. Using 26 AWG wire, connect the pins corresponding to GND and VS, the two leftmost pins on header 1, to the 2 pin JST connector. (Q10 to F12, R10 to E12)
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/driver_step7_vis.png
       :align: center
 
-8.
+8. Using 26 AWG wire, connet the leftmost pin of header pin 2, corresponding to EN, to the leftmost pin of the JST connector 2. (R5 to M3)
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/driver_step8_vis.png
       :align: center
 
-9.
+9. Using 26 AWG wire, connect the rightmost pin of the header pin 1 to the rightmost pin of JST connector 2. (L10 to J3)
 
-   .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/
+   .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/driver_step9_vis.png
       :align: center
 
-10.
+10. Place the TMC2209 on the perf board wit hthe A1, A2, B1, B2, pins on top.
 
+   .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/driver_step10_vis.png
+      :align: center
 
 Power Distribution
 ==================
