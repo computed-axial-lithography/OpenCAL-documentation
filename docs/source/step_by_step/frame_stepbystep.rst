@@ -516,13 +516,7 @@ Step-by-Step Instructions:
 
 #. Install the **QTY (1) Top Cap 1** and **QTY (1) Top Cap 2** to the same side as the handles (top side) using **QTY (10) M3x8 Button Head Screw** from the opposite end of the panel. The Top Caps, when placed together, are symmetrical so it does not matter what orientation, see image below.
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Top_Projector_Panel/top-projector-9.jpg
-       :align: center
-
 #. Glue on **QTY (1) RP5 Guard** in the small hole on the **Top Projector Panel**.
-
-    .. image:: ../static/WIP.png
-        :align: center 
 
 #. The Top Projector Panel subassembly is now complete.
 

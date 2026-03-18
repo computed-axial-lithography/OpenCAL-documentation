@@ -140,6 +140,9 @@ Power Distribution
       |              |         | Screw Terminal     |       |             |
       +--------------+---------+--------------------+-------+-------------+
 
+   .. image:: ../static/Step_by_Step/Wiring_Images/Power_Distribution/power_dist_step1_assem.jpg
+      :align: center
+
 2. Connect the 5V Converter to the 24V Adapter. The 5V Converter will need to be removed from the plate to connect wires to the soldering through holes, then reattached.
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Power_Distribution/power_dist_step2_cad_diagram.png
@@ -162,6 +165,9 @@ Power Distribution
       |              |      | Screw Terminal     |       |             |
       +--------------+------+--------------------+-------+-------------+
 
+   .. image:: ../static/Step_by_Step/Wiring_Images/Power_Distribution/power_dist_step2_assem.jpg
+      :align: center
+
 3. Connect 12V Converter to the 24V Adapter
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Power_Distribution/power_dist_step3_cad_diagram.png
@@ -183,6 +189,9 @@ Power Distribution
       | 24V Adapter   | V-      | Ring Connector &   |       |             |
       |               |         | Screw Terminal     |       |             |
       +---------------+---------+--------------------+-------+-------------+
+
+   .. image:: ../static/Step_by_Step/Wiring_Images/Power_Distribution/power_dist_step3_assem.jpg
+      :align: center
 
 4. Connect 19V Converter to the 24V Adapter
 
@@ -209,6 +218,9 @@ Power Distribution
       |               |         | Screw Terminal     |       |             |
       +---------------+---------+--------------------+-------+-------------+
 
+   .. image:: ../static/Step_by_Step/Wiring_Images/Power_Distribution/power_dist_step4_assem.jpg
+      :align: center
+
 5. Connect 5V Converter to the Screw Terminal Block, with Vout connected to A and Ground connected to B. This is where all 5V powered components will be connected.
 
    .. table::
@@ -225,6 +237,9 @@ Power Distribution
       +-----------------+---------+---------------------+ 26    | 4           |
       | Terminal Block  | B       | Screw Terminal      |       |             |
       +-----------------+---------+---------------------+-------+-------------+
+
+   .. image:: ../static/Step_by_Step/Wiring_Images/Power_Distribution/power_dist_step5_assem.jpg
+      :align: center
 
 Top Plate Housing Connections
 =============================
@@ -269,6 +284,9 @@ Top Plate Housing Connections
       +--------------------+-------+----------------+ 26    | 6           |
       | 4 Pin Dupont Socket| Slot 4| Dupont Socket  |       |             |
       +--------------------+-------+----------------+-------+-------------+
+
+   .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/top_plate_step1_assem.jpg
+      :align: center
 
 2. Connect encoder EA+, EB+, VCC, and GND wires to a receptacle Dupont connector. Connect wires from a plug Dupont connector to Terminal Block and RP5 pins. Trim extraneous wires (EA-, EB-, EZ+, EZ-) to 10 cm and use heat shrink to cover wire ends.
 
@@ -317,6 +335,9 @@ Top Plate Housing Connections
       | 4 Pin Dupont Plug| Slot 4  | Dupont Plug Pin|       |             |
       +------------------+---------+----------------+-------+-------------+
 
+   .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/top_plate_step2_assem.jpg
+      :align: center
+
 3. Connect wires from a 4 pin JST plug to the corresponding pins on the RP5. Plug the JST connector into the stepper driver Perf Board.
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/top_plate_step3_cad_diagram.png
@@ -346,7 +367,8 @@ Top Plate Housing Connections
       +------------------+---------+----------------+-------+-------------+
 
 
-IMAGE: CAD WITH ROUTING + TOP VIEW HIGHLIGHT
+   .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/top_plate_step3_assem.jpg
+      :align: center
 
 4. Connect wires from a 2 pin JST plug to the 12V Converter output screw terminals
 
@@ -401,8 +423,6 @@ IMAGE: CAD WITH ROUTING + TOP VIEW HIGHLIGHT
       | Socket           | Slot 2  | Pin            |       |             |
       +------------------+---------+----------------+-------+-------------+
 
-IMAGE: FAN WITH PINS IN PI
-
 LCD Housing
 ===========
 
@@ -433,6 +453,9 @@ LCD Housing
       +-----------------+---------+----------------+ 26    | 99          |
       | Terminal Block  | B3      | Screw Terminal |       |             |
       +-----------------+---------+----------------+-------+-------------+
+
+   .. image:: ../static/Step_by_Step/Wiring_Images/LCD/LCD_step1_assem.jpg
+      :align: center
 
 2. Connect the Encoder to the Terminal Block and RP5. Run wires through the cutout in the LCD Housing Mount.
 
@@ -465,6 +488,9 @@ LCD Housing
       +-----------------+---------+----------------+ 26    | 103         |
       | RP5             | GPIO 19 | Dupont Socket  |       |             |
       +-----------------+---------+----------------+-------+-------------+
+
+   .. image:: ../static/Step_by_Step/Wiring_Images/LCD/LCD_step2_assem.jpg
+      :align: center
 
 LED
 ===
@@ -529,6 +555,9 @@ LED
       | Resistor           | Wire End 2 | Wire Solder    |       |             |
       +--------------------+------------+----------------+-------+-------------+
 
+   .. image:: ../static/Step_by_Step/Wiring_Images/LED/LED_step3_assem.jpg
+      :align: center
+      
 Camera
 ======
 
@@ -544,18 +573,22 @@ Camera
    .. image:: ../static/Step_by_Step/Wiring_Images/camera/camera_step2_vis1.png
       :align: center
 
-IMAGE: CAMERA MOUNT TOP VIEW
 
 3. In the RP5 Housing assembly, connect the CSI to HDMI adapter to the RP5 using a CSI cable. This CSI cable is 22 pin to 15 pin.
 
    .. image:: ../static/Step_by_Step/Wiring_Images/camera/camera_step3_vis1.png
       :align: center
 
-IMAGE: CSI CABLE, RP5 HOUSING IMAGE
+   .. image:: ../static/Step_by_Step/Wiring_Images/camera/camera_step3_assem.jpg
+      :align: center
+
 
 4. Connect the adapters using the 0.5 ft HDMI cable.
 
    .. image:: ../static/Step_by_Step/Wiring_Images/camera/camera_step4_vis1.png
+      :align: center
+
+   .. image:: ../static/Step_by_Step/Wiring_Images/camera/camera_step4_assem.jpg
       :align: center
 
 Remaining Connections
@@ -584,7 +617,8 @@ Remaining Connections
       | Terminal Block | B6    | Screw Terminal |       |             |
       +----------------+-------+----------------+-------+-------------+
 
-IMAGE: CAD DIAGRAM \+ USB
+   .. image:: ../static/Step_by_Step/Wiring_Images/Remaining_Connections/remaining_step1_assem.jpg
+      :align: center
 
 2. Connect the projector to 19V power by connecting wires from the 19V power output to the corresponding plug for projector power. For the NexiGo Nova Mini, this is a USB-C.
 
@@ -606,11 +640,16 @@ IMAGE: CAD DIAGRAM \+ USB
       | 19V Converter | Out-  | USB-C          |       |             |
       +---------------+-------+----------------+-------+-------------+
 
-IMAGE: BARREL JACK TO 19V
+   .. image:: ../static/Step_by_Step/Wiring_Images/Remaining_Connections/remaining_step2_assem.jpg
+      :align: center
+
 
 3. Connect the projector to the RP5 using a micro-HDMI to HDMI cable. If using an alternative projector with a different video input method, use a cable for connection from micro-HDMI to the corresponding input plug type.
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Remaining_Connections/remaining_step3_cad_diagram.png
+      :align: center
+
+   .. image:: ../static/Step_by_Step/Wiring_Images/Remaining_Connections/remaining_step3_assem.jpg
       :align: center
 
 4. To secure wires on the Inner Housing Plate, use the press-fit clips along the wire routing cutouts.
@@ -619,5 +658,7 @@ IMAGE: BARREL JACK TO 19V
       :align: center
 
 
-IMAGE: CAD DIAGRAM
+   .. image:: ../static/Step_by_Step/Wiring_Images/Remaining_Connections/remaining_step4_assem.jpg
+      :align: center
+
 
