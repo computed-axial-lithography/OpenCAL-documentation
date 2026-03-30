@@ -195,7 +195,7 @@ Power Distribution
    .. image:: ../static/Step_by_Step/Wiring_Images/Power_Distribution/power_dist_step3_assem.jpg
       :align: center
 
-4. Connect 19V Converter to the 24V Adapter
+4. Connect 19V Converter to the 24V Adapter. **Note:** If you are using a different projector, the voltage requirement may be different from 19V. Check power requirements in the product spec and use a different buck converter if needed.
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Power_Distribution/power_dist_step4_vis1.png
       :align: center
