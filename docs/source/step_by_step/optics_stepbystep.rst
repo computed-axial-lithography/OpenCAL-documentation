@@ -13,8 +13,13 @@ Collimating Lens Mounts
 
 ----
 
-.. image:: ../static/WIP.png
-    :align: center 
+.. image:: ../static/Step_by_Step/Optics_Subassemblies/Collimating_Lens/col_lens_mounts_1_CAD.png
+     :align: center
+
+.. image:: ../static/Step_by_Step/Optics_Subassemblies/Collimating_Lens/col_lens_mounts_2_CAD.png
+     :align: center
+
+|
 
 Required Materials:
 ^^^^^^^^^^^^^^^^^^^
@@ -22,9 +27,6 @@ Required Materials:
 * (QTY 2) Col Lens Side Mount
 * (QTY 9) M5x8 Button Head Screw
 * (QTY 9) M5 Hammer TNut
-
-.. image:: ../static/WIP.png
-    :align: center 
 
 Required Tools:
 ^^^^^^^^^^^^^^^
@@ -61,8 +63,13 @@ Projector Mount
 
 **NOTE: These instructions are for the NexiGo Nova Mini Laser Projector.** 
 
-.. image:: ../static/WIP.png
-    :align: center 
+.. image:: ../static/Step_by_Step/Optics_Subassemblies/Projector_Mount/projector_mount_1_CAD.png
+     :align: center 
+
+.. image:: ../static/Step_by_Step/Optics_Subassemblies/Projector_Mount/projector_mount_2_CAD.png
+     :align: center 
+
+|
 
 Required Materials:
 ^^^^^^^^^^^^^^^^^^^
@@ -81,9 +88,8 @@ Required Materials:
 * (QTY 4) M5x10 Button Head Screw
 * (QTY 4) M5 Hammer TNut 
 
-
-.. image:: ../static/WIP.png
-    :align: center 
+.. image:: ../static/Step_by_Step/Optics_Subassemblies/Projector_Mount/projector-materials.jpg
+     :align: center 
 
 Required Tools:
 ^^^^^^^^^^^^^^^

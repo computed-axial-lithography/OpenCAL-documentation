@@ -14,8 +14,6 @@ The rotational element consists of the following subassemblies:
 
 * Back Top Plate
 
-* Stepper Motor
-
 ----
 
 Rotation Stage
@@ -23,8 +21,14 @@ Rotation Stage
 
 ----
 
-.. image:: ../static/WIP.png
-    :align: center
+.. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies_Subassemblies/Rotation_Stage/rotational_element_1_CAD.png
+     :align: center 
+
+.. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies_Subassemblies/Rotation_Stage/rotational_element_2_CAD.png
+     :align: center 
+
+
+|
 
 Required Materials:
 ^^^^^^^^^^^^^^^^^^^
@@ -44,13 +48,12 @@ Required Materials:
 .. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Rotation_Stage/rotational_element_materials.JPG
     :align: center
 
+|
+
 Required Tools:
 ^^^^^^^^^^^^^^^
 * M2.5 Hex/Allen Key
 * Soldering Iron
-
-.. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Rotation_Stage/rotational_element_tools.JPG
-    :align: center
 
 Step-by-Step Instructions:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -104,8 +107,13 @@ Large Vial
 
 ----
 
-.. image:: ../static/WIP.png
-    :align: center
+.. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies_Subassemblies/Large_Vial/large_vial_1_CAD.png
+     :align: center 
+
+.. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies_Subassemblies/Large_Vial/large_vial_2_CAD.png
+     :align: center 
+
+|
 
 Required Materials:
 ^^^^^^^^^^^^^^^^^^^
@@ -122,12 +130,12 @@ Required Materials:
 .. image:: ../static/WIP.png
     :align: center
 
+|
+
 Required Tools:
 ^^^^^^^^^^^^^^^
 * Tape
 
-.. image:: ../static/WIP.png
-    :align: center
 
 Step-by-Step Instructions:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -141,8 +149,13 @@ Small Vial
 
 ----
 
-.. image:: ../static/WIP.png
-    :align: center
+.. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies_Subassemblies/Small_Vial/small_vial_1_CAD.png
+     :align: center 
+
+.. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies_Subassemblies/Small_Vial/small_vial_2_CAD.png
+     :align: center 
+
+|
 
 Required Materials:
 ^^^^^^^^^^^^^^^^^^^
@@ -153,6 +166,11 @@ Required Materials:
 .. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Small_Vial/
     :align: center
 
+|
+
+Required Tools:
+^^^^^^^^^^^^^^^^^^^
+No Tools Required.
 
 Step-by-Step Instructions:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -175,8 +193,13 @@ Front & Back Base Plates
 
 ----
 
-.. image:: ../static/WIP.png
-    :align: center
+.. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies_Subassemblies/Front_Back_Base_Plates/bottom_back_plate_CAD.png
+     :align: center 
+
+.. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies_Subassemblies/Front_Back_Base_Plates/bottom_front_plate_CAD.png
+     :align: center 
+
+|
 
 Required Materials:
 ^^^^^^^^^^^^^^^^^^^
@@ -187,6 +210,8 @@ Required Materials:
 
 .. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Front_Back_Base_Plates/front-back-materials.JPG
     :align: center
+
+|
 
 Required Tools:
 ^^^^^^^^^^^^^^^
@@ -212,8 +237,13 @@ Front Top Plate
 
 ----
 
-.. image:: ../static/WIP.png
-    :align: center
+.. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies_Subassemblies/Front_Top_Plate_Stepper_Mounting/stepper_mount_CAD.png
+     :align: center 
+
+.. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies_Subassemblies/Front_Top_Plate_Stepper_Mounting/top_front_plate_CAD.png
+     :align: center 
+
+|
 
 Required Materials:
 ^^^^^^^^^^^^^^^^^^^
@@ -232,35 +262,34 @@ Required Materials:
 .. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Front_Top_Plate_Stepper_Mounting/front-top-materials.JPG
     :align: center
 
+|
+
 Required Tools:
 ^^^^^^^^^^^^^^^
 * M2.5 Hex/Allen Key
 * Soldering Iron
 
-.. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Front_Top_Plate_Stepper_Mounting/front-top-tools.JPG
-    :align: center
-
 Step-by-Step Instructions:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 **NOTE: Unless otherwised mentioned, all fasteners will be "hand tight". Ensure that heat set inserts have ~2 minutes to cool post installation.**
 
-1. Take QTY (4) M3x4x5mm Heat Set Insert and, using a soldering iron, place them into the following locations on the QTY (1) Front Top Plate. Ensure that the top of the heat set inserts are flush with the surfaces. 
+1. Take **QTY (4) M3x4x5mm Heat Set Insert** and, using a soldering iron, place them into the following locations on the **QTY (1) Front Top Plate**. Ensure that the top of the heat set inserts are flush with the surfaces. 
 
    .. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Front_Top_Plate_Stepper_Mounting/front-top-1.JPG
 
-2. Repeat Step 1 with QTY (2) M3x4x5mm Heat Set Insert, and place them into (QTY 1\) Hex Shaft. 
+2. Repeat Step 1 with **QTY (2) M3x4x5mm Heat Set Insert**, and place them into **QTY (1) Hex Shaft**. 
    
    .. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Front_Top_Plate_Stepper_Mounting/front-top-2.JPG
 
-3. From the “bottom” of the Front Top Plate (where the counterbores are) place QTY (6) M5x10 Button Head Screw. Loosely install QTY (6) M5 Hammer TNut on the opposite end of each fastener. 
+3. From the “bottom” of the Front Top Plate (where the counterbores are) place **QTY (6) M5x10 Button Head Screw**. Loosely install **QTY (6) M5 Hammer TNut** on the opposite end of each fastener. 
 
    .. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Front_Top_Plate_Stepper_Mounting/front-top-3.JPG
 
-4. Apply a small amount of loctite to the holes on the sides of the (QTY 1\) Stepper Motor Holder and place (QTY 4\) 10x3mm Circular Magnet. For each magnet ensure that the same polarity faces outward. 
+4. Apply a small amount of loctite to the holes on the sides of the **QTY (1) Stepper Motor Holder** and place **QTY (4) 10x3mm Circular Magnet**. For each magnet ensure that the same polarity faces outward. 
 
    .. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Front_Top_Plate_Stepper_Mounting/front-top-4.JPG
 
-5. Apply a small amount of loctite to the holes on the front of the (QTY 1\) Stepper Mount Plate and place (QTY 4\) 10x3mm Circular Magnet into the holes. For each magnet ensure that the opposite polarity to that of the Stepper Motor Holder magnets faces outward. 
+5. Apply a small amount of loctite to the holes on the front of the **QTY (1) Stepper Mount Plate** and place **QTY (4) 10x3mm Circular Magnet** into the holes. For each magnet ensure that the opposite polarity to that of the Stepper Motor Holder magnets faces outward. 
 
    .. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Front_Top_Plate_Stepper_Mounting/front-top-5.JPG
 
@@ -268,19 +297,56 @@ Step-by-Step Instructions:
 
    .. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Front_Top_Plate_Stepper_Mounting/front-top-6.JPG
 
-7. Slide (QTY 1\) Stepper Motor into the Stepper Motor Holder. Fasten the holder to the stepper motor using (QTY 4\) M3x6mm Button Head Screw. Ensure that the wiring of the stepper motor is aligned with the opening in the stepper motor holder. 
+7. Slide **QTY (1) Stepper Motor** into the Stepper Motor Holder. Fasten the holder to the stepper motor using **QTY (4) M3x6mm Button Head Screw**. Ensure that the wiring of the stepper motor is aligned with the opening in the stepper motor holder. 
 
    .. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Front_Top_Plate_Stepper_Mounting/front-top-7.JPG
 
-8. Slide (QTY 1\) Hex Shaft onto the Stepper Motor shaft until the hard stop of the Hex Shaft. Fasten the Hex Shaft to the Stepper Motor using (QTY 2\) M3x6mm Button Head Screw. Ensure that the screws are flush with the surface of the hex shaft. 
+8. Slide **QTY (1) Hex Shaft** onto the Stepper Motor shaft until the hard stop of the Hex Shaft. Fasten the Hex Shaft to the Stepper Motor using **QTY (2) M3x6mm Button Head Screw.** Ensure that the screws are flush with the surface of the hex shaft. 
 
    .. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Front_Top_Plate_Stepper_Mounting/front-top-8.JPG
 
-9. Take QTY (2) Stepper Mount Plate and slot them into their corresponding areas. Fasten down with QTY (4) M3x15mm Button Head Screw. 
+9. Take **QTY (2) Stepper Mount Plate** and slot them into their corresponding areas. Fasten down with **QTY (4) M3x15mm Button Head Screw**. 
 
    .. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Front_Top_Plate_Stepper_Mounting/front-top-9.JPG
 
 10. The Front Top Plate is now complete. 
 
    .. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Front_Top_Plate_Stepper_Mounting/front-top-10.JPG
+
+
+----
+
+Back Top Plate
+================
+
+----
+
+.. image:: ../static/WIP.png
+    :align: center
+
+Required Materials:
+^^^^^^^^^^^^^^^^^^^
+* (QTY 1) Back Top Plate
+* (QTY 4) M5x10mm Button Head Screw
+* (QTY 4) M5 Hammer TNut
+
+
+.. image:: ../static/WIP.png
+    :align: center
+
+Required Tools:
+^^^^^^^^^^^^^^^
+No Tools Required.
+
+Step-by-Step Instructions:
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+**NOTE: This assembly will be used in the electronics subassembly section.**
+
+1. From the "bottom" of the Back Top Plate (where the counterbores are) place **QTY (4) M5x10 Button Head Screw**. Loosely install **QTY (4) M5 Hammer TNut** on the opposite end of each fastener.
+
+.. image:: ../static/WIP.png
+    :align: center
+
+2. The Back Top Plate is now complete.
+
 

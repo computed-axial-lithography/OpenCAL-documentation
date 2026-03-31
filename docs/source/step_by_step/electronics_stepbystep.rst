@@ -25,8 +25,13 @@ Bottom Plate
 
 ----
 
-.. image:: ../static/WIP.png
-    :align: center
+.. image:: ../static/Step_by_Step/Electronics_Subassemblies/Bottom_Plate/bottom_plate_1_CAD.png
+     :align: center
+
+.. image:: ../static/Step_by_Step/Electronics_Subassemblies/Bottom_Plate/bottom_plate_2_CAD.png
+     :align: center
+
+|
 
 Required Materials:
 ^^^^^^^^^^^^^^^^^^^
@@ -47,14 +52,13 @@ Required Materials:
 .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Bottom_Plate/bottomplate-materials.jpg
     :align: center
 
+|
+
 Required Tools:
 ^^^^^^^^^^^^^^^
 * Soldering Iron
 * M2 Hex/Allen Key
 * Small Phillips Driver (+1.5)
-
-.. image:: ../static/WIP.png
-    :align: center
 
 Step-by-Step Instructions
 ^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -116,8 +120,13 @@ Top Plate
 
 ----
 
-.. image:: ../static/WIP.png
-    :align: center
+.. image:: ../static/Step_by_Step/Electronics_Subassemblies/Top_Plate/top_plate_1_CAD.png
+     :align: center
+
+.. image:: ../static/Step_by_Step/Electronics_Subassemblies/Top_Plate/top_plate_2_CAD.png
+     :align: center
+
+|
 
 Required Materials:
 ^^^^^^^^^^^^^^^^^^^
@@ -134,15 +143,13 @@ Required Materials:
 .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Top_Plate/topplate-materials.jpg
     :align: center
 
+|
+
 Required Tools:
 ^^^^^^^^^^^^^^^
 * Soldering Iron
 * M2 Allen/Hex Key
 * Small Phillips Driver (+1.5)
-
-
-.. image:: ../static/WIP.png
-    :align: center
 
 Step-by-Step Instructions
 ^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -184,8 +191,13 @@ LCD Housing
 
 ----
 
-.. image:: ../static/WIP.png
-    :align: center
+.. image:: ../static/Step_by_Step/Electronics_Subassemblies/LCD_Housing/LCD_1_CAD.png
+     :align: center
+
+.. image:: ../static/Step_by_Step/Electronics_Subassemblies/LCD_Housing/LCD_2_CAD.png
+     :align: center
+
+|
 
 Required Materials:
 ^^^^^^^^^^^^^^^^^^^
@@ -206,13 +218,12 @@ Required Materials:
 .. image:: ../static/Step_by_Step/Electronics_Subassemblies/LCD_Housing/LCD-materials.jpg
     :align: center
 
+|
+
 Required Tools:
 ^^^^^^^^^^^^^^^
 * M3 Hex/Allen Key
 * M2 Hex/Allen Key
-
-.. image:: ../static/WIP.png
-    :align: center
 
 Step-by-Step Instructions
 ^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -272,8 +283,13 @@ NOTE: This will fix the encoder to the top lid. When moving the LCD Enclosure on
 
 ----
 
-.. image:: ../static/WIP.png
-    :align: center
+.. image:: ../static/Step_by_Step/Electronics_Subassemblies/19V_Converter_Assembly/19v_mount_1_CAD.png
+     :align: center
+
+.. image:: ../static/Step_by_Step/Electronics_Subassemblies/19V_Converter_Assembly/19v_mount_2_CAD.png
+     :align: center
+
+|
 
 Required Materials:
 ^^^^^^^^^^^^^^^^^^^
@@ -288,12 +304,11 @@ Required Materials:
 .. image:: ../static/Step_by_Step/Electronics_Subassemblies/19V_Converter_Assembly/19v-materials.jpg
     :align: center
 
+|
+
 Required Tools:
 ^^^^^^^^^^^^^^^
 * M2 Hex/Allen Key
-
-.. image:: ../static/WIP.png
-    :align: center
 
 Step-by-Step Instructions
 ^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -322,8 +337,16 @@ Raspberry Pi Housing
 
 ----
 
-.. image:: ../static/WIP.png
-    :align: center
+.. image:: ../static/Step_by_Step/Electronics_Subassemblies/Raspberry_Pi_Housing/rp5_1_CAD.png
+     :align: center
+
+.. image:: ../static/Step_by_Step/Electronics_Subassemblies/Raspberry_Pi_Housing/rp5_2_CAD.png
+     :align: center
+
+.. image:: ../static/Step_by_Step/Electronics_Subassemblies/Raspberry_Pi_Housing/rp5_3_CAD.png
+     :align: center
+
+|
 
 Required Materials:
 ^^^^^^^^^^^^^^^^^^^
@@ -349,15 +372,14 @@ Required Materials:
 .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Raspberry_Pi_Housing/rp5-materials.jpg
     :align: center
 
+|
+
 Required Tools:
 ^^^^^^^^^^^^^^^
 * M2 Hex/Allen Key
 * M3 Hex/Allen Key
 * Soldering Iron
 * Small Phillips Driver (+1.5)
-
-.. image:: ../static/WIP.png
-    :align: center
 
 Step-by-Step Instructions
 ^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -451,8 +473,13 @@ Camera Mount
 
 ----
 
-.. image:: ../static/WIP.png
-    :align: center
+.. image:: ../static/Step_by_Step/Electronics_Subassemblies/Camera_Mount/camera_1_CAD.png
+     :align: center
+
+.. image:: ../static/Step_by_Step/Electronics_Subassemblies/Camera_Mount/camera_2_CAD.png
+     :align: center
+
+|
 
 Required Materials:
 ^^^^^^^^^^^^^^^^^^^
@@ -467,12 +494,11 @@ Required Materials:
 .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Camera_Mount/camera-materials.jpg
     :align: center
 
+|
+
 Required Tools:
 ^^^^^^^^^^^^^^^
 * Small Phillips Driver (+1.5)
-
-.. image:: ../static/WIP.png
-    :align: center
 
 Step-by-Step Instructions
 ^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -517,8 +543,10 @@ Switch
 
 ----
 
-.. image:: ../static/WIP.png
-    :align: center
+.. image:: ../static/Step_by_Step/Electronics_Subassemblies/Switch/switch_CAD.png
+     :align: center
+
+|
 
 Required Materials:
 ^^^^^^^^^^^^^^^^^^^
@@ -530,12 +558,11 @@ Required Materials:
 .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Switch/switch-materials.jpg
     :align: center
 
+|
+
 Required Tools:
 ^^^^^^^^^^^^^^^
 * M2 Hex/Allen Key
-
-.. image:: ../static/WIP.png
-    :align: center
 
 Step-by-Step Instructions
 ^^^^^^^^^^^^^^^^^^^^^^^^^
