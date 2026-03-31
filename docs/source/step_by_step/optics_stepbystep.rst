@@ -13,10 +13,10 @@ Collimating Lens Mounts
 
 ----
 
-.. image:: ../static/Step_by_Step/Optics_Subassemblies/Collimating_Lens/col_lens_mounts_1_CAD.png
+.. image:: ../static/Step_by_Step/Optics_Subassemblies/Collimating_Lens/col_lens_mount_1_CAD.png
      :align: center
 
-.. image:: ../static/Step_by_Step/Optics_Subassemblies/Collimating_Lens/col_lens_mounts_2_CAD.png
+.. image:: ../static/Step_by_Step/Optics_Subassemblies/Collimating_Lens/col_lens_mount_2_CAD.png
      :align: center
 
 |
