@@ -1,3 +1,4 @@
 docs/build/
 **/generated/
 docs/source/static/Step_by_Step_linked/
+**/.DS_Store
