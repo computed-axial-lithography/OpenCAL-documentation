@@ -1,8 +1,5 @@
 Main Assembly
 ++++++++++++++
-
-.. image:: ../static/WIP.png
-    :align: center 
     
 **NOTE: ALL SUBASSEMBLIES MUST BE COMPLETED PRIOR TO BEGGINNING THIS PROCESS**
 
@@ -62,13 +59,19 @@ Main Assembly Process - Part 1
 
 ----
 
+.. image:: ../static/Step_by_Step/Main_Assembly/part_1/main1_1_CAD.png
+     :align: center
+
+.. image:: ../static/Step_by_Step/Main_Assembly/part_1/main1_2_CAD.png
+     :align: center
+
+|
+
 Required Tools:
 ^^^^^^^^^^^^^^^
 * M3 Hex/Allen Key
 * Metric Measuring Tape
-
-.. image:: ../static/WIP.png
-    :align: center 
+* Digital/Metric Calipers
 
 Step-by-Step Instructions
 ^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -185,6 +188,21 @@ Main Assembly Process - Part 2
 ===============================
 
 ----
+
+.. image:: ../static/Step_by_Step/Main_Assembly/part_2/main2_1_CAD.png
+     :align: center
+
+.. image:: ../static/Step_by_Step/Main_Assembly/part_2/main2_2_CAD.png
+     :align: center
+
+|
+
+Required Tools:
+^^^^^^^^^^^^^^^
+* M3 Hex/Allen Key
+* Metric Measuring Tape
+* Digital/Metric Calipers
+
 
 #. Carefully place in the **200mm Fresnel Lens** into the front slots on the collimating lens bottom and side mounts. The flat, non-grooved side of the lens should be facing the projector. See images below.
 
