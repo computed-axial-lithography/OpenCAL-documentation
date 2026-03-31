@@ -37,27 +37,30 @@ Aluminum Extrusion Frame
 .. image:: ../static/Frame/Frame.png
    :align: center
 
+|
+
 Required Materials:
 ^^^^^^^^^^^^^^^^^^^
-* (QTY 4)  65 cm Aluminum Extrusions
-* (QTY 13) 25 cm Aluminum Extrusions
-* (QTY 44) 90 deg Corner Gussets
-* (QTY 88) M5x8 Button Head Screws
-* (QTY 12) M5x10 Button Head Screws
+* (QTY 4)   65 cm Aluminum Extrusions
+* (QTY 13)  25 cm Aluminum Extrusions
+* (QTY 44)  90 deg Corner Gussets
+* (QTY 88)  M5x8 Button Head Screws
+* (QTY 12)  M5x10 Button Head Screws
+* (QTY 6)   TPU Feet
+* (QTY 4)   Magnet Frame Insert Assembly
 * (QTY 100) M5 TNut
-* (QTY 6)  TPU Feet
-* (QTY 4) Magnet Frame Insert Assembly
+
 
 .. image:: ../static/Step_by_Step/Frame_Subassemblies/Aluminum_Extrusion_Frame/Frame-1.jpg
    :align: center
+
+|
 
 Required Tools:
 ^^^^^^^^^^^^^^^
 * M3 Hex/Allen Key
 * Metric Measuring Tape
 
-.. image:: ../static/Step_by_Step/Frame_Subassemblies/Aluminum_Extrusion_Frame/Frame-tools.jpg
-   :align: center
 
 Step-by-Step Instructions:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -219,8 +222,10 @@ LCD Panel
 
 ----
 
-.. image:: ../static/WIP.png
-    :align: center
+.. image:: ../static/Step_by_Step/Frame_Subassemblies/LCD_Panel/lcd_panel_CAD.png
+   :align: center
+
+|
 
 Required Materials:
 ^^^^^^^^^^^^^^^^^^^
@@ -236,14 +241,14 @@ Required Materials:
 .. image:: ../static/Step_by_Step/Frame_Subassemblies/LCD_Panel/LCD-materials.JPG
     :align: center
 
+|
+
 Required Tools:
 ^^^^^^^^^^^^^^^
 * Soldering Iron
 * M2 Hex/Allen Key
 * Super Glue
 
-.. image:: ../static/Step_by_Step/Frame_Subassemblies/LCD_Panel/LCD-tools.JPG
-    :align: center
 
 Step-by-Step Instructions:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -310,8 +315,10 @@ Back Projector Panel
 
 ----
 
-.. image:: ../static/Frame/WIPF.png
-    :align: center
+.. image:: ../static/Step_by_Step/Frame_Subassemblies/Back_Projector_Panel/back_projector_panel_CAD.png
+   :align: center
+
+|
 
 Required Materials:
 ^^^^^^^^^^^^^^^^^^^
@@ -321,6 +328,8 @@ Required Materials:
 
 .. image:: ../static/Step_by_Step/Frame_Subassemblies/Back_Projector_Panel/Back-1.JPG
     :align: center
+
+|
 
 Required Tools:
 ^^^^^^^^^^^^^^^
@@ -349,8 +358,10 @@ Side Projector Panel
 
 ----
 
-.. image:: ../static/WIP.png
-    :align: center
+.. image:: ../static/Step_by_Step/Frame_Subassemblies/Side_Projector_Panel/side_projector_panel_CAD.png
+     :align: center
+
+|
 
 Required Materials:
 ^^^^^^^^^^^^^^^^^^^
@@ -364,14 +375,14 @@ Required Materials:
 .. image:: ../static/Step_by_Step/Frame_Subassemblies/Side_Projector_Panel/Side-materials.JPG
     :align: center
 
+|
+
 Required Tools:
 ^^^^^^^^^^^^^^^
 * Soldering Iron
 * M2 Hex Key
 * Super Glue
 
-.. image:: ../static/Step_by_Step/Frame_Subassemblies/LCD_Panel/LCD-tools.JPG
-    :align: center
 
 Step-by-Step Instructions:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -436,8 +447,10 @@ Top Projector Panel
 
 ----
 
-.. image:: ../static/WIP.png
-    :align: center
+.. image:: ../static/Step_by_Step/Frame_Subassemblies/Top_Projector_Panel/top_projector_panel_CAD.png
+     :align: center
+
+|
 
 Required Materials:
 ^^^^^^^^^^^^^^^^^^^
@@ -458,14 +471,14 @@ Required Materials:
 .. image:: ../static/Step_by_Step/Frame_Subassemblies/Top_Projector_Panel/top-projector-materials.jpg
     :align: center
 
+|
+
 Required Tools:
 ^^^^^^^^^^^^^^^
 * Soldering Iron
 * M2 Hex Key
 * Super Glue
 
-.. image:: ../static/Step_by_Step/Frame_Subassemblies/LCD_Panel/LCD-tools.JPG
-    :align: center
 
 Step-by-Step Instructions:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -530,8 +543,10 @@ Door
 
 ----
 
-.. image:: ../static/WIP.png
-    :align: center
+.. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/door_panel_CAD.png
+     :align: center
+
+|
 
 Required Materials:
 ^^^^^^^^^^^^^^^^^^^
@@ -555,6 +570,8 @@ Required Materials:
 .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/door-materials.jpg
     :align: center
 
+|
+
 Required Tools:
 ^^^^^^^^^^^^^^^
 * Soldering Iron
@@ -562,8 +579,6 @@ Required Tools:
 * M2 Allen Wrench
 * Super Glue
 
-.. image:: ../static/WIP.png
-    :align: center
 
 Step-by-Step Instructions:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -655,8 +670,10 @@ Top Vial Panel
 
 ----
 
-.. image:: ../static/Frame/WIPF.png
-    :align: center
+.. image:: ../static/Step_by_Step/Frame_Subassemblies/Top_Vial_Panel/top_vial_panel_CAD.png
+     :align: center
+
+|
 
 Required Materials:
 ^^^^^^^^^^^^^^^^^^^
@@ -667,6 +684,8 @@ Required Materials:
 
    .. image:: ../static/Step_by_Step/Frame_Subassemblies/Top_Vial_Panel/top-vial-materials.jpg
        :align: center
+
+|
 
 Required Tools:
 ^^^^^^^^^^^^^^^
@@ -699,8 +718,10 @@ Back Vial Panel
 
 ----
 
-.. image:: ../static/Frame/WIPF.png
-    :align: center
+.. image:: ../static/Step_by_Step/Frame_Subassemblies/Back_Vial_Panel/back_vial_panel_CAD.png
+     :align: center
+
+|
 
 Required Materials:
 ^^^^^^^^^^^^^^^^^^^
@@ -710,6 +731,8 @@ Required Materials:
 
    .. image:: ../static/Step_by_Step/Frame_Subassemblies/Back_Vial_Panel/back-vial-materials.jpg
        :align: center
+
+|
 
 Required Tools:
 ^^^^^^^^^^^^^^^
@@ -738,8 +761,10 @@ Side Vial Panel
 
 ----
 
-.. image:: ../static/Frame/WIPF.png
-    :align: center
+.. image:: ../static/Step_by_Step/Frame_Subassemblies/Side_Vial_Panel/side_vial_panel_CAD.png
+     :align: center
+
+|
 
 Required Materials:
 ^^^^^^^^^^^^^^^^^^^
@@ -750,10 +775,11 @@ Required Materials:
    .. image:: ../static/Step_by_Step/Frame_Subassemblies/Side_Vial_Panel/side-vial-materials.jpg
        :align: center
 
+|
+
 Required Tools:
 ^^^^^^^^^^^^^^^
 No Tools Required.
-
 
 Step-by-Step Instructions:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -776,8 +802,13 @@ Bottom Panels
 
 ----
 
-.. image:: ../static/Frame/WIPF.png
-    :align: center
+.. image:: ../static/Step_by_Step/Frame_Subassemblies/Bottom_Panels/left_bottom_panel_CAD.png
+     :align: center
+
+.. image:: ../static/Step_by_Step/Frame_Subassemblies/Bottom_Panels/right_bottom_panel_CAD.png
+     :align: center
+
+|
 
 Required Materials:
 ^^^^^^^^^^^^^^^^^^^
@@ -787,6 +818,8 @@ Required Materials:
 
 .. image:: ../static/Step_by_Step/Frame_Subassemblies/Bottom_Panels/bottom-panels-materials.jpg
     :align: center
+
+|
 
 Required Tools:
 ^^^^^^^^^^^^^^^
@@ -814,8 +847,10 @@ Magnet Frame Inserts
 
 ----
 
-.. image:: ../static/WIP.png
-    :align: center
+.. image:: ../static/Step_by_Step/Frame_Subassemblies/Magnet_Frame_Inserts/magnet_frame_insert_CAD.png
+     :align: center
+
+|
 
 Required Materials:
 ^^^^^^^^^^^^^^^^^^^
@@ -825,13 +860,12 @@ Required Materials:
    .. image:: ../static/WIP.png
        :align: center
 
+|
+
 Required Tools:
 ^^^^^^^^^^^^^^^
-
 * Super Glue
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Magnet_Frame_Inserts/inserts-tools.jpg
-       :align: center
 
 Step-by-Step Instructions:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
