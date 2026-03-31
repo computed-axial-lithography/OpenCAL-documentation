@@ -155,7 +155,7 @@ Step-by-Step Instructions:
 
 #. You should now have the bottom of the frame.
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Aluminum_Extrusion_Frame/frame-18.jpg
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Aluminum_Extrusion_Frame/Frame-18.jpg
        :align: center
 
 #. Repeat Steps 12, 13, 15, 16, & 17 with the remaining **QTY (2) 65 cm Aluminum Extrusion**.

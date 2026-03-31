@@ -21,10 +21,10 @@ Rotation Stage
 
 ----
 
-.. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies_Subassemblies/Rotation_Stage/rotational_element_1_CAD.png
+.. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Rotation_Stage/rotational_element_1_CAD.png
      :align: center 
 
-.. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies_Subassemblies/Rotation_Stage/rotational_element_2_CAD.png
+.. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Rotation_Stage/rotational_element_2_CAD.png
      :align: center 
 
 
@@ -107,10 +107,10 @@ Large Vial
 
 ----
 
-.. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies_Subassemblies/Large_Vial/large_vial_1_CAD.png
+.. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Large_Vial/large_vial_1_CAD.png
      :align: center 
 
-.. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies_Subassemblies/Large_Vial/large_vial_2_CAD.png
+.. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Large_Vial/large_vial_2_CAD.png
      :align: center 
 
 |
@@ -149,10 +149,10 @@ Small Vial
 
 ----
 
-.. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies_Subassemblies/Small_Vial/small_vial_1_CAD.png
+.. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Small_Vial/small_vial_1_CAD.png
      :align: center 
 
-.. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies_Subassemblies/Small_Vial/small_vial_2_CAD.png
+.. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Small_Vial/small_vial_2_CAD.png
      :align: center 
 
 |
@@ -163,7 +163,7 @@ Required Materials:
 * (QTY 1) Small vial lid
 * (QTY 1) 2x18mm O-ring
 
-.. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Small_Vial/
+.. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Small_Vial/small-vial-materials.JPG
     :align: center
 
 |
@@ -193,10 +193,10 @@ Front & Back Base Plates
 
 ----
 
-.. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies_Subassemblies/Front_Back_Base_Plates/bottom_back_plate_CAD.png
+.. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Front_Back_Base_Plates/bottom_back_plate_CAD.png
      :align: center 
 
-.. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies_Subassemblies/Front_Back_Base_Plates/bottom_front_plate_CAD.png
+.. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Front_Back_Base_Plates/bottom_front_plate_CAD.png
      :align: center 
 
 |
@@ -237,10 +237,10 @@ Front Top Plate
 
 ----
 
-.. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies_Subassemblies/Front_Top_Plate_Stepper_Mounting/stepper_mount_CAD.png
+.. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Front_Top_Plate_Stepper_Mounting/stepper_mount_CAD.png
      :align: center 
 
-.. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies_Subassemblies/Front_Top_Plate_Stepper_Mounting/top_front_plate_CAD.png
+.. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Front_Top_Plate_Stepper_Mounting/top_front_plate_CAD.png
      :align: center 
 
 |
