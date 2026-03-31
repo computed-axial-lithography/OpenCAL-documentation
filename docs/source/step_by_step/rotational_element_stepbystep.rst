@@ -163,7 +163,7 @@ Required Materials:
 * (QTY 1) Small vial lid
 * (QTY 1) 2x18mm O-ring
 
-.. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Small_Vial/
+.. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Small_Vial/small-vial-materials.JPG
     :align: center
 
 |
