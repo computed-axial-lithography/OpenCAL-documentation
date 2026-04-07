@@ -314,39 +314,6 @@ Step-by-Step Instructions:
    .. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Front_Top_Plate_Stepper_Mounting/front-top-10.JPG
 
 
-----
 
-Back Top Plate
-================
-
-----
-
-.. image:: ../static/WIP.png
-    :align: center
-
-Required Materials:
-^^^^^^^^^^^^^^^^^^^
-* (QTY 1) Back Top Plate
-* (QTY 4) M5x10mm Button Head Screw
-* (QTY 4) M5 Hammer TNut
-
-
-.. image:: ../static/WIP.png
-    :align: center
-
-Required Tools:
-^^^^^^^^^^^^^^^
-No Tools Required.
-
-Step-by-Step Instructions:
-^^^^^^^^^^^^^^^^^^^^^^^^^^
-**NOTE: This assembly will be used in the electronics subassembly section.**
-
-1. From the "bottom" of the Back Top Plate (where the counterbores are) place **QTY (4) M5x10 Button Head Screw**. Loosely install **QTY (4) M5 Hammer TNut** on the opposite end of each fastener.
-
-.. image:: ../static/WIP.png
-    :align: center
-
-2. The Back Top Plate is now complete.
 
 

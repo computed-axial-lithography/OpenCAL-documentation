@@ -291,7 +291,7 @@ Required Materials:
 ^^^^^^^^^^^^^^^^^^^
 * (QTY 1) 19V Converter Mount
 * (QTY 1) 19V Buck Converter
-* (QTY 2) M3x6 Button Head Screw
+* (QTY 2) M3x10 Button Head Screw
 * (QTY 2) M3 Washer
 * (QTY 2) M3 Hex Nut
 * (QTY 2) M5x8 Button Head Screw
@@ -310,7 +310,7 @@ Step-by-Step Instructions
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 **NOTE: Unless otherwised mentioned, all fasteners will be "hand tight".**
 
-#. Place the flat end of the **QTY (1) 19V Buck Converter** against the non-counterbored side of the **QTY (1) 19V Converter Mount** with the wires going to the left. Fasten these together using **QTY (2) M3x8 Button Head Screw**, **QTY (2) M3 Washer**, and **QTY (2) M3 Hex Nut** from the opposite end. Ensure the fastener comes from the 3D printed side and the washer is under the head of the fastener (the fastener and washer should be in the counterbore).
+#. Place the flat end of the **QTY (1) 19V Buck Converter** against the non-counterbored side of the **QTY (1) 19V Converter Mount** with the wires going to the left. Fasten these together using **QTY (2) M3x10 Button Head Screw**, **QTY (2) M3 Washer**, and **QTY (2) M3 Hex Nut** from the opposite end. Ensure the fastener comes from the 3D printed side and the washer is under the head of the fastener (the fastener and washer should be in the counterbore).
 
    .. image:: ../static/Step_by_Step/Electronics_Subassemblies/19V_Converter_Assembly/19v-1a.jpg
        :align: center
