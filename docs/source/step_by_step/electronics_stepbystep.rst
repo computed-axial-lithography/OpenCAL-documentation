@@ -250,6 +250,8 @@ Step-by-Step Instructions
 #. Install the **QTY (1) LCD Screen** by aligning its holes with the small extruded pillars on the **QTY (1) LCD Base** and pressing down. Ensure the LCD screen is on the left position. Ensure the PCB of the LCD comes out the backp.
 
 
+   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/LCD_Housing/LCD-4a.jpg
+       :align: center
 
    .. image:: ../static/Step_by_Step/Electronics_Subassemblies/LCD_Housing/LCD-4b.jpg
        :align: center
@@ -262,10 +264,19 @@ Step-by-Step Instructions
 #. Pull out the knob of the **QTY (1) Knob Encoder** and keep it to the side. Also unscrew the **QTY (1) Knob Encoder Nut** and **QTY (1) Knob Encoder Washer** if it is attached. Take the **QTY (1) LCD Top** and place the encoder from the back end through the designated hole on the right of the large rectangular cutout. Ensure the prongs of the encoder face up. While pressing the encoder against the LCD Top from the back, place on the washer and tighten down the nut onto the encoder to lock it in place. 
 
 
+   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/LCD_Housing/LCD-6a.jpg
+       :align: center
+
+   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/LCD_Housing/LCD-6b.jpg
+       :align: center
+
+   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/LCD_Housing/LCD-6c.jpg
+       :align: center
 
 #. Press on the Knob onto the Knob Encoder. NOTE: This will fix the encoder to the top lid. 
 
-
+   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/LCD_Housing/LCD-7.jpg
+       :align: center
 
 #. The LCD Enclosure is now complete.
 
