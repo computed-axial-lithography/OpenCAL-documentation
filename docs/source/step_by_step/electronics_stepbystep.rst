@@ -247,10 +247,9 @@ Step-by-Step Instructions
    .. image:: ../static/Step_by_Step/Electronics_Subassemblies/LCD_Housing/LCD-3b.jpg
        :align: center
 
-#. Pull out the knob of the **QTY (1) Knob Encoder** and keep it to the side. Also unscrew the **QTY (1) Knob Encoder Nut** and **QTY (1) Knob Encoder Washer** if it is attached. Install the **QTY (1) LCD Screen** and Knob Encoder by aligning their holes with the small extruded pillars on the **QTY (1) LCD Base** and pressing down. Ensure the LCD screen is on the left and encoder is on the right. Ensure the PCB of the LCD comes out the back and the wire prongs of the encoder come out the back at the top.
+#. Install the **QTY (1) LCD Screen** by aligning its holes with the small extruded pillars on the **QTY (1) LCD Base** and pressing down. Ensure the LCD screen is on the left position. Ensure the PCB of the LCD comes out the backp.
 
-   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/LCD_Housing/LCD-4a.jpg
-       :align: center
+
 
    .. image:: ../static/Step_by_Step/Electronics_Subassemblies/LCD_Housing/LCD-4b.jpg
        :align: center
@@ -260,16 +259,13 @@ Step-by-Step Instructions
    .. image:: ../static/Step_by_Step/Electronics_Subassemblies/LCD_Housing/LCD-5.jpg
        :align: center
 
-#. Install the **QTY (1) LCD Top** by aligning it with the base (matching the LCD Screen hole) and ensuring the counterbores are external. Fasten down using **QTY (4) M3x8 Button Head Screw**.
+#. Pull out the knob of the **QTY (1) Knob Encoder** and keep it to the side. Also unscrew the **QTY (1) Knob Encoder Nut** and **QTY (1) Knob Encoder Washer** if it is attached. Take the **QTY (1) LCD Top** and place the encoder from the back end through the designated hole on the right of the large rectangular cutout. Ensure the prongs of the encoder face up. While pressing the encoder against the LCD Top from the back, place on the washer and tighten down the nut onto the encoder to lock it in place. 
 
-   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/LCD_Housing/LCD-6.jpg
-       :align: center
 
-#. Place **QTY (1) Knob Encoder Washer** over the Knob Encoder and screw on **QTY (1) Knob Encoder Nut**. You may need to pull up the Knob Encoder via the knob portion to continue screwing on the nut and making it tight. Press on the Knob onto the Knob Encoder.
-NOTE: This will fix the encoder to the top lid. When moving the LCD Enclosure on the rail, the LCD Top will need to be removed. However, due to the encoder, it cannot be completely removed (assuming it is plugged in) and must be held while the entire enclosure is being moved. This will be repeated in the main assembly page.
 
-   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/LCD_Housing/LCD-7.jpg
-       :align: center
+#. Press on the Knob onto the Knob Encoder. NOTE: This will fix the encoder to the top lid. 
+
+
 
 #. The LCD Enclosure is now complete.
 

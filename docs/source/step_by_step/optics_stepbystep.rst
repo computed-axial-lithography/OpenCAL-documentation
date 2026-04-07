@@ -97,9 +97,6 @@ Required Tools:
 * M2.5 Hex/Allen Key
 * Needle Nose Pliers (recommended)
 
-.. image:: ../static/WIP.png
-    :align: center 
-
 Step-by-Step Instructions
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 **NOTE: Unless otherwised mentioned, all fasteners will be "hand tight". The "front" of the projector stand is the flat side. To press in the Steel Rods, it is recommended to use Needle Nose Pliers. Always ensure the rods are flush with the 3D print.**

@@ -158,12 +158,10 @@ Step-by-Step Instructions:
    .. image:: ../static/Step_by_Step/Frame_Subassemblies/Aluminum_Extrusion_Frame/Frame-18.jpg
        :align: center
 
-#. Repeat Steps 12, 13, 15, 16, & 17 with the remaining **QTY (2) 65 cm Aluminum Extrusion**.
-
    .. image:: ../static/Step_by_Step/Frame_Subassemblies/Aluminum_Extrusion_Frame/Frame-18b.jpg
        :align: center
 
-#. Take **QTY (6) TPU Feet** and install **QTY (2) M5 TNut** and **QTY (2) M5x8 Button Head Screw** into EACH foot (total 12 TNuts and screws should be used).
+#. Repeat Steps 12, 13, 15, 16, & 17 with the remaining **QTY (2) 65 cm Aluminum Extrusion**.
 
    .. image:: ../static/Step_by_Step/Frame_Subassemblies/Aluminum_Extrusion_Frame/Frame-19.jpg
        :align: center
@@ -171,7 +169,7 @@ Step-by-Step Instructions:
    .. image:: ../static/Step_by_Step/Frame_Subassemblies/Aluminum_Extrusion_Frame/Frame-19-2.jpg
        :align: center
 
-#. Take these assemblies and slide 3 of them on the bottom of each of the **QTY (2) 65 cm Aluminum Extrusion** from the bottom frame assembly. Two of the feet should go on each end and one should be near the center. Fasten these feet down.
+#. Take **QTY (6) TPU Feet** and install **QTY (2) M5 TNut** and **QTY (2) M5x8 Button Head Screw** into EACH foot (total 12 TNuts and screws should be used).
 
    .. image:: ../static/Step_by_Step/Frame_Subassemblies/Aluminum_Extrusion_Frame/Frame-20.jpg
        :align: center
@@ -179,10 +177,13 @@ Step-by-Step Instructions:
    .. image:: ../static/Step_by_Step/Frame_Subassemblies/Aluminum_Extrusion_Frame/Frame-20-2.jpg
        :align: center
 
-#. You should now have the top and bottom of the frame.
+#. Take these assemblies and slide 3 of them on the bottom of each of the **QTY (2) 65 cm Aluminum Extrusion** from the bottom frame assembly. Two of the feet should go on each end and one should be near the center. Fasten these feet down.
 
    .. image:: ../static/Step_by_Step/Frame_Subassemblies/Aluminum_Extrusion_Frame/Frame-21.jpg
        :align: center
+
+#. You should now have the top and bottom of the frame.
+
 
 #. Slide in **QTY (3) M5 TNut** into the top of each of the **QTY (4) 65 cm Aluminum Extrusion** (a total of 12 M5 TNuts should be used). Position these near, but away from the vertical bracket locations (shown below).
 
@@ -604,7 +605,7 @@ Step-by-Step Instructions:
    .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/door-4.jpg
        :align: center
 
-#. Align the holes of the **QTY (2) Long Hinge** part of the assembly with the corresponding holes in the FRONT of the **QTY (1) Door panel**. Install using **QTY (4) M3x10 Button Head Screw** and **QTY (4) M5 Hex Nut/TNut**. The front of the panel is designated as the side with the hinge holes on the left and handle hole on the right.
+#. Align the holes of the **QTY (2) Long Hinge** part of the assembly with the corresponding holes in the FRONT of the **QTY (1) Door panel**. Install using **QTY (4) M3x10 Button Head Screw** and **QTY (4) M5 Hex Nut/TNut**. The front of the panel is designated as the side with the hinge holes on the left and handle hole on the right. **Ensure that the hinge pin is on the top of the hinge assembly and not the bottom.**
 
    .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/door-5a.jpg
        :align: center
@@ -857,15 +858,11 @@ Required Materials:
 * (QTY 10) Magnet Frame Insert
 * (QTY 10) 12x5x2mm Rare Earth Magnet Bar
 
-   .. image:: ../static/WIP.png
-       :align: center
-
 |
 
 Required Tools:
 ^^^^^^^^^^^^^^^
 * Super Glue
-
 
 Step-by-Step Instructions:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^

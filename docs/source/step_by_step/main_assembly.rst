@@ -47,6 +47,7 @@ Electronics Subassemblies:
 * Camera Mount
 
 Non-Subassemblies:
+
 * (QTY 1) Projector Shroud
 * (QTY 1) X Locator
 * (QTY 1) 200mm Fresnel Lens
@@ -81,7 +82,7 @@ Step-by-Step Instructions
 
 **NOTE 3: Positioning will be not be referred to in text. See images for positioning**
 
-#. Flip the frame so that it is laying on the top. Loosen the TPU feet. Install the two **Bottom Panels** from the Frames Subassemblies. Each of the bottom panels have cutouts in each corner, with one cutout being larger than the other. The larger cutout should be on the ends and small cutouts should be towards the center. You may need to move the feet to fit in these cutouts. Align all of the nuts with their respective railings, place down, and tighten the M5 fasteners. Also tighten the TPU Feet.
+#. Flip the frame so that it is laying on the top. Loosen the TPU feet. Install the two **Bottom Panels** from the Frames Subassemblies. Each of the bottom panels have cutouts in each corner, with one cutout being larger than the other. The larger cutout should be on the end corners of the frame and small cutouts should be towards the center. You may need to move the feet to fit in these cutouts. Align all of the nuts with their respective railings, place down, and tighten the M5 fasteners. Also tighten the TPU Feet. If the bottom panels do not fit together/are not flush with the bottom of the frame, it is because it is not flush on the ends or the TPU feet need to be moved (there might be a slight gap in between the panels but that is fine).
 
    .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-1.jpg
         :align: center
@@ -91,12 +92,12 @@ Step-by-Step Instructions
    .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-2.jpg
         :align: center
 
-#. Install the **Camera Mount** in the position below. Position it arounnd ~113.6 mm from the flat bottom of the 3D print directly under the camera to the top of the bottom rail. Tighten the M5 Fasteners.
+#. NOTE: Follow the Camera Mount wiring steps linked here first. Install the **Camera Mount** in the position below. Position it around ~113.6 mm from the bottom of the 3D print to the top of the bottom rail. Tighten the M5 Fasteners.
 
    .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-3.jpg
         :align: center
 
-#. Install the **Rotation Stage** in the position below. The cut-out in the mid base plate should be on the rail in between the vial and projector sections. Ensure the mid base plate is pulled to be flush with the front base plate. Tighten the M5 fasteners. Loosen the screws on the **Back Base Plate** and bring it as forward as possible. Tighten the M5 fasteners again.
+#. NOTE: Follow the Rotation Stage wiring steps linked here first. Install the **Rotation Stage** in the position below. The cut-out in the mid base plate should be on the rail in between the vial and projector sections. Ensure the mid base plate is pulled to be flush with the front base plate. Tighten the M5 fasteners. Loosen the screws on the **Back Base Plate** and bring it as forward as possible. Tighten the M5 fasteners again.
 
    .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-4a.jpg
         :align: center
@@ -127,12 +128,12 @@ Step-by-Step Instructions
    .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-8.jpg
         :align: center
 
-#. Install the **Front Top Plate** from the bottom up in the position below. Ensure it is pulled as forward as possible (there should be minimal movement). Tighten the M5 fasteners.
+#. Install the **Front Top Plate** from the bottom up in the position below. Ensure it is pulled as forward as possible (there should be minimal movement). Tighten the M5 fasteners. Slightly loosen the fasteners on the **Back Top Plate** and pull it as forward as possible (while ensuring the Hammer TNuts stay in the railing).
 
    .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-9.jpg
         :align: center
 
-#. Install the **RP5 Housing** from the back. You will need to make sure to bring it from the bottom up since this assembly "sandwiches" the rail. Once the RP5 Housing is pulled up and nuts are in the rails, pull it all the way to the left as much as possible. Tighten the M5 fasteners.
+#. Install the **RP5 Housing** from the back. You will need to make sure to bring it from the bottom up since this assembly "sandwiches" the rail. Once the RP5 Housing is pulled up and nuts are in the rails, pull it all the way to the left as much as possible (while ensuring the Hammer TNuts stay in the railing). Tighten the M5 fasteners.
 
    .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-10a.jpg
         :align: center
