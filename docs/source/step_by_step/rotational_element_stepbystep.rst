@@ -222,12 +222,12 @@ Step-by-Step Instructions:
 
 1. Take **QTY (1) Front Base Plate** and place **QTY (2) M5x8 Button Head Screw** from the top in the counterbored holes. Loosely install **QTY (2) M5 Hammer TNut** on the opposite end of each fastener.
 
-.. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Front_Back_Base_Plates/front-back-1.JPG
+.. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Front_Back_Base_Plates/labelled-front-back-1.png
     :align: center
 
 2. Repeat Step 1 one more time with **QTY (1) Back Base Plate**. The Back Base Plate is the one with mounting slots rather than holes. The Front & Back Base Plates subassembly is now complete.
 
-.. image:: ../static/WIP.png
+.. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Front_Back_Base_Plates/labelled-front-back-2.png
     :align: center
 
 ----
@@ -314,39 +314,6 @@ Step-by-Step Instructions:
    .. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Front_Top_Plate_Stepper_Mounting/front-top-10.JPG
 
 
-----
 
-Back Top Plate
-================
-
-----
-
-.. image:: ../static/WIP.png
-    :align: center
-
-Required Materials:
-^^^^^^^^^^^^^^^^^^^
-* (QTY 1) Back Top Plate
-* (QTY 4) M5x10mm Button Head Screw
-* (QTY 4) M5 Hammer TNut
-
-
-.. image:: ../static/WIP.png
-    :align: center
-
-Required Tools:
-^^^^^^^^^^^^^^^
-No Tools Required.
-
-Step-by-Step Instructions:
-^^^^^^^^^^^^^^^^^^^^^^^^^^
-**NOTE: This assembly will be used in the electronics subassembly section.**
-
-1. From the "bottom" of the Back Top Plate (where the counterbores are) place **QTY (4) M5x10 Button Head Screw**. Loosely install **QTY (4) M5 Hammer TNut** on the opposite end of each fastener.
-
-.. image:: ../static/WIP.png
-    :align: center
-
-2. The Back Top Plate is now complete.
 
 
