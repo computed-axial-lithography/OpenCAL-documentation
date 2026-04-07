@@ -24,25 +24,6 @@ Required Materials:
 * HDMI 0.5ft
 * Zip Ties
 
-Electronics Component Pocket Labeling
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-.. table::
-   :align: center
-
-   +----------------------+--------------------+-------+
-   | Electronic Component | Part               | Label |
-   +======================+====================+=======+
-   | 5V Converter         | Inner Housing Plate| 1     |
-   +----------------------+--------------------+-------+
-   | Terminal Board       | Inner Housing Plate| 2     |
-   +----------------------+--------------------+-------+
-   | 24V Adapter          | Inner Housing Plate| 3     |
-   +----------------------+--------------------+-------+
-   | Perf Board           | Top Housing Plate  | 4     |
-   +----------------------+--------------------+-------+
-   | 12V Converter        | Top Housing Plate  | 5     |
-   +----------------------+--------------------+-------+
-
 Required Tools:
 ^^^^^^^^^^^^^^^
 
@@ -70,22 +51,22 @@ Stepper Driver Perf Board
    .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/driver_step2_vis.png
       :align: center
 
-3. Solder a 4 pin JST plug one column past the lower header pin. (Row 3, Columns J-M)
+3. Solder a 4 pin JST plug one column past the header pin 2. (Row 3, Columns J-M)
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/driver_step3_vis.png
       :align: center
 
-4. Solder a 4 pin JST plug centered with the upper header pin. (Row 12, Columns M-P)
+4. Solder a 4 pin JST plug centered with the header pin 1. (Row 12, Columns M-P)
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/driver_step4_vis.png
       :align: center
 
-5. Solder a 2 pin JST plug to the lest size of the perf board. (Row 12, Columns E-F)
+5. Solder a 2 pin JST plug to the right size of the perf board. (Row 12, Columns E-F)
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/driver_step5_vis.png
       :align: center
 
-6. Connect the four center pins of the updder header pin to the JST connector. Connect the three pins at the end of the lower header pin to the JST connector. (M10 to M12, N10 to N12, O10 to O12, P10 to P12, K3 to K5, L3 to L5, M3 to M5)
+6. Connect the four center pins of header pin 1 to the JST connector. Connect the three pins at the end of header pin 2 to the JST connector. (M10 to M12, N10 to N12, O10 to O12, P10 to P12, K3 to K5, L3 to L5, M3 to M5)
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/driver_step6_vis.png
       :align: center
@@ -105,7 +86,7 @@ Stepper Driver Perf Board
    .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/driver_step9_vis.png
       :align: center
 
-10. Place the TMC2209 on the perf board wit hthe A1, A2, B1, B2, pins on top.
+10. Place the TMC2209 on the perf board with the A1, A2, B1, B2, pins on top.
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/driver_step10_vis.png
       :align: center

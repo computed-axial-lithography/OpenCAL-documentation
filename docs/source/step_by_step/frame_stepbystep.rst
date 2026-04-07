@@ -130,7 +130,7 @@ Step-by-Step Instructions:
    .. image:: ../static/Step_by_Step/Frame_Subassemblies/Aluminum_Extrusion_Frame/Frame-13.jpg
        :align: center
 
-#. Take QTY (1) of the assemblies from **Step 10** and slide it from the same point in between the **QTY (2) 65 cm Aluminum Extrusion** ~260mm from the rail in **Step 13** (front rail to front rail) in the following configuration. You may need to loosen the brackets from the previous two steps to slide it in. This rail location is temporary and will be changed in main assembly.
+#. Take QTY (1) of the assemblies from **Step 10** and slide it from the same point in between the **QTY (2) 65 cm Aluminum Extrusion** in the following configuration. You may need to loosen the brackets from the previous two steps to slide it in. This rail location is temporary and will be changed in main assembly.
 
    .. image:: ../static/Step_by_Step/Frame_Subassemblies/Aluminum_Extrusion_Frame/Frame-14.jpg
        :align: center
@@ -161,7 +161,7 @@ Step-by-Step Instructions:
    .. image:: ../static/Step_by_Step/Frame_Subassemblies/Aluminum_Extrusion_Frame/Frame-18b.jpg
        :align: center
 
-#. Repeat Steps 12, 13, 15, 16, & 17 with the remaining **QTY (2) 65 cm Aluminum Extrusion**.
+#. Repeat Steps 12, 13, 15, 16, & 17 with the remaining **QTY (2) 65 cm Aluminum Extrusion**. **Note:** The middle bar should be 205mm from the back.
 
    .. image:: ../static/Step_by_Step/Frame_Subassemblies/Aluminum_Extrusion_Frame/Frame-19.jpg
        :align: center
