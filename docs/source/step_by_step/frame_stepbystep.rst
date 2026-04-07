@@ -258,53 +258,53 @@ Step-by-Step Instructions:
 
 #. Lay a **QTY (1) Magnet Holders** on the flat end. Add a drop of super glue into the center box. Carefully place **QTY (1) 12x5x2mm Rare Earth Magnet Bar** in the center box. Wait ~ 2 mintues for cure.
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/LCD_panel/LCD-1.JPG
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/LCD_Panel/LCD-1.JPG
        :align: center
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/LCD_panel/LCD-1-2.JPG
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/LCD_Panel/LCD-1-2.JPG
        :align: center
 
 #. After cure, place another drop of super glue on top of the magnet from Step 1. Carefully place another **QTY (1) 12x5x2mm Rare Earth Magnet Bar** in the same orientation on top of the previous magnet (ensure that the magnets are in the same polar orientation and are aligned with each other).
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/LCD_panel/LCD-2.JPG
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/LCD_Panel/LCD-2.JPG
        :align: center
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/LCD_panel/LCD-2-2.JPG
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/LCD_Panel/LCD-2-2.JPG
        :align: center
 
 #. Repeat Steps 1 & 2 three more times. You should have 4 of these assemblies total.
 
 #. Insert **QTY (2) M3x4x5 Heat Set Insert** into each of the holes on the back of **QTY (1) Panel Handle** using a soldering iron. To the best of your ability, ensure the heat inserts are straight.
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/LCD_panel/LCD-4.JPG
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/LCD_Panel/LCD-4.JPG
        :align: center
 
 #. Repeat Step 4 one more time. You should have 2 handles with installed inserts.
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/LCD_panel/LCD-5.JPG
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/LCD_Panel/LCD-5.JPG
        :align: center
 
 #. Add a couple dabs of super glue around the panel interface of the magnet holders (seen below). Press it into the top left of the **QTY (1) LCD panel** (from the front of the panel -- the part with the logo) at the designated location. Add more pressure to ensure a flush fit.
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/LCD_panel/LCD-6.JPG
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/LCD_Panel/LCD-6.JPG
        :align: center
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/LCD_panel/LCD-6-2.JPG
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/LCD_Panel/LCD-6-2.JPG
        :align: center
 
 #. Repeat Step 6 three more times with the remaining assemblies from Step 3 at each of the corners of the panel. Ensure all magnets are facing the correct way (right-side up CAL logo).
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/LCD_panel/LCD-7.JPG
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/LCD_Panel/LCD-7.JPG
        :align: center
 
 #. Install the **QTY (2) Panel Handle Assemblies** from Step 5 by screwing them in with **QTY (4) M3x6 Button Head Screws** in the following locations.
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/LCD_panel/LCD-8.JPG
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/LCD_Panel/LCD-8.JPG
        :align: center
 
 #. The LCD Panel subassembly is now complete.
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/LCD_panel/LCD-9.JPG
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/LCD_Panel/LCD-9.JPG
        :align: center
 
 

@@ -53,10 +53,9 @@ Required Tools:
 References for wiring techniques:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. TODO: Add links here
 
-* Dupont connectors tutorial
-* Ring connector tutorial
+* `Dupont connectors tutorial <https://www.youtube.com/watch?v=jET1QTP1B7c>`_
+* `Ring connector tutorial <https://www.youtube.com/watch?v=bODeHs6InPw>`_
 
 **NOTE: The provided wire lengths are an approximation. For cleaner routing and to account for any differences in your OpenCAL build, measuring wire based on the distances between components in your system.**
 
