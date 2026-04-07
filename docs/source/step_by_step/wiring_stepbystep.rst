@@ -8,9 +8,11 @@ Wiring
    
    General wiring diagram
 
+Introduction
+============
 
 Required Materials:
-===================
+^^^^^^^^^^^^^^^^^^^
 
 * 26 AWG, 22AWG, 18AWG wire
 * Heat shrink
@@ -25,14 +27,14 @@ Required Materials:
 * Zip Ties
 
 Required Tools:
-===============
+^^^^^^^^^^^^^^^
 
 * Soldering iron & solder
 * Dupont crimping tool
 * Heat gun
 
 References for wiring techniques:
-=================================
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * `Dupont connectors tutorial <https://www.youtube.com/watch?v=jET1QTP1B7c>`__
 * `Ring connector tutorial <https://www.youtube.com/watch?v=bODeHs6InPw>`__
@@ -40,6 +42,13 @@ References for wiring techniques:
 **NOTE: The provided wire lengths are an approximation. For cleaner routing and to account for any differences in your OpenCAL build, measuring wire based on the distances between components in your system.**
 
 This guide assumes all components have been mounted to the printer system.
+
+
+How to Read Wiring Guide Tables
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   .. image:: ../static/Step_by_Step/Wiring_Images/Wiring_Guide_How_to_Read_Tables.png
+      :align: center
 
 Stepper Driver Perf Board
 =========================
