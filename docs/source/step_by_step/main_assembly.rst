@@ -89,12 +89,18 @@ Step-by-Step Instructions
 
 #. Flip the frame so that it is sitting on the TPU feet. Install the **Front Base Plate** in the position below. Tighten the M5 fasteners. Repeat with the **Back Base Plate** in the position below. Ensure the Back Base Plate (the one with the slotted holes) is all the way in the back.
 
-   .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-2.jpg
+   .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-2a.jpg
         :align: center
 
-#. NOTE: Follow the Camera Mount wiring steps linked here first. Install the **Camera Mount** in the position below. Position it around ~113.6 mm from the bottom of the 3D print to the top of the bottom rail. Tighten the M5 Fasteners.
+   .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-2b.jpg
+        :align: center
 
-   .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-3.jpg
+#. NOTE: Follow the Camera Mount wiring steps linked here first. Install the **Camera Mount** in the position below. Position it around ~107.5 mm from the top of the camera mount to the bottom of the rail above it. Tighten the M5 Fasteners.
+
+   .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-3a.jpg
+        :align: center
+
+   .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-3b.jpg
         :align: center
 
 #. NOTE: Follow the Rotation Stage wiring steps linked here first. Install the **Rotation Stage** in the position below. The cut-out in the mid base plate should be on the rail in between the vial and projector sections. Ensure the mid base plate is pulled to be flush with the front base plate. Tighten the M5 fasteners. Loosen the screws on the **Back Base Plate** and bring it as forward as possible. Tighten the M5 fasteners again.
@@ -105,14 +111,29 @@ Step-by-Step Instructions
    .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-4b.jpg
         :align: center
 
+   .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-4c.jpg
+        :align: center
+
 #. Install the **Col Lens Bottom Mount** from the **Collimating Lens Mounts** subassembly in the position below. Position it so the left side of the mount is 105 mm from the front rail. Tighten the M5 fasteners.
 
-   .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-5.jpg
+   .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-5a.jpg
+        :align: center
+
+   .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-5b.jpg
+        :align: center
+
+   .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-5c.jpg
         :align: center
 
 #. Install ONE of the **Col Lens Side Mount** to the back rail in the position below. Position it so the bottom is 95 mm from the top face of bottom rail of the frame. Tighten the M5 fasteners.
 
-   .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-6.jpg
+   .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-6a.jpg
+        :align: center
+
+   .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-6b.jpg
+        :align: center
+
+   .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-6c.jpg
         :align: center
 
 #. Loosen the M5 fasteners that connect the projector rail (25 cm rail that has 90deg gussets on opposite sides) to the 65 cm rails and move the projector rail closer to the right. Install the electronics **Bottom Plate** in the position below. Position it as close to the vial section as possible. Tighten the M5 fasteners.
@@ -125,12 +146,21 @@ Step-by-Step Instructions
 
 #. Install the **Back Top Plate** from the bottom up in the position below. Ensure it is pulled as back as possible. Tighten the M5 fasteners.
 
-   .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-8.jpg
+   .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-8a.jpg
+        :align: center
+
+   .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-8b.jpg
         :align: center
 
 #. Install the **Front Top Plate** from the bottom up in the position below. Ensure it is pulled as forward as possible (there should be minimal movement). Tighten the M5 fasteners. Slightly loosen the fasteners on the **Back Top Plate** and pull it as forward as possible (while ensuring the Hammer TNuts stay in the railing).
 
-   .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-9.jpg
+   .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-9a.jpg
+        :align: center
+
+   .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-9b.jpg
+        :align: center
+
+   .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-9c.jpg
         :align: center
 
 #. Install the **RP5 Housing** from the back. You will need to make sure to bring it from the bottom up since this assembly "sandwiches" the rail. Once the RP5 Housing is pulled up and nuts are in the rails, pull it all the way to the left as much as possible (while ensuring the Hammer TNuts stay in the railing). Tighten the M5 fasteners.
@@ -141,12 +171,24 @@ Step-by-Step Instructions
    .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-10b.jpg
         :align: center
 
-#. Install the **19V Converter Mount** in the position shown below. Tighten the M5 fasteners.
-
-   .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-11.jpg
+   .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-10c.jpg
         :align: center
 
-#. Install the **LCD Housing** by carefully removing the screws on each corner of the LCD Top and lifting it. Ensure the LCD Screen does not fall out. Align the nuts on the connector near the position shown below and tighten the M5 fasteners. Place the LCD Top back on and tighten the four forner screws. The position of this housing will slightly change once the LCD Panel is installed in the next phase. 
+   .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-10d.jpg
+        :align: center
+
+#. Install the **19V Converter Mount** in the position shown below. Tighten the M5 fasteners.
+
+   .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-11a.jpg
+        :align: center
+
+   .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-11b.jpg
+        :align: center
+
+   .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-11c.jpg
+        :align: center
+
+#. Install the **LCD Housing**. Ensure the LCD Screen does not fall out. Ensure it is orientated so that the LCD is on the left and encoder area is on the right. Align the nuts on the connector near the position shown below and tighten the M5 fasteners. The position of this housing will slightly change once the LCD Panel is installed in the next phase. 
   
    .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-12a.jpg
         :align: center
@@ -154,9 +196,18 @@ Step-by-Step Instructions
    .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-12b.jpg
         :align: center
 
+   .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-12c.jpg
+        :align: center
+
 #. Move the projector rail close to the Bottom Plate from the previous step. Install the **Projector Mount**, move the projector rail as needed based on the Y locator pieces. Tighten all M5 fasteners.
 
-   .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-13.jpg
+   .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-13a.jpg
+        :align: center
+
+   .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-13b.jpg
+        :align: center
+
+   .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-13c.jpg
         :align: center
 
 #. Install **QTY (1) X Locator** on the front facing side of the projector mount using **QTY (2) M5x8 Button Head Screw** and **QTY (2) M5 Hammer TNut** on the opposite end. Loosen the M5 fasteners that interface the rails on the projector mount (2 on the Y Locators on back rail and 2 on the Projector Stand) and move it so it is flush with the X Locator. Tighten all M5 fasteners.
@@ -170,17 +221,49 @@ Step-by-Step Instructions
    .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-14c.jpg
         :align: center
 
+   .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-14d.jpg
+        :align: center
+
 #. Install the **Switch** subassembly in the position shown below by aligning the Magnet Frame Inserts in the railing with those on the panel. The top of the panel should touch the top of the frame railing. The exact position will later change once the other panels are on.
 
-   .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-15.jpg
+   .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-15a.jpg
         :align: center
+
+   .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-15b.jpg
+        :align: center
+
 
 #. Install the **Door** subassembly in the position shown below via the short hinges. The bottom of the door panel should be flush with the bottom panel. This position may slightly change when the Side Vial Panel is installed.
 
-   .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-16.jpg
+   .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-16a.jpg
+        :align: center
+
+   .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-16b.jpg
+        :align: center
+
+   .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-16c.jpg
         :align: center
 
 #. Part 1 of the Main Assembly Process is complete. 
+
+   .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-17a.jpg
+        :align: center
+
+   .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-17b.jpg
+        :align: center
+
+   .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-17c.jpg
+        :align: center
+
+   .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-17d.jpg
+        :align: center
+
+   .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-17e.jpg
+        :align: center
+
+   .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-17f.jpg
+        :align: center
+
    **IMPORTANT:** Complete :ref:`Wiring Instructions <wiring-instructions>` before moving on to Part 2.
 
 ----
@@ -218,7 +301,7 @@ Required Tools:
    .. image:: ../static/Step_by_Step/Main_Assembly/part_2/main2-2b.jpg
         :align: center
 
-#. After the projector shroud is in, install the second **QTY (1) Col Lens Side Mount** on the front face, ensuring that the **200mm Fresnel Lens** is in the first (left) slot, and the **Projector Shroud** is in the right slot. The **Col Lens Side Mount** should be 95mm from the top of the bottom rail. Tighten all M5 fasteners. See images below.
+#. After the projector shroud is in, install the second **QTY (1) Col Lens Side Mount** on the front face, ensuring that the **200mm Fresnel Lens** is in the first (left) slot, and the **Projector Shroud** is in the right slot. The **Col Lens Side Mount** should fit in the Projector Shroud without moving it (should match the height of the other Col Lens Side Mount). Tighten all M5 fasteners. See images below.
 
    .. image:: ../static/Step_by_Step/Main_Assembly/part_2/main2-3.jpg
         :align: center
