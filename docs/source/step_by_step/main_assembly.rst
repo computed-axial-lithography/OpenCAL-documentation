@@ -98,6 +98,8 @@ Step-by-Step Instructions
    .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-2b.jpg
         :align: center
 
+   |
+
 #. NOTE: Follow the Camera Mount wiring steps linked here first. Install the **Camera Mount** in the position below. Position it around ~113.6 mm from the bottom of the 3D print to the top of the bottom rail. Tighten the M5 Fasteners.
 
    .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-3a.jpg
@@ -118,6 +120,8 @@ Step-by-Step Instructions
 
    .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-4c.jpg
         :align: center
+     
+   |
 
 #. Install the **Col Lens Bottom Mount** from the **Collimating Lens Mounts** subassembly in the position below. Position it so the left side of the mount is 105 mm from the front rail. Tighten the M5 fasteners.
 
@@ -204,6 +208,8 @@ Step-by-Step Instructions
 
    .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-11c.jpg
         :align: center
+
+   |
 
 #. Install the **LCD Housing**. Ensure the LCD Screen does not fall out. Ensure it is orientated so that the LCD is on the left and encoder area is on the right. Align the nuts on the connector near the position shown below and tighten the M5 fasteners. The position of this housing will slightly change once the LCD Panel is installed in the next phase. 
   
