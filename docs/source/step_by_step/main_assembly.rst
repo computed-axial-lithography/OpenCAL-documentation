@@ -113,7 +113,7 @@ Step-by-Step Instructions
 #. NOTE: Complete the :ref:`LED wiring section <led-wiring>` first. Install the **Rotation Stage** in the position below. The cut-out in the mid base plate should be on the rail in between the vial and projector sections. Ensure the mid base plate is pulled to be flush with the front base plate. Tighten the M5 fasteners. Loosen the screws on the **Back Base Plate** and bring it as forward as possible. Tighten the M5 fasteners again.
 
    .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-4a.jpg
-       :width: 45%
+       :align: center
 
    .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-4b.jpg
         :align: center
