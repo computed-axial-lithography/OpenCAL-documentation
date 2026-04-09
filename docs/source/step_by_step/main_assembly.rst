@@ -98,9 +98,7 @@ Step-by-Step Instructions
    .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-2b.jpg
         :align: center
 
-   |
-
-#. NOTE: Complete the :ref:`Camera Wiring section <camera-wiring>` first. Install the **Camera Mount** in the position below. Position it around ~107.5 mm from the top of the camera mount to the bottom of the rail above it. Tighten the M5 Fasteners.
+#. NOTE: Follow the Camera Mount wiring steps linked here first. Install the **Camera Mount** in the position below. Position it around ~113.6 mm from the bottom of the 3D print to the top of the bottom rail. Tighten the M5 Fasteners.
 
    .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-3a.jpg
         :align: center
@@ -116,9 +114,7 @@ Step-by-Step Instructions
        :width: 45%
 
    .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-4b.jpg
-       :width: 45%
-
-   |
+        :align: center
 
    .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-4c.jpg
         :align: center
@@ -342,7 +338,6 @@ Required Tools:
 
    .. image:: ../static/Step_by_Step/Main_Assembly/part_2/main2-3.jpg
         :align: center
-
 
 #. This step is installing the **Top Vial Panel Subassembly** If the motor and encoder wires are plugged in, disconnect the Dupont connectors. Take off the **Stepper Motor Subassembly** and run the wires through the cut out in the panel. Place this on top and run the encoder wires through the wire routing cutout in the Top Housing Plate. Reconnect the Dupont connectors for the motor and encoder. Use the zip-tie cutouts to secure the motor and encoder wires. Leave enough slack in the wires for the motor to reach both the "down" and "up" positions. After the wires have been routed, place the panel flat, align the corner M5 Hammer TNuts with the railing and tighten. Ensure the side of the **Top Vial Panel** is flush with the side face of the rail.
 
