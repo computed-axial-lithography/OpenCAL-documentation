@@ -333,7 +333,7 @@ Required Tools:
 
    |
 
-#. Now place the **Projector Shroud** into the other grooves/extrusions of the collimating side mount and the extrusion on the colliating lens bottom mount. The projector shroud can only fit in one way (one bottom slot, two side slots).
+#. Now place the **Projector Shroud** into the other grooves/extrusions of the collimating side mount and the extrusion on the colliating lens bottom mount. The projector shroud can only fit in only one way (one bottom slot, two side slots). The images may not be clear but ensure that the shroud is flush on the Col Lens Bottom Mount and is fully in the side mount.
 
    .. image:: ../static/Step_by_Step/Main_Assembly/part_2/main2-2a.jpg
         :align: center
@@ -346,7 +346,7 @@ Required Tools:
 
    |
 
-#. After the projector shroud is in, install the second **QTY (1) Col Lens Side Mount** on the front face, ensuring that the **200mm Fresnel Lens** is in the first (left) slot, and the **Projector Shroud** is in the right slot. The **Col Lens Side Mount** should fit in the Projector Shroud without moving it (should match the height of the other Col Lens Side Mount). Tighten all M5 fasteners. See images below.
+#. After the projector shroud is in, install the second **QTY (1) Col Lens Side Mount** on same side but opposite end of the other side mount, ensuring that the **200mm Fresnel Lens** is in the first (left) slot, and the **Projector Shroud** is in the right slot. The **Col Lens Side Mount** should fit in the Projector Shroud without moving it (should match the height of the other Col Lens Side Mount ~95mm). Tighten all M5 fasteners. See image below.
 
    .. image:: ../static/Step_by_Step/Main_Assembly/part_2/main2-3.jpg
         :align: center
