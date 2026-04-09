@@ -325,7 +325,10 @@ Required Tools:
 
 #. Carefully place in the **200mm Fresnel Lens** into the front slots on the collimating lens bottom and side mounts. The flat, non-grooved side of the lens should be facing the projector. See images below.
 
-   .. image:: ../static/Step_by_Step/Main_Assembly/part_2/main2-1.jpg
+   .. image:: ../static/Step_by_Step/Main_Assembly/part_2/main2-1a.jpg
+        :align: center
+
+   .. image:: ../static/Step_by_Step/Main_Assembly/part_2/main2-1b.jpg
         :align: center
 
    |
@@ -336,6 +339,9 @@ Required Tools:
         :align: center
 
    .. image:: ../static/Step_by_Step/Main_Assembly/part_2/main2-2b.jpg
+        :align: center
+
+   .. image:: ../static/Step_by_Step/Main_Assembly/part_2/main2-2c.jpg
         :align: center
 
    |
