@@ -8,7 +8,7 @@ Wiring
    
    General wiring diagram
 
-Introduction (random change)
+Introduction
 ============
 
 Required Materials:
@@ -38,6 +38,7 @@ References for wiring techniques:
 
 * `Dupont connectors tutorial <https://www.youtube.com/watch?v=jET1QTP1B7c>`__
 * `Ring connector tutorial <https://www.youtube.com/watch?v=bODeHs6InPw>`__
+* `Perf board soldering tutorial <https://www.youtube.com/watch?v=l9Kbr8cPqOE>`__
 
 **NOTE: The provided wire lengths are an approximation. For cleaner routing and to account for any differences in your OpenCAL build, measuring wire based on the distances between components in your system.**
 
@@ -47,7 +48,7 @@ This guide assumes all components have been mounted to the printer system.
 How to Read Wiring Guide Tables
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-   .. image:: ../static/Step_by_Step/Wiring_Images/Wiring_Guide_How_to_Read_Tables.png
+   .. image:: ../static/Step_by_Step/Wiring_Images/Example_for_Wiring_Guide.png
       :align: center
 
 Stepper Driver Perf Board
@@ -57,62 +58,90 @@ Stepper Driver Perf Board
 #. Collect JST connector pack, perf board, 8 Position Header Pins, TMC2209
    |
 
-#. Solder header pins to board, using the TMC2209 pins as a reference for distance. (Row 5, Columns K-R; Row 10, Columns K-R)
+#. Solder header pins to board, using the TMC2209 pins as a reference for distance. (Row 5, Columns K-R; Row 10, Columns K-R on bottom view). Note the header pins are labeled “1” and “2”.
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/driver_step2_vis.png
       :align: center
 
-   |
 
-#. Solder a 4 pin JST plug one column past the header pin 2. (Row 3, Columns J-M)
+   .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/diagram_step2.png
+      :align: center
+
+   |
+#. Solder a 4 pin JST socket one column past header pin 2. (Row 3, Columns J-M)
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/driver_step3_vis.png
       :align: center
 
-   |
 
-#. Solder a 4 pin JST plug centered with the header pin 1. (Row 12, Columns M-P)
+   .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/diagram_step3.png
+      :align: center
+
+   |
+#. Solder a 4 pin JST socket centered with header pin 1. (Row 12, Columns M-P on bottom view)
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/driver_step4_vis.png
       :align: center
 
-   |
 
+   .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/diagram_step4.png
+      :align: center
+
+   |
 #. Solder a 2 pin JST plug to the right size of the perf board. (Row 12, Columns E-F)
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/driver_step5_vis.png
       :align: center
 
-   |
 
-#. Connect the four center pins of header pin 1 to the JST connector. Connect the three pins at the end of header pin 2 to the JST connector. (M10 to M12, N10 to N12, O10 to O12, P10 to P12, K3 to K5, L3 to L5, M3 to M5)
+   .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/diagram_step5.png
+      :align: center
+
+   |
+#. Connect the four center pins of the upper header pin to the JST connector by placing solder across the solder pads. Connect the two pins at the end of the lower header pin to the JST connector. This creates a connection from the JSTs to the motor coil pins, A1, A2, B1, B2, and to the STEP and DIR pins. (M10 to M12, N10 to N12, O10 to O12, P10 to P12, K3 to K5, L3 to L5, M3 to M5)
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/driver_step6_vis.png
       :align: center
 
    |
 
-#. Using 26 AWG wire, connect the pins corresponding to GND and VS, the two leftmost pins on header 1, to the 2 pin JST connector. (Q10 to F12, R10 to E12)
+   .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/diagram_step6.png
+      :align: center
+
+   |
+#. Using 26 AWG wire, connect the pins corresponding to GND and VS, the two leftmost pins on header 1, to the 2 pin JST connector. Ensure VS connects to the outermost pin on the 2 pin JST. (Q10 to F12, R10 to E12)
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/driver_step7_vis.png
       :align: center
 
    |
 
-#. Using 26 AWG wire, connet the leftmost pin of header pin 2, corresponding to EN, to the leftmost pin of the JST connector 2. (R5 to M3)
+   .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/diagram_step7.png
+      :align: center
+
+   |
+#. Using 26 AWG wire, connet the leftmost pin of header pin 2, corresponding to EN, to the leftmost pin of JST connector 2. (R5 to M3)
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/driver_step8_vis.png
       :align: center
 
    |
 
-#. Using 26 AWG wire, connect the rightmost pin of the header pin 1 to the rightmost pin of JST connector 2. (L10 to J3)
+   .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/diagram_step8.png
+      :align: center
+
+   |
+#. Using 26 AWG wire, second to the right pin of header pin 1 to the rightmost pin of JST connector 2. This connects VIO to 3.3v power from the RP5. (L10 to J3)
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/driver_step9_vis.png
       :align: center
 
    |
 
+   .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/diagram_step9.png
+      :align: center
+
+   |
 #. Place the TMC2209 on the perf board with the A1, A2, B1, B2, pins on top.
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/driver_step10_vis.png
@@ -122,32 +151,16 @@ Power Distribution
 ==================
 
 
-#. Connect the Power Switch to the 24V Adapter.
+#. Connect the Power Switch to the 24V Adapter. Use cable clips to secure wire to the 80-20.
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Power_Distribution/power_dist_step1_cad_diagram.png
       :align: center
 
-   .. table::
+   .. image:: ../static/Step_by_Step/Wiring_Images/Power_Distribution/table_powerdist_1.png
       :align: center
 
-      +--------------+---------+--------------------+-------+-------------+
-      | Component    | Name    | Connector          | Gauge | Length (cm) |
-      +==============+=========+====================+=======+=============+
-      | Power Switch | Live    | Quick Release Plug |       |             |
-      +--------------+---------+--------------------+ 18    | 41          |
-      | 24V Adapter  | Live    | Ring Connector &   |       |             |
-      |              |         | Screw Terminal     |       |             |
-      +--------------+---------+--------------------+-------+-------------+
-      | Power Switch | Neutral | Quick Release Plug |       |             |
-      +--------------+---------+--------------------+ 18    | 41          |
-      | 24V Adapter  | Neutral | Ring Connector &   |       |             |
-      |              |         | Screw Terminal     |       |             |
-      +--------------+---------+--------------------+-------+-------------+
-      | Power Switch | Ground  | Quick Release Plug |       |             |
-      +--------------+---------+--------------------+ 18    | 41          |
-      | 24V Adapter  | Ground  | Ring Connector &   |       |             |
-      |              |         | Screw Terminal     |       |             |
-      +--------------+---------+--------------------+-------+-------------+
+   .. image:: ../static/Step_by_Step/Wiring_Images/Power_Distribution/pins_powerdist_1.png
+      :align: center
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Power_Distribution/power_dist_step1_assem.jpg
       :align: center
@@ -158,57 +171,35 @@ Power Distribution
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Power_Distribution/power_dist_step2_cad_diagram.png
       :align: center
-
-   .. table::
+   
+   .. image:: ../static/Step_by_Step/Wiring_Images/Power_Distribution/table_powerdist_2.png
       :align: center
 
-      +--------------+------+--------------------+-------+-------------+
-      | Component    | Name | Connector          | Gauge | Length (cm) |
-      +==============+======+====================+=======+=============+
-      | 5V Converter | Vin  | Through-hole solder|       |             |
-      +--------------+------+--------------------+ 26    | 19          |
-      | 24V Adapter  | V+   | Ring Connector &   |       |             |
-      |              |      | Screw Terminal     |       |             |
-      +--------------+------+--------------------+-------+-------------+
-      | 5V Converter | GND  | Through-hole solder|       |             |
-      +--------------+------+--------------------+ 26    | 16          |
-      | 24V Adapter  | V-   | Ring Connector &   |       |             |
-      |              |      | Screw Terminal     |       |             |
-      +--------------+------+--------------------+-------+-------------+
+   .. image:: ../static/Step_by_Step/Wiring_Images/Power_Distribution/pins_powerdist_2.png
+      :align: center
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Power_Distribution/power_dist_step2_assem.jpg
       :align: center
 
    |
 
-#. Connect 12V Converter to the 24V Adapter
+#. Connect 12V Converter to the 24V Adapter. Use cable clips to secure wire to the 80-20.
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Power_Distribution/power_dist_step3_cad_diagram.png
       :align: center
 
-   .. table::
+   .. image:: ../static/Step_by_Step/Wiring_Images/Power_Distribution/table_powerdist_3.png
       :align: center
-   
-      +---------------+---------+--------------------+-------+-------------+
-      | Component     | Name    | Connector          | Gauge | Length (cm) |
-      +===============+=========+====================+=======+=============+
-      | 12V Converter | Input + | Screw Terminal     |       |             |
-      +---------------+---------+--------------------+ 22    | 45          |
-      | 24V Adapter   | V+      | Ring Connector &   |       |             |
-      |               |         | Screw Terminal     |       |             |
-      +---------------+---------+--------------------+-------+-------------+
-      | 12V Converter | Input - | Screw Terminal     |       |             |
-      +---------------+---------+--------------------+ 22    | 55          |
-      | 24V Adapter   | V-      | Ring Connector &   |       |             |
-      |               |         | Screw Terminal     |       |             |
-      +---------------+---------+--------------------+-------+-------------+
+
+   .. image:: ../static/Step_by_Step/Wiring_Images/Power_Distribution/pins_powerdist_3.png
+      :align: center
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Power_Distribution/power_dist_step3_assem.jpg
       :align: center
 
    |
 
-#. Connect 19V Converter to the 24V Adapter. **Note:** If you are using a different projector, the voltage requirement may be different from 19V. Check power requirements in the product spec and use a different buck converter if needed.
+#. Connect 19V Converter to the 24V Adapter. Use the zip tie cutouts to secure wires in front of the 24V Adapter. **Note:** If you are using a different projector, the voltage requirement may be different from 19V. Check power requirements in the product spec and use a different buck converter if needed.
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Power_Distribution/power_dist_step4_vis1.png
       :align: center
@@ -216,44 +207,24 @@ Power Distribution
    .. image:: ../static/Step_by_Step/Wiring_Images/Power_Distribution/power_dist_step4_cad_diagram.png
       :align: center
 
-   .. table::
+   .. image:: ../static/Step_by_Step/Wiring_Images/Power_Distribution/table_powerdist_4.png
       :align: center
-   
-      +---------------+---------+--------------------+-------+-------------+
-      | Component     | Name    | Connector          | Gauge | Length (cm) |
-      +===============+=========+====================+=======+=============+
-      | 19V Converter | In+     | Pre-attached       |       |             |
-      +---------------+---------+--------------------+ 18    | 15          |
-      | 24V Adapter   | V+      | Ring Connector &   |       |             |
-      |               |         | Screw Terminal     |       |             |
-      +---------------+---------+--------------------+-------+-------------+
-      | 19V Converter | In-     | Pre-attached       |       |             |
-      +---------------+---------+--------------------+ 18    | 15          |
-      | 24V Adapter   | V-      | Ring Connector &   |       |             |
-      |               |         | Screw Terminal     |       |             |
-      +---------------+---------+--------------------+-------+-------------+
+
+   .. image:: ../static/Step_by_Step/Wiring_Images/Power_Distribution/pins_powerdist_4.png
+      :align: center
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Power_Distribution/power_dist_step4_assem.jpg
       :align: center
 
    |
 
-#. Connect 5V Converter to the Screw Terminal Block, with Vout connected to A and Ground connected to B. This is where all 5V powered components will be connected.
+#. Connect 5V Converter to the Screw Terminal Block, with Vout connected to A and Ground connected to B. This is where all 5V powered components will be connected. It may be easier to remove the Screw Terminal Block from the housing plate while connecting wires. After this step, the 5V Converter requires no more soldering and can be reattached to the housing plate.
 
-   .. table::
+   .. image:: ../static/Step_by_Step/Wiring_Images/Power_Distribution/table_powerdist_5.png
       :align: center
-   
-      +-----------------+---------+---------------------+-------+-------------+
-      | Component       | Name    | Connector           | Gauge | Length (cm) |
-      +=================+=========+=====================+=======+=============+
-      | 5V Converter    | Vout    | Through-hole solder |       |             |
-      +-----------------+---------+---------------------+ 26    | 4           |
-      | Terminal Block  | A       | Screw Terminal      |       |             |
-      +-----------------+---------+---------------------+-------+-------------+
-      | 5V Converter    | GND     | Through-hole solder |       |             |
-      +-----------------+---------+---------------------+ 26    | 4           |
-      | Terminal Block  | B       | Screw Terminal      |       |             |
-      +-----------------+---------+---------------------+-------+-------------+
+
+   .. image:: ../static/Step_by_Step/Wiring_Images/Power_Distribution/pins_powerdist_5.png
+      :align: center
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Power_Distribution/power_dist_step5_assem.jpg
       :align: center
