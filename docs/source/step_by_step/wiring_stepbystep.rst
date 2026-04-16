@@ -419,6 +419,8 @@ Top Plate Housing Connections
       | Socket           | Slot 2  | Pin            |       |             |
       +------------------+---------+----------------+-------+-------------+
 
+.. _lcd-wiring:
+
 LCD Housing
 ===========
 

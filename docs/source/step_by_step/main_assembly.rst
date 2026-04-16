@@ -85,7 +85,7 @@ Step-by-Step Instructions
 
 #. Flip the frame so that it is laying on the top. Loosen the TPU feet. Install the two **Bottom Panels** from the Frames Subassemblies. Each of the bottom panels have cutouts in each corner, with one cutout being larger than the other. The larger cutout should be on the end corners of the frame and small cutouts should be towards the center. You may need to move the feet to fit in these cutouts. Align all of the nuts with their respective railings, place down, and tighten the M5 fasteners. Also tighten the TPU Feet. If the bottom panels do not fit together/are not flush with the bottom of the frame, it is because it is not flush on the ends or the TPU feet need to be moved (there might be a slight gap in between the panels but that is fine).
 
-   .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-1.jpg
+   .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-1a.jpg
         :align: center
 
    |
@@ -149,7 +149,7 @@ Step-by-Step Instructions
 
    |
 
-#. Loosen the M5 fasteners that connect the projector rail (25 cm rail that has 90deg gussets on opposite sides) to the 65 cm rails and move the projector rail closer to the right. Install the electronics **Bottom Plate** in the position below. Position it as close to the vial section as possible. Tighten the M5 fasteners.
+#. Loosen the M5 fasteners that connect the projector rail (25 cm rail that has 90deg gussets on opposite sides) to the 65 cm rails and move the projector rail closer to the right. Install the electronics **Bottom Plate** in the position below. Position it as close to the vial section as possible. Tighten the M5 fasteners on the bottom plate. Keep the fasteners on the projector rail loosened. 
 
    .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-7a.jpg
         :align: center
@@ -248,8 +248,6 @@ Step-by-Step Instructions
    .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-14c.jpg
         :align: center
 
-   |
-
    .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-14d.jpg
         :align: center
 
@@ -320,7 +318,6 @@ Required Tools:
 * Metric Measuring Tape
 * Digital/Metric Calipers
 
-
    |
 
 #. Carefully place in the **200mm Fresnel Lens** into the front slots on the collimating lens bottom and side mounts. The flat, non-grooved side of the lens should be facing the projector. See images below.
@@ -346,10 +343,16 @@ Required Tools:
 
    |
 
+NOTE: All images have the LCD Top installed on the enclosure. This is installed in the :ref:`LCD Enclosure section <lcd-wiring>` of the Wiring portion of the website.**
+
+   |
+
 #. After the projector shroud is in, install the second **QTY (1) Col Lens Side Mount** on same side but opposite end of the other side mount, ensuring that the **200mm Fresnel Lens** is in the first (left) slot, and the **Projector Shroud** is in the right slot. The **Col Lens Side Mount** should fit in the Projector Shroud without moving it (should match the height of the other Col Lens Side Mount ~95mm). Tighten all M5 fasteners. See image below.
 
    .. image:: ../static/Step_by_Step/Main_Assembly/part_2/main2-3.jpg
         :align: center
+
+   |
 
 #. This step is installing the **Top Vial Panel Subassembly** If the motor and encoder wires are plugged in, disconnect the Dupont connectors. Take off the **Stepper Motor Subassembly** and run the wires through the cut out in the panel. Place this on top and run the encoder wires through the wire routing cutout in the Top Housing Plate. Reconnect the Dupont connectors for the motor and encoder. Use the zip-tie cutouts to secure the motor and encoder wires. Leave enough slack in the wires for the motor to reach both the "down" and "up" positions. After the wires have been routed, place the panel flat, align the corner M5 Hammer TNuts with the railing and tighten. Ensure the side of the **Top Vial Panel** is flush with the side face of the rail.
 
@@ -419,7 +422,7 @@ Required Tools:
 
 #. Open the Door and install **QTY (5) Magnet Frame Insert** on the front top and bottom rails (3 on each). Place them around the door magnets and around the LCD Panel magnets (see images below).
 
-   .. image:: ../static/Step_by_Step/Main_Assembly/part_2/main2-10.jpg
+   .. image:: ../static/Step_by_Step/Main_Assembly/part_2/main2-10a.jpg
         :align: center
 
    |
@@ -434,7 +437,7 @@ Required Tools:
 
    |
 
-#. Remove the corner screws on the **LCD Top** and carefully pull it open and slightly loosen (so that it can move but does not come off) the '2' M5 fasteners that connect the LCD Enclosure to the rail. Pop on the **LCD Panel Subassembly** by aligning it with the magnet frame inserts from the previous step and move the LCD Enclosure as needed. Go from the bottom up.The right side of the LCD Panel should be flush with the BACK surface of the Side Projector Panel.
+#. Remove the corner screws on the **LCD Top** and carefully pull it open and slightly loosen the '2' M5 fasteners that connect the LCD Enclosure to the rail (so that it can move but does not come off). Pop on the **LCD Panel Subassembly** by aligning it with the magnet frame inserts from the previous step and move the LCD Enclosure as needed. The right side of the LCD Panel should be flush with the BACK surface of the Side Projector Panel. Once the LCD Panel is in place, tighten the the two M5 fasteners on the LCD Enclosure and reinstall the 4 corner screws on the LCD Top.
 
    .. image:: ../static/Step_by_Step/Main_Assembly/part_2/main2-12a.jpg
         :align: center

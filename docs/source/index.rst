@@ -67,9 +67,7 @@ is conducted.
    :hidden:
    :caption: Resources
 
-   resources/troubleshooting
    resources/research_papers
-   resources/photos
    resources/opencal_in_media
    resources/contributors
 
