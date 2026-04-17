@@ -274,25 +274,20 @@ Top Plate Housing Connections
 
    |
 
-#. Connect wires from a 2 pin JST plug to the 12V Converter output screw terminals. Ensure Output + and Output - on the 12V Converter correspond to VS and GND on the stepper driver perf board.
-
+#. Connect wires from a 2 pin JST plug to fork connectors for the 12V Converter output screw terminals. Ensure Output + and Output - on the 12V Converter correspond to VS and GND on the stepper driver perf board. Connect the 12V converter to the same fork connectors at the perf board, matching power and ground. Connect the fork connectors to the 12V Converter. Use a set of 2 pin Dupont connectors in-between for easy fan removal. Run the wires through the corresponding opening in the Top Plate Housing and through the side of the RP5 housing. Use cable clips to secure wire to the 80-20.
    .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/top_plate_step4_vis1.png
       :align: center
 
-   .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/table_top_plate_step4.png
-      :align: center
-
-   |
-
-#. Connect the 12V converter to the fan. Use a set of 2 pin Dupont connectors in-between for easy fan removal. Run the wires through the corresponding opening in the Top Plate Housing and through the side of the RP5 housing. Use cable clips to secure wire to the 80-20.
-
    .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/top_plate_step5_vis1.png
       :align: center
-
-   .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/top_plate_step5_cad_diagram.png
+   
+   .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/top_plate_step4_vis2.png
       :align: center
 
-   .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/table_top_plate_step5.png
+   .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/top_plate_step4_cad_diagram.png
+      :align: center
+
+   .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/table_top_plate_step4.png
       :align: center
 
 .. _lcd-wiring:
@@ -341,9 +336,6 @@ LED
 #. Solder wires from the LED to a 3 pin Dupont plug. Zip tie the wire in place to keep the Dupont connector exposed.
 
    .. image:: ../static/Step_by_Step/Wiring_Images/LED/LED_step2_vis1.png
-      :align: center
-
-   .. image:: ../static/Step_by_Step/Wiring_Images/LED/LED_step2_vis2.png
       :align: center
 
    .. image:: ../static/Step_by_Step/Wiring_Images/LED/table_led_step2.png
