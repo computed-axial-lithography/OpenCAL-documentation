@@ -37,12 +37,12 @@ References for wiring techniques:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * `Dupont connectors tutorial <https://www.youtube.com/watch?v=jET1QTP1B7c>`__
-* `Ring connector tutorial <https://www.youtube.com/watch?v=bODeHs6InPw>`__
+* `Fork connector tutorial <https://www.youtube.com/watch?v=goxVeefDpQg>`__
 * `Perf board soldering tutorial <https://www.youtube.com/watch?v=l9Kbr8cPqOE>`__
 
 **NOTE: The provided wire lengths are an approximation. For cleaner routing and to account for any differences in your OpenCAL build, measuring wire based on the distances between components in your system.**
 
-This guide assumes all components have been mounted to the printer system.
+This guide assumes Main Assembly Process - Part 1 has been completed.
 
 
 How to Read Wiring Guide Tables
@@ -232,53 +232,20 @@ Power Distribution
 Top Plate Housing Connections
 =============================
 
-#. Remove the motor from the top plate. Gather wire motors and trim to end a few centimeters past the opening of the printer. Attach A+, A-, B+, and B- motor wires to a 4 pin Dupont Socket. Connect wires from a 4 pin Dupont Plug to a 4 pin JST connector. Plug this into the Perf Board.
+#. Remove the motor from the top plate. Attach A+, A-, B+, and B- motor wires to a 4 pin JST plug. Plug this into the Perf Board.
 
-   .. table::
+   .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/pins_topplate_1.png
       :align: center
 
-      +--------------------+-------+----------------+-------+-------------+
-      | Component          | Name  | Connector      | Gauge | Length (cm) |
-      +====================+=======+================+=======+=============+
-      | Motor              | A-    | Pre-attached   |       |             |
-      +--------------------+-------+----------------+ 26    | 15          |
-      | 4 Pin Dupont Socket| Slot 1| Dupont Socket  |       |             |
-      +--------------------+-------+----------------+-------+-------------+
-      | Motor              | A+    | Pre-attached   |       |             |
-      +--------------------+-------+----------------+ 26    | 15          |
-      | 4 Pin Dupont Socket| Slot 2| Dupont Socket  |       |             |
-      +--------------------+-------+----------------+-------+-------------+
-      | Motor              | B+    | Pre-attached   |       |             |
-      +--------------------+-------+----------------+ 26    | 15          |
-      | 4 Pin Dupont Socket| Slot 3| Dupont Socket  |       |             |
-      +--------------------+-------+----------------+-------+-------------+
-      | Motor              | B-    | Pre-attached   |       |             |
-      +--------------------+-------+----------------+ 26    | 15          |
-      | 4 Pin Dupont Socket| Slot 4| Dupont Socket  |       |             |
-      +--------------------+-------+----------------+-------+-------------+
-      | Perf Board         | A2    | 4 Pin JST Plug |       |             |
-      +--------------------+-------+----------------+ 26    | 6           |
-      | 4 Pin Dupont Socket| Slot 1| Dupont Socket  |       |             |
-      +--------------------+-------+----------------+-------+-------------+
-      | Perf Board         | A1    | 4 Pin JST Plug |       |             |
-      +--------------------+-------+----------------+ 26    | 6           |
-      | 4 Pin Dupont Socket| Slot 2| Dupont Socket  |       |             |
-      +--------------------+-------+----------------+-------+-------------+
-      | Perf Board         | B1    | 4 Pin JST Plug |       |             |
-      +--------------------+-------+----------------+ 26    | 6           |
-      | 4 Pin Dupont Socket| Slot 3| Dupont Socket  |       |             |
-      +--------------------+-------+----------------+-------+-------------+
-      | Perf Board         | B2    | 4 Pin JST Plug |       |             |
-      +--------------------+-------+----------------+ 26    | 6           |
-      | 4 Pin Dupont Socket| Slot 4| Dupont Socket  |       |             |
-      +--------------------+-------+----------------+-------+-------------+
+   .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/table_top_plate_step1.png
+      :align: center
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/top_plate_step1_assem.jpg
       :align: center
 
    |
 
-#. Connect encoder EA+, EB+, VCC, and GND wires to a receptacle Dupont connector. Connect wires from a plug Dupont connector to Terminal Block and RP5 pins. Trim extraneous wires (EA-, EB-, EZ+, EZ-) to 10 cm and use heat shrink to cover wire ends.
+#. Connect encoder EA+, EB+, VCC, and GND wires to a receptacle Dupont connector. Connect wires from a plug Dupont connector to Terminal Block and RP5 pins. Trim extraneous wires (EA-, EB-, EZ+, EZ-) to 10 cm and use heat shrink to cover wire ends. Use cable clips to secure wire to the 80-20.
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/top_plate_step2_vis1.png
       :align: center
@@ -286,107 +253,38 @@ Top Plate Housing Connections
    .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/top_plate_step2_cad_diagram.png
       :align: center
 
-   .. table::
+   .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/table_top_plate_step2.png
       :align: center
-
-      +------------------+---------+----------------+-------+-------------+
-      | Component        | Name    | Connector      | Gauge | Length (cm) |
-      +==================+=========+================+=======+=============+
-      | Encoder          | EA+     | Pre-attached   |       |             |
-      +------------------+---------+----------------+ 26    | 28          |
-      | 4 Pin Dupont Plug| Slot 1  | Dupont Plug Pin|       |             |
-      +------------------+---------+----------------+-------+-------------+
-      | Encoder          | EB+     | Pre-attached   |       |             |
-      +------------------+---------+----------------+ 26    | 28          |
-      | 4 Pin Dupont Plug| Slot 2  | Dupont Plug Pin|       |             |
-      +------------------+---------+----------------+-------+-------------+
-      | Encoder          | VCC     | Pre-attached   |       |             |
-      +------------------+---------+----------------+ 26    | 28          |
-      | 4 Pin Dupont Plug| Slot 3  | Dupont Plug Pin|       |             |
-      +------------------+---------+----------------+-------+-------------+
-      | Encoder          | GND     | Pre-attached   |       |             |
-      +------------------+---------+----------------+ 26    | 28          |
-      | 4 Pin Dupont Plug| Slot 4  | Dupont Plug Pin|       |             |
-      +------------------+---------+----------------+-------+-------------+
-      | RP5              | GPIO 12 | Pre-attached   |       |             |
-      +------------------+---------+----------------+ 26    | 33          |
-      | 4 Pin Dupont Plug| Slot 1  | Dupont Plug Pin|       |             |
-      +------------------+---------+----------------+-------+-------------+
-      | RP5              | GPIO 13 | Pre-attached   |       |             |
-      +------------------+---------+----------------+ 26    | 33          |
-      | 4 Pin Dupont Plug| Slot 2  | Dupont Plug Pin|       |             |
-      +------------------+---------+----------------+-------+-------------+
-      | Terminal Block   | A4      | Pre-attached   |       |             |
-      +------------------+---------+----------------+ 26    | 33          |
-      | 4 Pin Dupont Plug| Slot 3  | Dupont Plug Pin|       |             |
-      +------------------+---------+----------------+-------+-------------+
-      | Terminal Block   | B4      | Pre-attached   |       |             |
-      +------------------+---------+----------------+ 26    | 33          |
-      | 4 Pin Dupont Plug| Slot 4  | Dupont Plug Pin|       |             |
-      +------------------+---------+----------------+-------+-------------+
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/top_plate_step2_assem.jpg
       :align: center
 
    |
 
-#. Connect wires from a 4 pin JST plug to the corresponding pins on the RP5. Plug the JST connector into the stepper driver Perf Board.
-
+#. Connect wires from a 4 pin JST plug to the corresponding pins on the RP5. Plug the JST connector into the stepper driver Perf Board. Make sure to run the wire through the designated cutout. Use cable clips to secure wire to the 80-20.
+   
    .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/top_plate_step3_cad_diagram.png
       :align: center
 
-   .. table::
+   .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/table_top_plate_step3.png
       :align: center
-   
-      +------------------+---------+----------------+-------+-------------+
-      | Component        | Name    | Connector      | Gauge | Length (cm) |
-      +==================+=========+================+=======+=============+
-      | RP5              | 3v3     | 4 Pin JST Plug |       |             |
-      +------------------+---------+----------------+ 26    | 40          |
-      | 4 Pin JST Plug   | VIO     | Dupont Socket  |       |             |
-      +------------------+---------+----------------+-------+-------------+
-      | RP5              | DIR     | 4 Pin JST Plug |       |             |
-      +------------------+---------+----------------+ 26    | 40          |
-      | 4 Pin JST Plug   | GPIO 23 | Dupont Socket  |       |             |
-      +------------------+---------+----------------+-------+-------------+
-      | RP5              | STEP    | 4 Pin JST Plug |       |             |
-      +------------------+---------+----------------+ 26    | 40          |
-      | 4 Pin JST Plug   | GPIO 18 | Dupont Socket  |       |             |
-      +------------------+---------+----------------+-------+-------------+
-      | RP5              | EN      | 4 Pin JST Plug |       |             |
-      +------------------+---------+----------------+ 26    | 40          |
-      | 4 Pin JST Plug   | GPIO 27 | Dupont Socket  |       |             |
-      +------------------+---------+----------------+-------+-------------+
-
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/top_plate_step3_assem.jpg
       :align: center
 
    |
 
-#. Connect wires from a 2 pin JST plug to the 12V Converter output screw terminals
+#. Connect wires from a 2 pin JST plug to the 12V Converter output screw terminals. Ensure Output + and Output - on the 12V Converter correspond to VS and GND on the stepper driver perf board.
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/top_plate_step4_vis1.png
       :align: center
 
-   .. table::
+   .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/table_top_plate_step4.png
       :align: center
-   
-      +-----------------+----------+----------------+-------+-------------+
-      | Component       | Name     | Connector      | Gauge | Length (cm) |
-      +=================+==========+================+=======+=============+
-      | Perf Board      | VS       | 2 Pin JST Plug |       |             |
-      +-----------------+----------+----------------+ 26    | 13          |
-      | 12V Converter   | Output + | Screw Terminal |       |             |
-      +-----------------+----------+----------------+-------+-------------+
-      | Perf Board      | GND      | 2 Pin JST Plug |       |             |
-      +-----------------+----------+----------------+ 26    | 13          |
-      | 12V Converter   | Output - | Screw Terminal |       |             |
-      +-----------------+----------+----------------+-------+-------------+
 
    |
 
-#. Connect the 12V converter to the fan. Use a set of 2 pin Dupont connectors in-between for easy fan removal. Run the wires through the corresponding opening in the Top Plate Housing.
+#. Connect the 12V converter to the fan. Use a set of 2 pin Dupont connectors in-between for easy fan removal. Run the wires through the corresponding opening in the Top Plate Housing and through the side of the RP5 housing. Use cable clips to secure wire to the 80-20.
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/top_plate_step5_vis1.png
       :align: center
@@ -394,30 +292,8 @@ Top Plate Housing Connections
    .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/top_plate_step5_cad_diagram.png
       :align: center
 
-   .. table::
+   .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/table_top_plate_step5.png
       :align: center
-   
-      +------------------+---------+----------------+-------+-------------+
-      | Component        | Name    | Connector      | Gauge | Length (cm) |
-      +==================+=========+================+=======+=============+
-      | Fan              | Power   | Pre-attached   |       |             |
-      +------------------+---------+----------------+ 26    | 8           |
-      | 2 Pin Dupont Plug| Slot 1  | Dupont Plug Pin|       |             |
-      +------------------+---------+----------------+-------+-------------+
-      | Fan              | Ground  | Pre-attached   |       |             |
-      +------------------+---------+----------------+ 26    | 8           |
-      | 2 Pin Dupont Plug| Slot 2  | Dupont Plug Pin|       |             |
-      +------------------+---------+----------------+-------+-------------+
-      | 12V Converter    | Output +| Screw Terminal |       |             |
-      +------------------+---------+----------------+ 26    | 28          |
-      | 2 Pin Dupont     | Slot 1  | Dupont Socket  |       |             |
-      | Socket           |         | Pin            |       |             |
-      +------------------+---------+----------------+-------+-------------+
-      | 12V Converter    | Output -| Screw Terminal |       |             |
-      +------------------+---------+----------------+ 26    | 28          |
-      | 2 Pin Dupont     |         | Dupont Socket  |       |             |
-      | Socket           | Slot 2  | Pin            |       |             |
-      +------------------+---------+----------------+-------+-------------+
 
 .. _lcd-wiring:
 
@@ -429,28 +305,8 @@ LCD Housing
    .. image:: ../static/Step_by_Step/Wiring_Images/LCD/LCD_step1_cad_diagram.png
       :align: center
 
-   .. table::
+   .. image:: ../static/Step_by_Step/Wiring_Images/LCD/table_lcd_step1.png
       :align: center
-   
-      +-----------------+---------+----------------+-------+-------------+
-      | Component       | Name    | Connector      | Gauge | Length (cm) |
-      +=================+=========+================+=======+=============+
-      | LCD             | SDA     | Dupont Socket  |       |             |
-      +-----------------+---------+----------------+ 26    | 92          |
-      | RP5             | SDA     | Dupont Socket  |       |             |
-      +-----------------+---------+----------------+-------+-------------+
-      | LCD             | SCL     | Dupont Socket  |       |             |
-      +-----------------+---------+----------------+ 26    | 92          |
-      | RP5             | SCL     | Dupont Socket  |       |             |
-      +-----------------+---------+----------------+-------+-------------+
-      | LCD             | VCC     | Dupont Socket  |       |             |
-      +-----------------+---------+----------------+ 26    | 99          |
-      | Terminal Block  | A3      | Screw Terminal |       |             |
-      +-----------------+---------+----------------+-------+-------------+
-      | LCD             | GND     | Dupont Socket  |       |             |
-      +-----------------+---------+----------------+ 26    | 99          |
-      | Terminal Block  | B3      | Screw Terminal |       |             |
-      +-----------------+---------+----------------+-------+-------------+
 
    .. image:: ../static/Step_by_Step/Wiring_Images/LCD/LCD_step1_assem.jpg
       :align: center
@@ -462,32 +318,8 @@ LCD Housing
    .. image:: ../static/Step_by_Step/Wiring_Images/LCD/LCD_step2_cad_diagram.png
       :align: center
 
-   .. table::
+   .. image:: ../static/Step_by_Step/Wiring_Images/LCD/table_lcd_step2.jpg
       :align: center
-
-      +-----------------+---------+----------------+-------+-------------+
-      | Component       | Name    | Connector      | Gauge | Length (cm) |
-      +=================+=========+================+=======+=============+
-      | Encoder Knob    | \+      | Dupont Socket  |       |             |
-      +-----------------+---------+----------------+ 26    | 104         |
-      | Terminal Block  | A2      | Screw Terminal |       |             |
-      +-----------------+---------+----------------+-------+-------------+
-      | Encoder Knob    | GND     | Dupont Socket  |       |             |
-      +-----------------+---------+----------------+ 26    | 104         |
-      | Terminal Block  | B2      | Screw Terminal |       |             |
-      +-----------------+---------+----------------+-------+-------------+
-      | Encoder Knob    | CLK     | Dupont Socket  |       |             |
-      +-----------------+---------+----------------+ 26    | 103         |
-      | RP5             | GPIO 5  | Dupont Socket  |       |             |
-      +-----------------+---------+----------------+-------+-------------+
-      | Encoder Knob    | DT      | Dupont Socket  |       |             |
-      +-----------------+---------+----------------+ 26    | 103         |
-      | RP5             | GPIO 6  | Dupont Socket  |       |             |
-      +-----------------+---------+----------------+-------+-------------+
-      | Encoder Knob    | SW      | Dupont Socket  |       |             |
-      +-----------------+---------+----------------+ 26    | 103         |
-      | RP5             | GPIO 19 | Dupont Socket  |       |             |
-      +-----------------+---------+----------------+-------+-------------+
 
    .. image:: ../static/Step_by_Step/Wiring_Images/LCD/LCD_step2_assem.jpg
       :align: center
@@ -514,24 +346,8 @@ LED
    .. image:: ../static/Step_by_Step/Wiring_Images/LED/LED_step2_vis2.png
       :align: center
 
-   .. table::
+   .. image:: ../static/Step_by_Step/Wiring_Images/LED/table_led_step2.png
       :align: center
-
-      +--------------------+--------+--------------------+-------+-------------+
-      | Component          | Name   | Connector          | Gauge | Length (cm) |
-      +====================+========+====================+=======+=============+
-      | LED                | 5V     | Through-hole solder|       |             |
-      +--------------------+--------+--------------------+ 26    | 20          |
-      | 3 Pin Dupont Socket| Slot 1 | Dupont Socket      |       |             |
-      +--------------------+--------+--------------------+-------+-------------+
-      | LED                | GND    | Through-hole solder|       |             |
-      +--------------------+--------+--------------------+ 26    | 20          |
-      | 3 Pin Dupont Socket| Slot 2 | Dupont Socket      |       |             |
-      +--------------------+--------+--------------------+-------+-------------+
-      | LED                | Din    | Through-hole solder|       |             |
-      +--------------------+--------+--------------------+ 26    | 20          |
-      | 3 Pin Dupont Socket| Slot 3 | Dupont Socket      |       |             |
-      +--------------------+--------+--------------------+-------+-------------+
 
    |
 
@@ -540,28 +356,8 @@ LED
    .. image:: ../static/Step_by_Step/Wiring_Images/LED/LED_step3_cad_diagram.png
       :align: center
 
-   .. table::
+   .. image:: ../static/Step_by_Step/Wiring_Images/LED/table_led_step3.png
       :align: center
-   
-      +--------------------+------------+----------------+-------+-------------+
-      | Component          | Name       | Connector      | Gauge | Length (cm) |
-      +====================+============+================+=======+=============+
-      | Terminal Block     | A5         | Dupont Socket  |       |             |
-      +--------------------+------------+----------------+ 26    | 20          |
-      | 3 Pin Dupont Plug  | Slot 1     | Dupont Plug    |       |             |
-      +--------------------+------------+----------------+-------+-------------|
-      | Terminal Block     | B5         | Screw Terminal |       |             |
-      +--------------------+------------+----------------+ 26    | 20          |
-      | 3 Pin Dupont Plug  | Slot 2     | Dupont Plug    |       |             |
-      +--------------------+------------+----------------+-------+-------------+
-      | Resistor           | Wire End 1 | Wire Solder    |       |             |
-      +--------------------+------------+----------------+ 26    | 30          |
-      | 3 Pin Dupont Plug  | Slot 3     | Dupont Plug    |       |             |
-      +--------------------+------------+----------------+-------+-------------+
-      | RP5                | GPIO 10    | Screw Terminal |       |             |
-      +--------------------+------------+----------------+ 26    | 30          |
-      | Resistor           | Wire End 2 | Wire Solder    |       |             |
-      +--------------------+------------+----------------+-------+-------------+
 
    .. image:: ../static/Step_by_Step/Wiring_Images/LED/LED_step3_assem.jpg
       :align: center
@@ -619,20 +415,8 @@ Remaining Connections
    .. image:: ../static/Step_by_Step/Wiring_Images/Remaining_Connections/remaining_step1_cad_diagram.png
       :align: center
 
-   .. table::
+   .. image:: ../static/Step_by_Step/Wiring_Images/Remaining_Connections/table_remaining_step1.png
       :align: center
-   
-      +----------------+-------+----------------+-------+-------------+
-      | Component      | Name  | Connector      | Gauge | Length (cm) |
-      +================+=======+================+=======+=============+
-      | RP5            | Power | Dupont Socket  |       |             |
-      +----------------+-------+----------------+ 26    | 35          |
-      | Terminal Block | A6    | Screw Terminal |       |             |
-      +----------------+-------+----------------+-------+-------------+
-      | RP5            | Power | Dupont Socket  |       |             |
-      +----------------+-------+----------------+ 26    | 35          |
-      | Terminal Block | B6    | Screw Terminal |       |             |
-      +----------------+-------+----------------+-------+-------------+
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Remaining_Connections/remaining_step1_assem.jpg
       :align: center
@@ -644,20 +428,8 @@ Remaining Connections
    .. image:: ../static/Step_by_Step/Wiring_Images/Remaining_Connections/remaining_step2_vis1.png
       :align: center
 
-   .. table::
+   .. image:: ../static/Step_by_Step/Wiring_Images/Remaining_Connections/table_remaining_step2.png
       :align: center
-
-      +---------------+-------+----------------+-------+-------------+
-      | Component     | Name  | Connector      | Gauge | Length (cm) |
-      +===============+=======+================+=======+=============+
-      | Projector     | Power | USB-C          |       |             |
-      +---------------+-------+----------------+ 22    | 40          |
-      | 19V Converter | Out+  | Screw Terminal |       |             |
-      +---------------+-------+----------------+-------+-------------+
-      | Projector     | Power | Dupont Socket  |       |             |
-      +---------------+-------+----------------+ 22    | 40          |
-      | 19V Converter | Out-  | USB-C          |       |             |
-      +---------------+-------+----------------+-------+-------------+
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Remaining_Connections/remaining_step2_assem.jpg
       :align: center
