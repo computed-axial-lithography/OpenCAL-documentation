@@ -103,7 +103,6 @@ Stepper Driver Perf Board
    .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/driver_step6_vis.png
       :align: center
 
-   |
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/diagram_step6.png
       :align: center
@@ -114,7 +113,6 @@ Stepper Driver Perf Board
    .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/driver_step7_vis.png
       :align: center
 
-   |
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/diagram_step7.png
       :align: center
@@ -125,7 +123,6 @@ Stepper Driver Perf Board
    .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/driver_step8_vis.png
       :align: center
 
-   |
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/diagram_step8.png
       :align: center
@@ -136,7 +133,6 @@ Stepper Driver Perf Board
    .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/driver_step9_vis.png
       :align: center
 
-   |
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/diagram_step9.png
       :align: center
@@ -194,7 +190,7 @@ Power Distribution
    .. image:: ../static/Step_by_Step/Wiring_Images/Power_Distribution/pins_powerdist_3.png
       :align: center
 
-   .. image:: ../static/Step_by_Step/Wiring_Images/Power_Distribution/power_dist_step3_assem.jpg
+   .. image:: ../static/Step_by_Step/Wiring_Images/Power_Distribution/power_dist_step3_assem.png
       :align: center
 
    |
