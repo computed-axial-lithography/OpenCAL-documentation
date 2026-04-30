@@ -56,7 +56,8 @@ Stepper Driver Perf Board
 
 
 #. Collect JST connector pack, perf board, 8 Position Header Pins, TMC2209
-   |
+   
+|
 
 #. Solder header pins to board, using the TMC2209 pins as a reference for distance. (Row 5, Columns K-R; Row 10, Columns K-R on bottom view). Note the header pins are labeled “1” and “2”.
 
