@@ -39,6 +39,7 @@ is conducted.
    engineering_documentation/bom
    engineering_documentation/tools
    engineering_documentation/cad
+   engineering_documentation/materials
 
 .. toctree::
    :maxdepth: 2
