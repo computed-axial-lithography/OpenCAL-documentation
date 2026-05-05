@@ -43,6 +43,13 @@ is conducted.
 .. toctree::
    :maxdepth: 2
    :hidden:
+   :caption: Materials
+
+   materials/overview
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
    :caption: Step-by-Step Guides 
 
    step_by_step/frame_stepbystep
