@@ -264,10 +264,6 @@ Top Plate Housing Connections
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/table_top_plate_step3.png
       :align: center
-
-   .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/top_plate_step3_assem.jpg
-      :align: center
-
    |
 
 #. Connect wires from a 2 pin JST plug to fork connectors for the 12V Converter output screw terminals. Ensure Output + and Output - on the 12V Converter correspond to VS and GND on the stepper driver perf board. Connect the 12V converter to the same fork connectors at the perf board, matching power and ground. Connect the fork connectors to the 12V Converter. Use a set of 2 pin Dupont connectors in-between for easy fan removal. Run the wires through the corresponding opening in the Top Plate Housing and through the side of the RP5 housing. Use cable clips to secure wire to the 80-20.
@@ -309,7 +305,7 @@ LCD Housing
    .. image:: ../static/Step_by_Step/Wiring_Images/LCD/LCD_step2_cad_diagram.png
       :align: center
 
-   .. image:: ../static/Step_by_Step/Wiring_Images/LCD/table_lcd_step2.jpg
+   .. image:: ../static/Step_by_Step/Wiring_Images/LCD/table_lcd_step2.png
       :align: center
 
    .. image:: ../static/Step_by_Step/Wiring_Images/LCD/LCD_step2_assem.jpg
