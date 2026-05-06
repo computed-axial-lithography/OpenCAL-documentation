@@ -379,9 +379,6 @@ Camera
 
 #. In the RP5 Housing assembly, connect the CSI to HDMI adapter to the RP5 using a CSI cable. This CSI cable is 22 pin to 15 pin.
 
-   .. image:: ../static/Step_by_Step/Wiring_Images/camera/camera_step3_vis1.png
-      :align: center
-
    .. image:: ../static/Step_by_Step/Wiring_Images/camera/camera_step3_assem.jpg
       :align: center
 
