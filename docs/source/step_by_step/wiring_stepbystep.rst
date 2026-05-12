@@ -56,7 +56,8 @@ Stepper Driver Perf Board
 
 
 #. Collect JST connector pack, perf board, 8 Position Header Pins, TMC2209
-   |
+   
+|
 
 #. Solder header pins to board, using the TMC2209 pins as a reference for distance. (Row 5, Columns K-R; Row 10, Columns K-R on bottom view). Note the header pins are labeled “1” and “2”.
 
@@ -103,7 +104,6 @@ Stepper Driver Perf Board
    .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/driver_step6_vis.png
       :align: center
 
-   |
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/diagram_step6.png
       :align: center
@@ -114,7 +114,6 @@ Stepper Driver Perf Board
    .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/driver_step7_vis.png
       :align: center
 
-   |
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/diagram_step7.png
       :align: center
@@ -125,7 +124,6 @@ Stepper Driver Perf Board
    .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/driver_step8_vis.png
       :align: center
 
-   |
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/diagram_step8.png
       :align: center
@@ -136,13 +134,12 @@ Stepper Driver Perf Board
    .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/driver_step9_vis.png
       :align: center
 
-   |
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/diagram_step9.png
       :align: center
 
    |
-#. Place the TMC2209 on the perf board with the A1, A2, B1, B2, pins on top.
+#. Place the TMC2209 on the perf board with the A1, A2, B1, B2, pins on top. The image shows where the JST pins should be connected to on the driver.
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/driver_step10_vis.png
       :align: center
@@ -194,7 +191,7 @@ Power Distribution
    .. image:: ../static/Step_by_Step/Wiring_Images/Power_Distribution/pins_powerdist_3.png
       :align: center
 
-   .. image:: ../static/Step_by_Step/Wiring_Images/Power_Distribution/power_dist_step3_assem.jpg
+   .. image:: ../static/Step_by_Step/Wiring_Images/Power_Distribution/power_dist_step3_assem.png
       :align: center
 
    |
@@ -269,12 +266,12 @@ Top Plate Housing Connections
    .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/table_top_plate_step3.png
       :align: center
 
-   .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/top_plate_step3_assem.jpg
+   .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/pins_topplate_3.png
       :align: center
-
    |
 
 #. Connect wires from a 2 pin JST plug to fork connectors for the 12V Converter output screw terminals. Ensure Output + and Output - on the 12V Converter correspond to VS and GND on the stepper driver perf board. Connect the 12V converter to the same fork connectors at the perf board, matching power and ground. Connect the fork connectors to the 12V Converter. Use a set of 2 pin Dupont connectors in-between for easy fan removal. Run the wires through the corresponding opening in the Top Plate Housing and through the side of the RP5 housing. Use cable clips to secure wire to the 80-20.
+   
    .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/top_plate_step4_vis1.png
       :align: center
 
@@ -288,6 +285,9 @@ Top Plate Housing Connections
       :align: center
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/table_top_plate_step4.png
+      :align: center
+
+   .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/pins_topplate_4.png
       :align: center
 
 .. _lcd-wiring:
@@ -313,7 +313,7 @@ LCD Housing
    .. image:: ../static/Step_by_Step/Wiring_Images/LCD/LCD_step2_cad_diagram.png
       :align: center
 
-   .. image:: ../static/Step_by_Step/Wiring_Images/LCD/table_lcd_step2.jpg
+   .. image:: ../static/Step_by_Step/Wiring_Images/LCD/table_lcd_step2.png
       :align: center
 
    .. image:: ../static/Step_by_Step/Wiring_Images/LCD/LCD_step2_assem.jpg
@@ -378,9 +378,6 @@ Camera
    |
 
 #. In the RP5 Housing assembly, connect the CSI to HDMI adapter to the RP5 using a CSI cable. This CSI cable is 22 pin to 15 pin.
-
-   .. image:: ../static/Step_by_Step/Wiring_Images/camera/camera_step3_vis1.png
-      :align: center
 
    .. image:: ../static/Step_by_Step/Wiring_Images/camera/camera_step3_assem.jpg
       :align: center
