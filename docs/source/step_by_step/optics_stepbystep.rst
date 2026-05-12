@@ -57,6 +57,68 @@ Step-by-Step Instructions
    .. image:: ../static/Step_by_Step/Optics_Subassemblies/Collimating_Lens/collens-3.jpg
        :align: center 
        
+----
+
+Projector Mount Support
+=======================
+
+----
+
+.. image:: ../static/Step_by_Step/Optics_Subassemblies/Projector_Support/proj_support_CAD.jpg
+
+|
+
+Required Materials:
+^^^^^^^^^^^^^^^^^^^
+**NOTE: Heat Set Inserts have already been installed into Projector Support Base.**
+
+* (QTY 1) Projector Support Mount
+* (QTY 1) Projector Support base
+* (QTY 4) M3x4x5 Heat Set Insert
+* (QTY 4) M3x12 Button Head Screw
+* (QTY 4) M3 Washer
+* (QTY 2) M5x8 Button Head Screw
+* (QTY 2) M5 Hammer Tnut
+
+.. image:: ../static/Step_by_Step/Optics_Subassemblies/Projector_Support/proj_support_materials.jpg
+
+|
+
+Required Tools:
+^^^^^^^^^^^^^^^
+M2 Allen/Hex Key
+Soldering Iron
+
+Step-by-Step Instructions
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+#. Slide **QTY (1) Projector Support Mount** over the extrusion on **QTY (1) Projector Support Base**. Through the slot on the Projector Support Mount, install **QTY (2) M3x12 Button Head Screw** & **QTY (2) M3 Washer** on BOTH sides. The mount can be slid at an arbitrary point for now.
+
+.. image:: ../static/Step_by_Step/Optics_Subassemblies/Projector_Support/proj_support_1a.jpg
+
+|
+
+.. image:: ../static/Step_by_Step/Optics_Subassemblies/Projector_Support/proj_support_1b.jpg
+
+|
+
+#. Loose insttall **QTY (2) M5x8 Button Head Screw** with **QTY (2) M5 Hammer TNut** in the location below.
+
+.. image:: ../static/Step_by_Step/Optics_Subassemblies/Projector_Support/proj_support_2a.jpg
+
+|
+
+.. image:: ../static/Step_by_Step/Optics_Subassemblies/Projector_Support/proj_support_2b.jpg
+
+|
+
+#. The Projector Support Subassembly is now complete.
+
+
+
+
+
+
 
 ----
 
