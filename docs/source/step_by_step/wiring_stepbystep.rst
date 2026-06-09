@@ -38,7 +38,6 @@ References for wiring techniques:
 
 * `Dupont connectors tutorial <https://www.youtube.com/watch?v=jET1QTP1B7c>`__
 * `Fork connector tutorial <https://www.youtube.com/watch?v=goxVeefDpQg>`__
-* `Perf board soldering tutorial <https://www.youtube.com/watch?v=l9Kbr8cPqOE>`__
 
 **NOTE: The provided wire lengths are an approximation. For cleaner routing and to account for any differences in your OpenCAL build, measuring wire based on the distances between components in your system.**
 
@@ -49,99 +48,6 @@ How to Read Wiring Guide Tables
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Example_for_Wiring_Guide.png
-      :align: center
-
-Stepper Driver Perf Board
-=========================
-
-
-#. Collect JST connector pack, perf board, 8 Position Header Pins, TMC2209
-   
-|
-
-#. Solder header pins to board, using the TMC2209 pins as a reference for distance. (Row 5, Columns K-R; Row 10, Columns K-R on bottom view). Note the header pins are labeled “1” and “2”.
-
-   .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/driver_step2_vis.png
-      :align: center
-
-
-   .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/diagram_step2.png
-      :align: center
-
-   |
-#. Solder a 4 pin JST socket one column past header pin 2. (Row 3, Columns J-M)
-
-   .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/driver_step3_vis.png
-      :align: center
-
-
-   .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/diagram_step3.png
-      :align: center
-
-   |
-#. Solder a 4 pin JST socket centered with header pin 1. (Row 12, Columns M-P on bottom view)
-
-   .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/driver_step4_vis.png
-      :align: center
-
-
-   .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/diagram_step4.png
-      :align: center
-
-   |
-#. Solder a 2 pin JST plug to the right size of the perf board. (Row 12, Columns E-F)
-
-   .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/driver_step5_vis.png
-      :align: center
-
-
-   .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/diagram_step5.png
-      :align: center
-
-   |
-#. Connect the four center pins of the upper header pin to the JST connector by placing solder across the solder pads. Connect the two pins at the end of the lower header pin to the JST connector. This creates a connection from the JSTs to the motor coil pins, A1, A2, B1, B2, and to the STEP and DIR pins. (M10 to M12, N10 to N12, O10 to O12, P10 to P12, K3 to K5, L3 to L5, M3 to M5)
-
-   .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/driver_step6_vis.png
-      :align: center
-
-
-   .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/diagram_step6.png
-      :align: center
-
-   |
-#. Using 26 AWG wire, connect the pins corresponding to GND and VS, the two leftmost pins on header 1, to the 2 pin JST connector. Ensure VS connects to the outermost pin on the 2 pin JST. (Q10 to F12, R10 to E12)
-
-   .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/driver_step7_vis.png
-      :align: center
-
-
-   .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/diagram_step7.png
-      :align: center
-
-   |
-#. Using 26 AWG wire, connet the leftmost pin of header pin 2, corresponding to EN, to the leftmost pin of JST connector 2. (R5 to M3)
-
-   .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/driver_step8_vis.png
-      :align: center
-
-
-   .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/diagram_step8.png
-      :align: center
-
-   |
-#. Using 26 AWG wire, second to the right pin of header pin 1 to the rightmost pin of JST connector 2. This connects VIO to 3.3v power from the RP5. (L10 to J3)
-
-   .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/driver_step9_vis.png
-      :align: center
-
-
-   .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/diagram_step9.png
-      :align: center
-
-   |
-#. Place the TMC2209 on the perf board with the A1, A2, B1, B2, pins on top. The image shows where the JST pins should be connected to on the driver.
-
-   .. image:: ../static/Step_by_Step/Wiring_Images/Stepper_Driver/driver_step10_vis.png
       :align: center
 
 Power Distribution
@@ -229,66 +135,46 @@ Power Distribution
 Top Plate Housing Connections
 =============================
 
-#. Remove the motor from the top plate. Attach A+, A-, B+, and B- motor wires to a 4 pin JST plug. Plug this into the Perf Board.
+#. Remove the motor from the top plate. Attach A+, A-, B+, and B- motor wires to the Tic T249 by trimming the provided cable and stripping the ends. Run wires from the Tic T249 to the 24V adapter using the corresponding cutout.
 
-   .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/pins_topplate_1.png
+   .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/top_plate_step1_cad_diagram.png
       :align: center
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/table_top_plate_step1.png
       :align: center
 
-   .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/top_plate_step1_assem.jpg
+   .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/top_plate_step1_vis1.png
+      :align: center
+   
+   .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/top_plate_step1_vis2.png
       :align: center
 
    |
 
-#. Connect encoder EA+, EB+, VCC, and GND wires to a receptacle Dupont connector. Connect wires from a plug Dupont connector to Terminal Block and RP5 pins. Trim extraneous wires (EA-, EB-, EZ+, EZ-) to 10 cm and use heat shrink to cover wire ends. Use cable clips to secure wire to the 80-20.
+#. Run a Micro-USB to USB-A cable from the Tic T249 to the RP5 using the designated cutout. Plug the cable into the RP5 using a U-shaped adapter.
+
+   .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/top_plate_step2_vis1.png
+      :align: center
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/top_plate_step2_vis1.png
       :align: center
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/top_plate_step2_cad_diagram.png
       :align: center
-
-   .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/table_top_plate_step2.png
-      :align: center
-
-   .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/top_plate_step2_assem.jpg
-      :align: center
-
+      
    |
 
-#. Connect wires from a 4 pin JST plug to the corresponding pins on the RP5. Plug the JST connector into the stepper driver Perf Board. Make sure to run the wire through the designated cutout. Use cable clips to secure wire to the 80-20.
+#. Connect wires from a 2 pin JST plug to fork connectors for the 12V Converter output screw terminals. Ensure Output + and Output - on the 12V Converter correspond to VS and GND on the stepper driver perf board. Use a set of 2 pin Dupont connectors in-between for easy fan removal. Run the wires through the corresponding opening in the Top Plate Housing and through the side of the RP5 housing. Use cable clips to secure wire to the 80-20.
    
+   .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/top_plate_step3_vis1.png
+      :align: center
+
    .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/top_plate_step3_cad_diagram.png
       :align: center
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/table_top_plate_step3.png
       :align: center
 
-   .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/pins_topplate_3.png
-      :align: center
-   |
-
-#. Connect wires from a 2 pin JST plug to fork connectors for the 12V Converter output screw terminals. Ensure Output + and Output - on the 12V Converter correspond to VS and GND on the stepper driver perf board. Connect the 12V converter to the same fork connectors at the perf board, matching power and ground. Connect the fork connectors to the 12V Converter. Use a set of 2 pin Dupont connectors in-between for easy fan removal. Run the wires through the corresponding opening in the Top Plate Housing and through the side of the RP5 housing. Use cable clips to secure wire to the 80-20.
-   
-   .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/top_plate_step4_vis1.png
-      :align: center
-
-   .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/top_plate_step5_vis1.png
-      :align: center
-   
-   .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/top_plate_step4_vis2.png
-      :align: center
-
-   .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/top_plate_step4_cad_diagram.png
-      :align: center
-
-   .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/table_top_plate_step4.png
-      :align: center
-
-   .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/pins_topplate_4.png
-      :align: center
 
 .. _lcd-wiring:
 
