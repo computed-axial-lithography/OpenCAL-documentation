@@ -15,14 +15,17 @@ Machinery
 * 3D Printer  
     * PLA, PETG, & TPU Capable
     * Minimum Bed Size of 200 mm x 200 mm
-    * **3D Printer used to make original version: Prusa MK4S & Bambu X1 Carbon**
+    * **3D Printers used to make original version: Prusa MK4S / Bambu X1 Carbon / Prusa Core One**
 
 Handheld Tools
 --------------
-* Metric Hex Key Set
-* Metric Allen Wrench Set
-* Adjustable Wrench
+* Metric Hex Key Set/Allen Wrench Set
+* Metric Measuring Tape
+* Super Glue
 * Soldering Iron
-* Crimping Pliers
-* Wire Strippers
-* 3/16'' Allen/Hex Key
+* Calipers
+* Tape
+* Small Phillips Driver (+1.5)
+* Wire Cutter
+* Needle Nose Pliers
+* 

@@ -64,7 +64,6 @@ Step-by-Step Instructions
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 **NOTE: Unless otherwised mentioned, all fasteners will be "hand tight". Ensure that heat set inserts have ~2 minutes to cool post installation.**
 
-   |
 
 #. Take the **QTY (1) Bottom Plate 2** and flip it so that it is laying on the top. Take **QTY (4) M3x4x5mm Heat Set Insert** and, using a soldering iron, place them into the following locations on the Bottom Plate 2. Ensure that the top of the heat set inserts are flush with the surfaces.
 
@@ -173,7 +172,6 @@ Step-by-Step Instructions
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 **NOTE: Unless otherwised mentioned, all fasteners will be "hand tight". Ensure that heat set inserts have ~2 minutes to cool post installation.**
 
-   |
 
 #. Take **QTY (2) M3x4x5mm Heat Set Insert** and, using a soldering iron, place them into the following locations on the **QTY (1) Top Plate** (in the '2' area). Ensure that the top of the heat set inserts are flush with the surfaces.
 
@@ -258,8 +256,6 @@ Required Tools:
 Step-by-Step Instructions
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 **NOTE: Unless otherwised mentioned, all fasteners will be "hand tight".**
-
-   |
 
 #. Take **QTY (4) M3x6x5mm Heat Set Insert** and, using a soldering iron, place them into the following locations on the **QTY (1) LCD Base** from the front. Ensure that the top of the heat set inserts are flush with the surfaces.
 
@@ -367,8 +363,6 @@ Step-by-Step Instructions
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 **NOTE: Unless otherwised mentioned, all fasteners will be "hand tight".**
 
-   |
-
 #. Place the flat end of the **QTY (1) 19V Buck Converter** against the non-counterbored side of the **QTY (1) 19V Converter Mount** with the wires going to the left. Fasten these together using **QTY (2) M3x10 Button Head Screw**, **QTY (2) M3 Washer**, and **QTY (2) M3 Hex Nut** from the opposite end. Ensure the fastener comes from the 3D printed side and the washer is under the head of the fastener (the fastener and washer should be in the counterbore).
 
    .. image:: ../static/Step_by_Step/Electronics_Subassemblies/19V_Converter_Assembly/19v-1a.jpg
@@ -443,8 +437,6 @@ Required Tools:
 Step-by-Step Instructions
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 **NOTE: Unless otherwised mentioned, all fasteners will be "hand tight". Ensure that heat set inserts have ~2 minutes to cool post installation.**
-
-   |
 
 #. Align **QTY (2) RP5 Door Hinge** with each other by placing the circular ends in between each other. Each hinge should be flipped relative to the other hinge. Ensure it is in the following orientation:
 
@@ -592,7 +584,6 @@ Step-by-Step Instructions
 **NOTE 2: The flat side of the camera mount is the "back" (without the counterbores).**
 
 **NOTE 3: The Wiring Section will install the ribbon cable that connects the camera to the adapter.**
-
 
 #. Install **QTY (4) M2x6 Standoff** to the bottom of the **QTY (1) Raspberry Pi Camera** using **QTY (4) M2x6 Button Head Screw**. The screw should go from the camera to the standoff.
 

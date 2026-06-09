@@ -10,19 +10,24 @@ OpenCAL: A Comprehensive Guide
 -------------------------------
 **What is CAL?**
 
-Computed Axial Lithography (CAL) is a recent advancement in volumetric additive manufacturing (VAM) that 
-delivers a light dose to a photopolymer volume through tomographic reconstruction. The precursor liquid or gel 
-itself generally supports the emerging object, eliminating the need for wasteful dedicated solid supporting structures. 
-A challenge, however, is that desired geometry can shrink or expand during solidification and on Earth, if the 
-precursor material’s viscosity is low enough. These effects may result in sinking or floating of the component, 
-which can blur the geometry.
+Computed Axial Lithography (CAL) is a ground-breaking 3D printing technology that produces parts 
+volumetrically in a single step, rather than using a repeated layering process like in traditional 
+additive manufacturing (AM). This layerless technique offers numerous advantages over traditional 
+AM methods, such as faster print times of complex geometries without the need for supports. In its most basic form, 
+CAL consists of a rotating vial of photopolymerizable resin and a light source that displays a projected video. 
+As the vial rotates, the resin is selectively cured to form a part. Despite its advantages, CAL has remained largely 
+confined to research laboratories due to complex optical setups, high equipment costs, and limited access to materials, 
+limiting its potential applications in education, hobbyist manufacturing, and makerspaces.
 
-In principle, CAL is promising for in-space manufacturing because, unlike layer-based processes, CAL does not require a 
-flat liquid–gas interface to be maintained during printing. With suitable development, CAL is potentially 
-capable of manufacturing parts such as organic tissue, flexible seals, rigid trusses, and microstructures for space exploration, 
-as well as repairing existing tools and parts. ‘SpaceCAL’ flew on a microgravity parabolic flight in May 2022 to 
-demonstrate the capabilities of CAL and analyse a CAL system in a microgravity. Initial findings show that 0.12 Pa·s 
-low viscosity precursor can be printed in microgravity with less geometric distortion than an Earth-based gravity counterpart.
+Historically, open-source hardware (OSH) has played a transformative role in broadening access to AM. 
+For CAL to reach the same level of democratized innovation seen in traditional 3D printing, it needs to overcome 
+barriers to manufacturability, accessibility, and usability. OpenCAL, the world’s first open-source, 
+layerless 3D printer, developed at UC Berkeley by Waddell et al. in 2025, aimed to do just that. 
+This second iteration builds upon that foundation by redesigning its hardware, electronics, software, 
+and post-processing systems using principles of design for manufacturing and assembly (DFMA). 
+Through accessible documentation and an online community, several pilot studies are underway to build OpenCAL, 
+accelerating innovation in CAL technologies. Future work will involve a public release and continued refinement 
+based on feedback from these pilots. 
 
 **NOTES:**
 
