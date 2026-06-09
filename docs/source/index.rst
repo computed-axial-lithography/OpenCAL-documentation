@@ -63,11 +63,10 @@ is conducted.
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: Software 
+   :caption: Software
 
-   software/github 
-   software/stl_conversion
-   software/data_generation
+   software/github
+   software/vamtoolbox
 
 .. toctree::
    :maxdepth: 2
