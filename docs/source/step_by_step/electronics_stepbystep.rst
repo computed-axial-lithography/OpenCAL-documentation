@@ -124,11 +124,13 @@ Step-by-Step Instructions
 
    |
 
-#. The Bottom Plate is now complete.
+#. The Bottom Plate is now complete. Note: In an updated version of the bottom plate, clamps can be added to hold down the 24V Adapter using M3 heat sets and screws.
 
    .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Bottom_Plate/bottomplate-9.jpg
        :align: center
 
+   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Bottom_Plate/bottomplate-10.jpg
+       :align: center
 
 ----
 
@@ -152,7 +154,7 @@ Required Materials:
 * (QTY 1) Back Top Plate 
 * (QTY 4) M2x10 Standoffs
 * (QTY 8) M2x6 Button Head Screws
-* (QTY 1) Stepper Motor Circuit / Perfboard Assembly
+* (QTY 1) Tic T249
 * (QTY 1) 12V Buck Converter
 * (QTY 2) M3x4x5 Heat Insert
 * (QTY 2) M3x6 Button Head Screw
@@ -180,14 +182,14 @@ Step-by-Step Instructions
 
    |
 
-#. Attach the Perfboard Assembly from the Wiring Page with the **QTY (1) Stepper Motor Circuit** onto **QTY (4) M2x10 Standoffs** using **QTY (4) M2x6 Button Head Screws** from the top (screws should be going from Perfboard Assembly to standoffs).
+#. Attach the **QTY (1) Tic T249** onto **QTY (2) M2x10 Standoffs** using **QTY (2) M2x6 Button Head Screws** from the top (screws should be going from Perfboard Assembly to standoffs).
 
    .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Top_Plate/topplate-2.jpg
        :align: center
 
    |
 
-#. Take the assembly from Step 2 and install it in section '1', using **QTY (4) M2x6 Button Head Screw** from the opposite end of the Top Plate. Ensure that it is orientated where the motor circuit is closer to the right side of the '1' on the 3D print.
+#. Take the assembly from Step 2 and install it in section '1', using **QTY (2) M2x6 Button Head Screw** from the opposite end of the Top Plate. Ensure that it is orientated where the motor circuit is closer to the right side of the '1' on the 3D print.
 
    .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Top_Plate/topplate-3.jpg
        :align: center
@@ -320,9 +322,12 @@ Step-by-Step Instructions
 
    |
 
-#. The LCD Enclosure is now complete.
+#. The LCD Enclosure is now complete. Note: in a new version of the LCD top, press fit covers can be removed for access to the screws connected to the extrusion frame.
 
    .. image:: ../static/Step_by_Step/Electronics_Subassemblies/LCD_Housing/LCD-8.jpg
+       :align: center
+       
+   .. image:: ../static/Step_by_Step/Electronics_Subassemblies/LCD_Housing/LCD-9.jpg
        :align: center
 
 ----
@@ -420,7 +425,7 @@ Required Materials:
 * (QTY 12) M3 Hex Nut
 * (QTY 4)  M5x10 Button Head Screw
 * (QTY 4)  M5 Hammer TNut
-* (QTY 1)  M3x4x5 Heat Set Insert
+* (QTY 2)  M3x4x5mm Heat Set Insert
 
 .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Raspberry_Pi_Housing/rp5-materials.jpg
     :align: center

@@ -1,6 +1,8 @@
 BOM
 ===
 
+The total cost to build an OpenCAL printer is approximately **$1,680** (as of 6/2026).
+
 Click the following link to view the Bill of Materials (BOM):
 
 .. raw:: html
@@ -16,6 +18,17 @@ Click the following link to view the Bill of Materials (BOM):
 - The second tab is for the used inventory. This is the actual cost of the printer.
 
 - The third tab is the analysis, allowing you to see the breakdowns of the printer by category.
+
+**SOURCING TIPS:**
+
+- Many of these items can be found cheaper elsewhere, sourced locally, or reused from parts you
+  already have in your workshop. The listed prices are a guide, not a requirement, so shop around
+  before buying.
+
+- For the Amazon links specifically: these sellers frequently go out of stock or have long shipping
+  times. Many other sellers on Amazon offer the exact same item, so if a link looks unavailable or
+  unreasonably priced, look around for an alternative. If you find a better link, feel free to share
+  it in the Discord so others can benefit.
 
 ..
     Frame
