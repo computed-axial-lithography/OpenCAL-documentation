@@ -6,12 +6,14 @@ The optics consists of the following subassembly
 
 * Collimating Lens Mounts
 
+.. contents:: On this page
+   :local:
+   :depth: 1
+
 ----
 
 Collimating Lens Mounts
 =======================
-
-----
 
 .. image:: ../static/Step_by_Step/Optics_Subassemblies/Collimating_Lens/col_lens_mount_1_CAD.png
      :align: center
@@ -62,8 +64,6 @@ Step-by-Step Instructions
 Projector Mount Support
 =======================
 
-----
-
 .. image:: ../static/Step_by_Step/Optics_Subassemblies/Projector_Support/proj_support_CAD.jpg
 
 |
@@ -94,23 +94,23 @@ Step-by-Step Instructions
 
 #. Slide **QTY (1) Projector Support Mount** over the extrusion on **QTY (1) Projector Support Base**. Through the slot on the Projector Support Mount, install **QTY (2) M3x12 Button Head Screw** & **QTY (2) M3 Washer** on BOTH sides. The mount can be slid at an arbitrary point for now.
 
-.. image:: ../static/Step_by_Step/Optics_Subassemblies/Projector_Support/proj_support_1a.jpg
+   .. image:: ../static/Step_by_Step/Optics_Subassemblies/Projector_Support/proj_support_1a.jpg
+      :align: center
 
-|
+   .. image:: ../static/Step_by_Step/Optics_Subassemblies/Projector_Support/proj_support_1b.jpg
+      :align: center
 
-.. image:: ../static/Step_by_Step/Optics_Subassemblies/Projector_Support/proj_support_1b.jpg
+   |
 
-|
+#. Loosely install **QTY (2) M5x8 Button Head Screw** with **QTY (2) M5 Hammer TNut** in the location below.
 
-#. Loose insttall **QTY (2) M5x8 Button Head Screw** with **QTY (2) M5 Hammer TNut** in the location below.
+   .. image:: ../static/Step_by_Step/Optics_Subassemblies/Projector_Support/proj_support_2a.jpg
+      :align: center
 
-.. image:: ../static/Step_by_Step/Optics_Subassemblies/Projector_Support/proj_support_2a.jpg
+   .. image:: ../static/Step_by_Step/Optics_Subassemblies/Projector_Support/proj_support_2b.jpg
+      :align: center
 
-|
-
-.. image:: ../static/Step_by_Step/Optics_Subassemblies/Projector_Support/proj_support_2b.jpg
-
-|
+   |
 
 #. The Projector Support Subassembly is now complete.
 
@@ -124,8 +124,6 @@ Step-by-Step Instructions
 
 Projector Mount
 ================
-
-----
 
 **NOTE: These instructions are for the NexiGo Nova Mini Laser Projector.** 
 
@@ -165,7 +163,7 @@ Required Tools:
 
 Step-by-Step Instructions
 ^^^^^^^^^^^^^^^^^^^^^^^^^
-**NOTE: Unless otherwised mentioned, all fasteners will be "hand tight". The "front" of the projector stand is the flat side. To press in the Steel Rods, it is recommended to use Needle Nose Pliers. Always ensure the rods are flush with the 3D print.**
+**NOTE: Unless otherwise mentioned, all fasteners will be "hand tight". The "front" of the projector stand is the flat side. To press in the Steel Rods, it is recommended to use Needle Nose Pliers. Always ensure the rods are flush with the 3D print.**
 
 
 #. Screw on **QTY (2) M3 Hex Nut** on **QTY (1) M3x40 Socket Head Screw** and then place **QTY (1) M3 Washer** over.
@@ -182,7 +180,7 @@ Step-by-Step Instructions
 
    |
 
-#. Lay the **QTY (1) Projector Stand** on the flat side. Presss in **QTY (2) M3x40mm Stainless Steel Rod** into the bottom center locations (see image below).
+#. Lay the **QTY (1) Projector Stand** on the flat side. Press in **QTY (2) M3x40mm Stainless Steel Rod** into the bottom center locations (see image below).
 
 
    .. image:: ../static/Step_by_Step/Optics_Subassemblies/Projector_Mount/projector-3.jpg

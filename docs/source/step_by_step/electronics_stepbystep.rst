@@ -18,12 +18,14 @@ The electronics consists of the following subassemblies:
 
 **NOTE:** This is ONLY for electronic mounting. Wiring will occur in another page.
 
+.. contents:: On this page
+   :local:
+   :depth: 1
+
 ----
 
 Bottom Plate
 ============
-
-----
 
 .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Bottom_Plate/bottom_plate_1_CAD.png
      :align: center
@@ -62,7 +64,7 @@ Required Tools:
 
 Step-by-Step Instructions
 ^^^^^^^^^^^^^^^^^^^^^^^^^
-**NOTE: Unless otherwised mentioned, all fasteners will be "hand tight". Ensure that heat set inserts have ~2 minutes to cool post installation.**
+**NOTE: Unless otherwise mentioned, all fasteners will be "hand tight". Ensure that heat set inserts have ~2 minutes to cool post installation.**
 
    |
 
@@ -138,8 +140,6 @@ Step-by-Step Instructions
 Top Plate
 ================
 
-----
-
 .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Top_Plate/top_plate_1_CAD.png
      :align: center
 
@@ -173,7 +173,7 @@ Required Tools:
 
 Step-by-Step Instructions
 ^^^^^^^^^^^^^^^^^^^^^^^^^
-**NOTE: Unless otherwised mentioned, all fasteners will be "hand tight". Ensure that heat set inserts have ~2 minutes to cool post installation.**
+**NOTE: Unless otherwise mentioned, all fasteners will be "hand tight". Ensure that heat set inserts have ~2 minutes to cool post installation.**
 
    |
 
@@ -221,8 +221,6 @@ Step-by-Step Instructions
 LCD Housing
 ===========
 
-----
-
 .. image:: ../static/Step_by_Step/Electronics_Subassemblies/LCD_Housing/LCD_1_CAD.png
      :align: center
 
@@ -259,7 +257,7 @@ Required Tools:
 
 Step-by-Step Instructions
 ^^^^^^^^^^^^^^^^^^^^^^^^^
-**NOTE: Unless otherwised mentioned, all fasteners will be "hand tight".**
+**NOTE: Unless otherwise mentioned, all fasteners will be "hand tight".**
 
    |
 
@@ -287,7 +285,7 @@ Step-by-Step Instructions
 
    |
 
-#. Install the **QTY (1) LCD Screen** by aligning its holes with the small extruded pillars on the **QTY (1) LCD Base** and pressing down. Ensure the LCD screen is on the left position. Ensure the PCB of the LCD comes out the backp.
+#. Install the **QTY (1) LCD Screen** by aligning its holes with the small extruded pillars on the **QTY (1) LCD Base** and pressing down. Ensure the LCD screen is on the left position. Ensure the PCB of the LCD comes out the back.
 
 
    .. image:: ../static/Step_by_Step/Electronics_Subassemblies/LCD_Housing/LCD-4a.jpg
@@ -339,8 +337,6 @@ Step-by-Step Instructions
 19V Converter Assembly
 ======================
 
-----
-
 .. image:: ../static/Step_by_Step/Electronics_Subassemblies/19V_Converter_Assembly/19v_mount_1_CAD.png
      :align: center
 
@@ -370,7 +366,7 @@ Required Tools:
 
 Step-by-Step Instructions
 ^^^^^^^^^^^^^^^^^^^^^^^^^
-**NOTE: Unless otherwised mentioned, all fasteners will be "hand tight".**
+**NOTE: Unless otherwise mentioned, all fasteners will be "hand tight".**
 
    |
 
@@ -398,8 +394,6 @@ Step-by-Step Instructions
 
 Raspberry Pi Housing
 ====================
-
-----
 
 .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Raspberry_Pi_Housing/rp5_1_CAD.png
      :align: center
@@ -447,7 +441,7 @@ Required Tools:
 
 Step-by-Step Instructions
 ^^^^^^^^^^^^^^^^^^^^^^^^^
-**NOTE: Unless otherwised mentioned, all fasteners will be "hand tight". Ensure that heat set inserts have ~2 minutes to cool post installation.**
+**NOTE: Unless otherwise mentioned, all fasteners will be "hand tight". Ensure that heat set inserts have ~2 minutes to cool post installation.**
 
    |
 
@@ -506,7 +500,7 @@ Step-by-Step Instructions
 
    |
 
-#. Attach the assembly from Step 7 in the section '2' using **QTY (4) M2x6 Button Head Screw** from the opposite end of the 3D print, ensuring the port comes out on the right whiling looking from the door (see image below).
+#. Attach the assembly from Step 7 in the section '2' using **QTY (4) M2x6 Button Head Screw** from the opposite end of the 3D print, ensuring the port comes out on the right while looking from the door (see image below).
 
    .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Raspberry_Pi_Housing/rp5-8.jpg
        :align: center
@@ -561,8 +555,6 @@ Step-by-Step Instructions
 Camera Mount
 ================
 
-----
-
 .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Camera_Mount/camera_1_CAD.png
      :align: center
 
@@ -592,14 +584,14 @@ Required Tools:
 
 Step-by-Step Instructions
 ^^^^^^^^^^^^^^^^^^^^^^^^^
-**NOTE 1: Unless otherwised mentioned, all fasteners will be "hand tight".**
+**NOTE 1: Unless otherwise mentioned, all fasteners will be "hand tight".**
 
 **NOTE 2: The flat side of the camera mount is the "back" (without the counterbores).**
 
 **NOTE 3: The Wiring Section will install the ribbon cable that connects the camera to the adapter.**
 
 
-#. Install **QTY (4) M2x6 Standoff** to the bottom of the **QTY (1) Raspberry Pi Camera** using **QTY (4) M2x6 Button Head Screw**. The screw should go from the camera to the standoff.
+#. Install **QTY (4) M2x10 Standoff** to the bottom of the **QTY (1) Raspberry Pi Camera** using **QTY (4) M2x6 Button Head Screw**. The screw should go from the camera to the standoff.
 
     .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Camera_Mount/camera-1.jpg
         :align: center
@@ -642,8 +634,6 @@ Step-by-Step Instructions
 Switch
 ====================
 
-----
-
 .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Switch/switch_CAD.png
      :align: center
 
@@ -667,7 +657,7 @@ Required Tools:
 
 Step-by-Step Instructions
 ^^^^^^^^^^^^^^^^^^^^^^^^^
-**NOTE: Unless otherwised mentioned, all fasteners will be "hand tight". The Side Projector Panel subassembly needs to be completed prior to this.**
+**NOTE: Unless otherwise mentioned, all fasteners will be "hand tight". The Side Projector Panel subassembly needs to be completed prior to this.**
 
 #. Place the **QTY (1) Switch** from the front of the **QTY (1) Side Projector Panel subassembly** in the position below. Ensure the switch is on the left and plug is on the right. Install using **QTY (2) M3x10 Button Head Screw** and **QTY (2) M3 Hex Nut** from the opposite side.
 

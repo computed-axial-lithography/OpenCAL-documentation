@@ -14,12 +14,14 @@ The rotational element consists of the following subassemblies:
 
 * Back Top Plate
 
+.. contents:: On this page
+   :local:
+   :depth: 1
+
 ----
 
 Rotation Stage
 ================
-
-----
 
 .. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Rotation_Stage/rotational_element_1_CAD.png
      :align: center 
@@ -105,8 +107,6 @@ Step-by-Step Instructions:
 Large Vial
 ================
 
-----
-
 .. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Large_Vial/large_vial_1_CAD.png
      :align: center 
 
@@ -146,8 +146,6 @@ Step-by-Step Instructions:
 
 Small Vial
 ================
-
-----
 
 .. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Small_Vial/small_vial_1_CAD.png
      :align: center 
@@ -191,8 +189,6 @@ Step-by-Step Instructions:
 Front & Back Base Plates
 ========================
 
-----
-
 .. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Front_Back_Base_Plates/bottom_back_plate_CAD.png
      :align: center 
 
@@ -205,7 +201,7 @@ Required Materials:
 ^^^^^^^^^^^^^^^^^^^
 * (QTY 1) Front Base Plate
 * (QTY 1) Back Base Plate
-* (QTY 4) M5x10 Button Head Screw
+* (QTY 4) M5x8 Button Head Screw
 * (QTY 4) M5 Hammer TNut
 
 .. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Front_Back_Base_Plates/front-back-materials.JPG
@@ -235,8 +231,6 @@ Step-by-Step Instructions:
 Front Top Plate
 ================
 
-----
-
 .. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Front_Top_Plate_Stepper_Mounting/stepper_mount_CAD.png
      :align: center 
 
@@ -254,7 +248,7 @@ Required Materials:
 * (QTY 1) Hex Shaft
 * (QTY 12) 10x3mm Circular Magnet (Pre-installed below)
 * (QTY 6) M3x6mm Button Head Screw
-* (QTY 4) M3x8mm Button Head Screw
+* (QTY 4) M3x15mm Button Head Screw
 * (QTY 6) M3x4x5mm Heat Set Insert
 * (QTY 6) M5x10mm Button Head Screw
 * (QTY 6) M5 Hammer TNut
@@ -271,7 +265,7 @@ Required Tools:
 
 Step-by-Step Instructions:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
-**NOTE: Unless otherwised mentioned, all fasteners will be "hand tight". Ensure that heat set inserts have ~2 minutes to cool post installation.**
+**NOTE: Unless otherwise mentioned, all fasteners will be "hand tight". Ensure that heat set inserts have ~2 minutes to cool post installation.**
 
 1. Take **QTY (4) M3x4x5mm Heat Set Insert** and, using a soldering iron, place them into the following locations on the **QTY (1) Front Top Plate**. Ensure that the top of the heat set inserts are flush with the surfaces. 
 

@@ -27,12 +27,14 @@ The frame consists of the following subassemblies:
 
 **NOTE:** The Aluminum Extrusion Frame is the most critical subassembly. This is the very first thing that should be built for OpenCAL. The other subassemblies can be created and installed at any point.
 
+.. contents:: On this page
+   :local:
+   :depth: 1
+
 ----
 
 Aluminum Extrusion Frame
 ========================
-
-----
 
 .. image:: ../static/Frame/Frame.png
    :align: center
@@ -122,7 +124,7 @@ Step-by-Step Instructions:
 
    |
 
-#. Repeat Steps 7-8 five more times (should have a total of **2** of this assembly).
+#. Repeat Steps 7-8 one more time (should have a total of **2** of this assembly).
 
    .. image:: ../static/Step_by_Step/Frame_Subassemblies/Aluminum_Extrusion_Frame/Frame-9.jpg
        :align: center
@@ -143,7 +145,7 @@ Step-by-Step Instructions:
 
    |
 
-#. Take QTY (1) of the assemblies from **Step 4** and slide it inbetween **QTY (2) 65 cm Aluminum Extrusion** to the very end in the following configuration. Tighten the **QTY (2) M5x8 Button Head Screw** that connects to the 65 cm rail.
+#. Take QTY (1) of the assemblies from **Step 4** and slide it in between **QTY (2) 65 cm Aluminum Extrusion** to the very end in the following configuration. Tighten the **QTY (2) M5x8 Button Head Screw** that connects to the 65 cm rail.
 
    .. image:: ../static/Step_by_Step/Frame_Subassemblies/Aluminum_Extrusion_Frame/Frame-12.jpg
        :align: center
@@ -164,7 +166,7 @@ Step-by-Step Instructions:
 
    |
 
-#. Take QTY (1) of the assemblies from **Step 4**, FLIP IT, and slide it inbetween **QTY (2) 65 cm Aluminum Extrusion** to the opposite end in the following configuration. Keep this loose for the next step.
+#. Take QTY (1) of the assemblies from **Step 4**, FLIP IT, and slide it in between **QTY (2) 65 cm Aluminum Extrusion** to the opposite end in the following configuration. Keep this loose for the next step.
 
    .. image:: ../static/Step_by_Step/Frame_Subassemblies/Aluminum_Extrusion_Frame/frame-15.jpg
        :align: center
@@ -276,8 +278,6 @@ Step-by-Step Instructions:
 LCD Panel
 =========
 
-----
-
 .. image:: ../static/Step_by_Step/Frame_Subassemblies/LCD_Panel/lcd_panel_CAD.png
    :align: center
 
@@ -313,7 +313,7 @@ Step-by-Step Instructions:
 **NOTE 2: The Magnet Holders had already been glued on to the panel prior to instruction writing. Images will reflect this.**
 
 
-#. Lay a **QTY (1) Magnet Holders** on the flat end. Add a drop of super glue into the center box. Carefully place **QTY (1) 12x5x2mm Rare Earth Magnet Bar** in the center box. Wait ~ 2 mintues for cure.
+#. Lay a **QTY (1) Magnet Holders** on the flat end. Add a drop of super glue into the center box. Carefully place **QTY (1) 12x5x2mm Rare Earth Magnet Bar** in the center box. Wait ~ 2 minutes for cure.
 
    .. image:: ../static/Step_by_Step/Frame_Subassemblies/LCD_Panel/LCD-1.JPG
        :align: center
@@ -386,8 +386,6 @@ Step-by-Step Instructions:
 Back Projector Panel
 ====================
 
-----
-
 .. image:: ../static/Step_by_Step/Frame_Subassemblies/Back_Projector_Panel/back_projector_panel_CAD.png
    :align: center
 
@@ -432,8 +430,6 @@ Step-by-Step Instructions:
 Side Projector Panel
 ====================
 
-----
-
 .. image:: ../static/Step_by_Step/Frame_Subassemblies/Side_Projector_Panel/side_projector_panel_CAD.png
      :align: center
 
@@ -467,7 +463,7 @@ Step-by-Step Instructions:
 **NOTE 2: The Magnet Holders had already been glued on to the panel prior to instruction writing. Images will reflect this.**
 
 
-#. Lay a **QTY (1) Magnet Holder** on the flat end. Add a drop of super glue into the center box. Carefully place **QTY (1) 12x5x2mm Rare Earth Magnet Bar** in the center box. Wait ~ 2 mintues for cure.
+#. Lay a **QTY (1) Magnet Holder** on the flat end. Add a drop of super glue into the center box. Carefully place **QTY (1) 12x5x2mm Rare Earth Magnet Bar** in the center box. Wait ~ 2 minutes for cure.
 
    .. image:: ../static/Step_by_Step/Frame_Subassemblies/LCD_Panel/LCD-1.JPG
        :align: center
@@ -540,8 +536,6 @@ Step-by-Step Instructions:
 Top Projector Panel
 ===================
 
-----
-
 .. image:: ../static/Step_by_Step/Frame_Subassemblies/Top_Projector_Panel/top_projector_panel_CAD.png
      :align: center
 
@@ -580,7 +574,7 @@ Step-by-Step Instructions:
 **NOTE: Ensure all magnets are the correct polarity. Do this by keeping the magnets together and only taking a magnet out one by one and placing them in the same orientation (same side down). If the polarities get flipped, you may need to repeat some steps.**
 
 
-#. Lay a **QTY (1) Magnet Holders** on the flat end. Add a drop of super glue into the center box. Carefully place **QTY (1) 12x5x2mm Rare Earth Magnet Bar** in the center box. Wait ~ 2 mintues for cure.
+#. Lay a **QTY (1) Magnet Holders** on the flat end. Add a drop of super glue into the center box. Carefully place **QTY (1) 12x5x2mm Rare Earth Magnet Bar** in the center box. Wait ~ 2 minutes for cure.
 
    .. image:: ../static/Step_by_Step/Frame_Subassemblies/LCD_Panel/LCD-1.JPG
        :align: center
@@ -657,8 +651,6 @@ Step-by-Step Instructions:
 Door
 =========
 
-----
-
 .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/door_panel_CAD.png
      :align: center
 
@@ -729,7 +721,7 @@ Step-by-Step Instructions:
 
    |
 
-#. Align the holes of the **QTY (2) Long Hinge** part of the assembly with the corresponding holes in the FRONT of the **QTY (1) Door panel**. Install using **QTY (4) M3x10 Button Head Screw** and **QTY (4) M5 Hex Nut/TNut**. The front of the panel is designated as the side with the hinge holes on the left and handle hole on the right. **Ensure that the hinge pin is on the top of the hinge assembly and not the bottom.**
+#. Align the holes of the **QTY (2) Long Hinge** part of the assembly with the corresponding holes in the FRONT of the **QTY (1) Door panel**. Install using **QTY (4) M5x10 Button Head Screw** and **QTY (4) M5 Hex Nut/TNut**. The front of the panel is designated as the side with the hinge holes on the left and handle hole on the right. **Ensure that the hinge pin is on the top of the hinge assembly and not the bottom.**
 
    .. image:: ../static/Step_by_Step/Frame_Subassemblies/Door/door-5a.jpg
        :align: center
@@ -756,7 +748,7 @@ Step-by-Step Instructions:
 
    |
 
-#. Lay a **QTY (1) Magnet Holders** on the flat end. Add a drop of super glue into the center box. Carefully place **QTY (1) 12x5x2mm Rare Earth Magnet Bar** in the center box. Wait ~ 2 mintues for cure.
+#. Lay a **QTY (1) Magnet Holders** on the flat end. Add a drop of super glue into the center box. Carefully place **QTY (1) 12x5x2mm Rare Earth Magnet Bar** in the center box. Wait ~ 2 minutes for cure.
 
    .. image:: ../static/Step_by_Step/Frame_Subassemblies/LCD_Panel/LCD-1.JPG
        :align: center
@@ -809,8 +801,6 @@ Step-by-Step Instructions:
 Top Vial Panel
 ==============
 
-----
-
 .. image:: ../static/Step_by_Step/Frame_Subassemblies/Top_Vial_Panel/top_vial_panel_CAD.png
      :align: center
 
@@ -845,7 +835,7 @@ Step-by-Step Instructions:
     
    |
 
-#. Glue on **QTY (1) Motor Wire Guard** in the small hole on the **Top Projector Panel**.
+#. Glue on **QTY (1) Motor Wire Guard** in the small hole on the **Top Vial Panel**.
 
     .. image:: ../static/WIP.png
         :align: center 
@@ -861,8 +851,6 @@ Step-by-Step Instructions:
 
 Back Vial Panel
 ===============
-
-----
 
 .. image:: ../static/Step_by_Step/Frame_Subassemblies/Back_Vial_Panel/back_vial_panel_CAD.png
      :align: center
@@ -890,7 +878,7 @@ Step-by-Step Instructions:
 **NOTE 1: Ensure all Hammer TNuts are in the correct orientation (wide end on bottom).**
 
 
-#. Place **QTY (7) M5x8 Button Head Screw** through each of the holes on the **QTY (1) Back Vial Panel** from the front (face with logo). Loosely install **QTY (7) M5 Hammer TNut** on the opposite ends.
+#. Place **QTY (4) M5x8 Button Head Screw** through each of the holes on the **QTY (1) Back Vial Panel** from the front (face with logo). Loosely install **QTY (4) M5 Hammer TNut** on the opposite ends.
 
    .. image:: ../static/Step_by_Step/Frame_Subassemblies/Back_Vial_Panel/back-vial-2.jpg
       :align: center
@@ -908,8 +896,6 @@ Step-by-Step Instructions:
 Side Vial Panel
 ===============
 
-----
-
 .. image:: ../static/Step_by_Step/Frame_Subassemblies/Side_Vial_Panel/side_vial_panel_CAD.png
      :align: center
 
@@ -917,7 +903,7 @@ Side Vial Panel
 
 Required Materials:
 ^^^^^^^^^^^^^^^^^^^
-* (QTY 1) Back Vial Panel
+* (QTY 1) Side Vial Panel
 * (QTY 4) M5x8 Button Head Screws
 * (QTY 4) M5 Hammer TNut
 
@@ -951,8 +937,6 @@ Step-by-Step Instructions:
 
 Bottom Panels
 ==============
-
-----
 
 .. image:: ../static/Step_by_Step/Frame_Subassemblies/Bottom_Panels/left_bottom_panel_CAD.png
      :align: center
@@ -999,8 +983,6 @@ Step-by-Step Instructions:
 
 Magnet Frame Inserts
 ====================
-
-----
 
 .. image:: ../static/Step_by_Step/Frame_Subassemblies/Magnet_Frame_Inserts/magnet_frame_insert_CAD.png
      :align: center
