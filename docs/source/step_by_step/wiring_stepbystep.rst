@@ -149,6 +149,9 @@ Top Plate Housing Connections
    .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/top_plate_step1_vis2.png
       :align: center
 
+   .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/top_plate_step1_vis3.png
+      :align: center
+
    |
 
 #. Run a Micro-USB to USB-A cable from the Tic T249 to the RP5 using the designated cutout. Plug the cable into the RP5 using a U-shaped adapter.
@@ -161,10 +164,13 @@ Top Plate Housing Connections
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/top_plate_step2_cad_diagram.png
       :align: center
+   
+   .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/top_plate_step2_vis3.png
+      :align: center
       
    |
 
-#. Connect wires from a 2 pin JST plug to fork connectors for the 12V Converter output screw terminals. Ensure Output + and Output - on the 12V Converter correspond to VS and GND on the stepper driver perf board. Use a set of 2 pin Dupont connectors in-between for easy fan removal. Run the wires through the corresponding opening in the Top Plate Housing and through the side of the RP5 housing. Use cable clips to secure wire to the 80-20.
+#. Connect wires from a 2 pin JST plug to fork connectors for the 12V Converter output screw terminals. Use a set of 2 pin Dupont connectors in-between for easy fan removal. Run the wires through the corresponding opening in the Top Plate Housing and through the side of the RP5 housing. Use cable clips to secure wire to the 80-20.
    
    .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/top_plate_step3_vis1.png
       :align: center
@@ -173,6 +179,9 @@ Top Plate Housing Connections
       :align: center
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/table_top_plate_step3.png
+      :align: center
+
+   .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/top_plate_step3_vis3.png
       :align: center
 
 
