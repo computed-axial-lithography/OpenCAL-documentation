@@ -30,7 +30,7 @@ Required Materials:
 
 Required Tools:
 ^^^^^^^^^^^^^^^
-No Tools Required
+No Tools Required.
 
 Step-by-Step Instructions
 ^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -86,8 +86,8 @@ Required Materials:
 
 Required Tools:
 ^^^^^^^^^^^^^^^
-M2 Allen/Hex Key
-Soldering Iron
+* M2 Allen/Hex Key
+* Soldering Iron
 
 Step-by-Step Instructions
 ^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -96,27 +96,23 @@ Step-by-Step Instructions
 
 .. image:: ../static/Step_by_Step/Optics_Subassemblies/Projector_Support/proj_support_1a.jpg
 
-|
+     |
 
 .. image:: ../static/Step_by_Step/Optics_Subassemblies/Projector_Support/proj_support_1b.jpg
 
-|
+     |
 
 #. Loose insttall **QTY (2) M5x8 Button Head Screw** with **QTY (2) M5 Hammer TNut** in the location below.
 
 .. image:: ../static/Step_by_Step/Optics_Subassemblies/Projector_Support/proj_support_2a.jpg
 
-|
+     |
 
 .. image:: ../static/Step_by_Step/Optics_Subassemblies/Projector_Support/proj_support_2b.jpg
 
-|
+     |
 
 #. The Projector Support Subassembly is now complete.
-
-
-
-
 
 
 
@@ -156,6 +152,8 @@ Required Materials:
 
 .. image:: ../static/Step_by_Step/Optics_Subassemblies/Projector_Mount/projector-materials.jpg
      :align: center 
+
+|
 
 Required Tools:
 ^^^^^^^^^^^^^^^

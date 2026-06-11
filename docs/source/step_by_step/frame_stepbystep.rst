@@ -66,7 +66,6 @@ Step-by-Step Instructions:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 **NOTE: All fasteners will be "hand tight". ENSURE all TNuts are in the correct orientation (screw goes into flanged end). ENSURE all the sides of the 90 deg gussets are flush with their respective aluminum extrusions -- this may need to be done after the rail positions are locked.**
 
-
 #. Layout all of the required materials and tools.
 
    |
@@ -413,7 +412,6 @@ Step-by-Step Instructions:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 **NOTE 1: Ensure all Hammer TNuts are in the correct orientation (wide end on bottom).**
 
-
 #. Place **QTY (7) M5x8 Button Head Screw** through each of the holes on the **QTY (1) Back Projector Panel** from the front (face with logo). Loosely install **QTY (7) M5 Hammer TNut** on the opposite ends.
 
    .. image:: ../static/Step_by_Step/Frame_Subassemblies/Back_Projector_Panel/Back-2.JPG
@@ -578,7 +576,6 @@ Required Tools:
 Step-by-Step Instructions:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 **NOTE: Ensure all magnets are the correct polarity. Do this by keeping the magnets together and only taking a magnet out one by one and placing them in the same orientation (same side down). If the polarities get flipped, you may need to repeat some steps.**
-
 
 #. Lay a **QTY (1) Magnet Holders** on the flat end. Add a drop of super glue into the center box. Carefully place **QTY (1) 12x5x2mm Rare Earth Magnet Bar** in the center box. Wait ~ 2 mintues for cure.
 

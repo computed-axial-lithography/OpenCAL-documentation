@@ -10,19 +10,50 @@ OpenCAL: A Comprehensive Guide
 -------------------------------
 **What is CAL?**
 
-Computed Axial Lithography (CAL) is a recent advancement in volumetric additive manufacturing (VAM) that 
-delivers a light dose to a photopolymer volume through tomographic reconstruction. The precursor liquid or gel 
-itself generally supports the emerging object, eliminating the need for wasteful dedicated solid supporting structures. 
-A challenge, however, is that desired geometry can shrink or expand during solidification and on Earth, if the 
-precursor material’s viscosity is low enough. These effects may result in sinking or floating of the component, 
-which can blur the geometry.
+Computed axial lithography, or CAL, looks different from other forms of 3D printing. A vial of resin rotates
+while a sequence of carefully computed images are projected through the volume. Where enough light accumulates,
+a part forms, all at once, in just minutes. There are no layers and no support structures. Invented by Berkeley
+in 2017, the process has developed a lot over the decade.
 
-In principle, CAL is promising for in-space manufacturing because, unlike layer-based processes, CAL does not require a 
-flat liquid–gas interface to be maintained during printing. With suitable development, CAL is potentially 
-capable of manufacturing parts such as organic tissue, flexible seals, rigid trusses, and microstructures for space exploration, 
-as well as repairing existing tools and parts. ‘SpaceCAL’ flew on a microgravity parabolic flight in May 2022 to 
-demonstrate the capabilities of CAL and analyse a CAL system in a microgravity. Initial findings show that 0.12 Pa·s 
-low viscosity precursor can be printed in microgravity with less geometric distortion than an Earth-based gravity counterpart.
+**How does it work?**
+
+The core idea behind CAL is tomographic reconstruction. It's like a CT scan in reverse. In a CT scan, X-rays are
+used to measure a person's internal structure and then computers reconstruct it volumetrically. In CAL, the process
+starts with a 3D model. From that model, the software computes the projected images needed to reconstruct the part
+in resin. The open-source software that drives this is called VAMToolbox/Tomo. It calculates light dosage so that
+only the regions meant to form the part receive enough light to solidify, while the rest remains liquid. As the
+light passes through the spinning vial, it is effectively delivering dose to the whole part at once (Figure A).
+Because of that, machines like OpenCAL can print much faster than traditional methods, with inch-scale objects
+forming in minutes.
+
+The CAL team have condensed much of our lab setup into a new, accessible open-source platform. OpenCAL is a project
+designed to let the public build, test, and contribute to the volumetric additive manufacturing (VAM) community.
+The project covers machine construction, the software needed to fabricate parts, and resources for obtaining the
+resin. Once you've gathered the components and 3D printed the parts, the machine can be assembled in an afternoon.
+
+.. figure:: static/20260326_OpenCAL_AVL_1187.jpg
+   :align: center
+
+   The OpenCAL V2 setup actively printing.
+
+.. raw:: html
+
+   <br><br>
+
+Join the community to ask questions, share builds, and get help:
+
+.. raw:: html
+
+    <div style="text-align: center; margin: 1.5em 0;">
+        <a href="https://discord.com/invite/patduYdnSN" target="_blank"
+           style="display: inline-flex; align-items: center; gap: 14px;
+                  background-color: #5865F2; color: #ffffff; font-size: 1.4em; font-weight: 700;
+                  text-decoration: none; padding: 18px 36px; border-radius: 10px;
+                  box-shadow: 0 4px 14px rgba(88,101,242,0.4);">
+            <img src="_static/discord_logo.png" alt="" style="height: 1.6em; border-radius: 6px; border: 2px solid #b0b0b0; background: #ffffff; padding: 3px;">
+            Join the OpenCAL Discord
+        </a>
+    </div>
 
 **NOTES:**
 
@@ -33,7 +64,15 @@ is conducted.
 * `OpenCAL on GitHub <https://github.com/computed-axial-lithography/OpenCAL>`__
 * `Join the CAL Discord <https://discord.com/invite/patduYdnSN>`__
 
+.. raw:: html
 
+   <br><br>
+
+
+.. toctree::
+   :hidden:
+
+   Home <self>
 .. toctree::
    :maxdepth: 2
    :hidden:
@@ -49,6 +88,7 @@ is conducted.
    :caption: Materials
 
    materials/overview
+   materials/lab_directions
 
 .. toctree::
    :maxdepth: 2
@@ -59,9 +99,11 @@ is conducted.
    step_by_step/optics_stepbystep
    step_by_step/rotational_element_stepbystep
    step_by_step/electronics_stepbystep
-   step_by_step/centrifucal_stepbystep
    step_by_step/main_assembly
    step_by_step/wiring_stepbystep
+
+.. CentrifuCAL section temporarily removed — re-add the line below to the toctree above to restore it:
+.. step_by_step/centrifucal_stepbystep
 
 .. toctree::
    :maxdepth: 2
@@ -79,6 +121,7 @@ is conducted.
    resources/research_papers
    resources/opencal_in_media
    resources/contributors
+   resources/contact
 
 .. toctree::
    :maxdepth: 2

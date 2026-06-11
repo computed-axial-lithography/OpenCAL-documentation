@@ -1,17 +1,31 @@
 Contributors
 ============
 
+Project Lead
+------------
+.. raw:: html
+
+    <ul>
+       <li><a href="https://www.linkedin.com/in/taylor-waddell/" target="_blank">Taylor Waddell</a>
+    </ul>
+
 Advisors
 --------
 .. raw:: html
 
     <ul>
        <li><a href="https://www.linkedin.com/in/hayden-taylor-2511351/" target="_blank">Professor Hayden Taylor</a>
-       <li><a href="https://www.linkedin.com/in/taylor-waddell/" target="_blank">Taylor Waddell</a>
     </ul>
 
 OpenCAL V1 (2024-2025)
 ----------------------
+
+.. figure:: ../static/team_photo_2.jpg
+   :align: center
+   :width: 700px
+
+   The OpenCAL V1 team.
+
 **Graduates**
 
 .. raw:: html
@@ -39,6 +53,13 @@ OpenCAL V1 (2024-2025)
 
 OpenCAL V2 (2025-2026)
 ----------------------
+
+.. figure:: ../static/team_photo_1.jpg
+   :align: center
+   :width: 700px
+
+   The OpenCAL V2 team.
+
 **Graduates**
 
 .. raw:: html

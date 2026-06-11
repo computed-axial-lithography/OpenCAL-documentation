@@ -2,3 +2,6 @@ docs/build/
 **/generated/
 docs/source/static/Step_by_Step_linked/
 **/.DS_Store
+
+# Scratch / debugging artifacts
+docs/source/_static/*_backup.glb
