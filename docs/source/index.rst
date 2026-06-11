@@ -137,6 +137,7 @@ is conducted.
    resources/opencal_in_media
    resources/contributors
    resources/contact
+   resources/in_progress
 
 .. toctree::
    :maxdepth: 2
