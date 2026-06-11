@@ -49,8 +49,20 @@ A centrifugal spinning approach — **CentrifuCAL** — is being explored to hel
 or floating of the part in low-viscosity resin. It is a **hand-cranked, planetary-gear spinner**
 that holds and rotates the vial.
 
+.. figure:: ../static/centrifucal_setup.jpg
+   :align: center
+   :width: 360px
+
+   An early CentrifuCAL prototype.
+
 The design is **not yet finalized**, so CentrifuCAL is not part of the official build. An early
 prototype and its assembly steps are recorded below for reference and to invite contributions.
+
+.. tip::
+
+   **Off-the-shelf alternative.** If you don't want to build the CentrifuCAL spinner, a manual
+   **salad spinner** can provide a simple, low-cost way to spin the vial — for example,
+   `this salad spinner <https://www.amazon.com/dp/B09KG9Q57N>`__.
 
 .. note::
 
