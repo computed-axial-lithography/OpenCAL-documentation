@@ -142,4 +142,6 @@ is conducted.
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: Miscellaneous
+   :caption: License
+
+   resources/license

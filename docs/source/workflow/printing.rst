@@ -16,6 +16,35 @@ file, loading resin, running the print, and post-processing the finished part.
    * Work in a well-ventilated area and follow the resin's Safety Data Sheet (SDS). See
      :doc:`../materials/overview` for full handling guidance.
 
+Calibration
+-----------
+
+Before your first print (and any time you move the projector or optics), calibrate the machine so
+the projected image is focused, centered on the vial, and sized correctly. Calibration uses the
+tools under **Settings** on the LCD menu (see :doc:`Controls & Operation <../software/controls>`).
+
+#. **Display the calibration image.** The calibration image ships on the Raspberry Pi. Open it from
+   **Settings → Calibration Images** on the LCD menu.
+
+   .. The calibration image goes here. Add it to docs/source/static/Workflow/ and embed it.
+
+#. **Focus and align the projector.** Adjust the projector so the calibration image is sharp and
+   centered on the vial. Use **Settings → Show Alignment** to project the cross-strut alignment
+   image, and adjust the projector's XY stage until the projected cross is centered on the vial
+   axis. Rotate the encoder to shift the image up or down for transverse alignment.
+
+#. **Set the vial width.** Open **Settings → Find Vial Width**, rotate the encoder until the white
+   bar matches your vial's printable diameter, and click to save.
+
+#. **Print a calibration piece.** Print the provided calibration part and check it against the
+   expected geometry. If it is off, repeat the alignment steps above and re-print.
+
+   .. The calibration-piece print files (download link) go here.
+
+.. note::
+
+   Calibration only needs to be repeated when the optics are moved or a different vial is used.
+
 Step 1 — Prepare the Print File
 -------------------------------
 
