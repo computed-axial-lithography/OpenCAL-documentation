@@ -162,7 +162,7 @@ Top Plate Housing Connections
    .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/top_plate_step2_vis1.png
       :align: center
 
-   .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/top_plate_step2_vis1.png
+   .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/top_plate_step2_vis2.jpg
       :align: center
 
    .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/top_plate_step2_cad_diagram.png
