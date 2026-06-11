@@ -69,15 +69,30 @@ Tools
 Parts
 ~~~~~
 
-**3D-printed parts** (print quantity in parentheses):
+**3D-printed parts** (each links to its Onshape model; print quantity in parentheses):
 
-* Lower Base (3 parts), Upper Base (3 parts), Lid (3 parts)
-* Vial Holder, Spinner, Tab
-* Sun Gear, Ring Gear, Planet Gear (×3)
-* Gearbox Crank Top, Gearbox Cover, Gearbox Bottom, Crank Handle
-* Door, Door Handle, Handle (×2), Handle Cap (×4)
-* Hinge Bottom, Hinge Top, Hinge Pin
-* Foot (×4), Drain Plug
+* `Lower Base <https://cad.onshape.com/documents/55c50c3c5dd39d2267b03f72/w/1eae40e5d02a2f983f9a104d/e/99b70eb97a5544712a7c3ca7>`__ (3 parts)
+* `Upper Base <https://cad.onshape.com/documents/55c50c3c5dd39d2267b03f72/w/1eae40e5d02a2f983f9a104d/e/d4bedaaed3195f4c6f6922fe>`__ (3 parts)
+* `Lid <https://cad.onshape.com/documents/55c50c3c5dd39d2267b03f72/w/1eae40e5d02a2f983f9a104d/e/eedde5031071aa85743f810c>`__ (3 parts)
+* `Vial Holder <https://cad.onshape.com/documents/55c50c3c5dd39d2267b03f72/w/1eae40e5d02a2f983f9a104d/e/4a7d122a5a7c5017d8d8f72b>`__
+* `Spinner <https://cad.onshape.com/documents/55c50c3c5dd39d2267b03f72/w/1eae40e5d02a2f983f9a104d/e/75df6e6c951f9dced061af3d>`__
+* `Tab <https://cad.onshape.com/documents/55c50c3c5dd39d2267b03f72/w/1eae40e5d02a2f983f9a104d/e/a78b74a6848b637b5f20eb21>`__
+* `Sun Gear <https://cad.onshape.com/documents/55c50c3c5dd39d2267b03f72/w/1eae40e5d02a2f983f9a104d/e/2e7adfbef37c3bc1cd1a745d>`__
+* `Ring Gear <https://cad.onshape.com/documents/55c50c3c5dd39d2267b03f72/w/1eae40e5d02a2f983f9a104d/e/4386153d967c3923213d1b86>`__
+* `Planet Gear <https://cad.onshape.com/documents/55c50c3c5dd39d2267b03f72/w/1eae40e5d02a2f983f9a104d/e/c68106d911cb075254185df3>`__ (×3)
+* `Gearbox Crank Top <https://cad.onshape.com/documents/55c50c3c5dd39d2267b03f72/w/1eae40e5d02a2f983f9a104d/e/1df9c003d9d76a47b1959e8c>`__
+* `Gearbox Crank Cover <https://cad.onshape.com/documents/55c50c3c5dd39d2267b03f72/w/1eae40e5d02a2f983f9a104d/e/33fb5d2ef9f419987838cd20>`__
+* `Gearbox Bottom <https://cad.onshape.com/documents/55c50c3c5dd39d2267b03f72/w/1eae40e5d02a2f983f9a104d/e/556d618f755142e5338cd3b6>`__
+* `Crank Handle <https://cad.onshape.com/documents/55c50c3c5dd39d2267b03f72/w/1eae40e5d02a2f983f9a104d/e/114094a06b77ceeabe9328d0>`__
+* `Door <https://cad.onshape.com/documents/55c50c3c5dd39d2267b03f72/w/1eae40e5d02a2f983f9a104d/e/d09c9b24ba7735b192b72cb0>`__
+* `Door Handle <https://cad.onshape.com/documents/55c50c3c5dd39d2267b03f72/w/1eae40e5d02a2f983f9a104d/e/d6509631ce745f268d2ed9c7>`__
+* `Handle <https://cad.onshape.com/documents/55c50c3c5dd39d2267b03f72/w/1eae40e5d02a2f983f9a104d/e/0e1891a91b61da711447a230>`__ (×2)
+* `Handle Cap <https://cad.onshape.com/documents/55c50c3c5dd39d2267b03f72/w/1eae40e5d02a2f983f9a104d/e/d8d1c83defecfa5731faa83d>`__ (×4)
+* `Hinge Bottom <https://cad.onshape.com/documents/55c50c3c5dd39d2267b03f72/w/1eae40e5d02a2f983f9a104d/e/dad397c9aa45916872710663>`__
+* `Hinge Top <https://cad.onshape.com/documents/55c50c3c5dd39d2267b03f72/w/1eae40e5d02a2f983f9a104d/e/ecacb81c6b679ee54f4c057e>`__
+* `Hinge Pin <https://cad.onshape.com/documents/55c50c3c5dd39d2267b03f72/w/1eae40e5d02a2f983f9a104d/e/1efdd39acad2585c9b566c60>`__
+* `Foot <https://cad.onshape.com/documents/55c50c3c5dd39d2267b03f72/w/1eae40e5d02a2f983f9a104d/e/c4b24503cbbca191f8b36d2f>`__ (×4)
+* `Drain Plug <https://cad.onshape.com/documents/55c50c3c5dd39d2267b03f72/w/1eae40e5d02a2f983f9a104d/e/20c86d0b96b052c417bf62ab>`__
 
 **Other materials:**
 
