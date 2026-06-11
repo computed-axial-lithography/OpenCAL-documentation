@@ -22,15 +22,15 @@ There are two ways to get the OpenCAL software onto your Raspberry Pi 5. Both pr
 Pathway 1: Pre-Built Image (Provided)
 --------------------------------------
 
-A curated, fully-tested image is available for download at:
+A curated, fully-tested image is available for download here:
 
-**[LINK TBD]**
+`OpenCAL Pi 5 image (opencal_pi5.img.gz) <https://drive.google.com/file/d/1HBJ7cH8QSTCckkTwJ3i0WToUSsLiP4YX/view?usp=sharing>`__
 
 This image has been validated against the OpenCAL V2 hardware and includes all configuration needed to run out of the box.
 
 **Steps:**
 
-1. Download the ``.img.zst`` file from the link above.
+1. Download the ``opencal_pi5.img.gz`` file from the link above.
 2. Flash it to a microSD card (16 GB or larger) using `Raspberry Pi Imager <https://www.raspberrypi.com/software/>`__ or `Balena Etcher <https://etcher.balena.io/>`__.
 3. Insert the card into the Raspberry Pi 5 and power on.
 

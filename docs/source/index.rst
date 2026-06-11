@@ -111,6 +111,15 @@ is conducted.
    :caption: Software
 
    software/github
+   software/controls
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Tomo (Print Preparation)
+
+   software/tomo
+   software/tomo_workflow
    software/vamtoolbox
 
 .. toctree::

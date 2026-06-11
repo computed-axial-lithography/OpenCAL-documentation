@@ -1,9 +1,13 @@
 Main Assembly
 ++++++++++++++
     
-**NOTE: ALL SUBASSEMBLIES MUST BE COMPLETED PRIOR TO BEGGINNING THIS PROCESS**
+**NOTE: ALL SUBASSEMBLIES MUST BE COMPLETED PRIOR TO BEGINNING THIS PROCESS**
 
 **NOTE: WIRING WILL TAKE PLACE AFTER THIS IS COMPLETED.**
+
+.. contents:: On this page
+   :local:
+   :depth: 1
 
 Components List
 ===============
@@ -58,8 +62,6 @@ Non-Subassemblies:
 Main Assembly Process - Part 1
 ===============================
 
-----
-
 .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main1_1_CAD.png
      :align: center
 
@@ -80,7 +82,7 @@ Step-by-Step Instructions
 
 **NOTE 2: The "front" of the printer is the face where the vial section (smaller section) is on the left and optics section is on the right.**
 
-**NOTE 3: Positioning will be not be referred to in text. See images for positioning**
+**NOTE 3: Positioning will not be referred to in text. See images for positioning.**
 
 
 #. Flip the frame so that it is laying on the top. Loosen the TPU feet. Install the two **Bottom Panels** from the Frames Subassemblies. Each of the bottom panels have cutouts in each corner, with one cutout being larger than the other. The larger cutout should be on the end corners of the frame and small cutouts should be towards the center. You may need to move the feet to fit in these cutouts. Align all of the nuts with their respective railings, place down, and tighten the M5 fasteners. Also tighten the TPU Feet. If the bottom panels do not fit together/are not flush with the bottom of the frame, it is because it is not flush on the ends or the TPU feet need to be moved (there might be a slight gap in between the panels but that is fine).
@@ -302,8 +304,6 @@ Step-by-Step Instructions
 Main Assembly Process - Part 2
 ===============================
 
-----
-
 .. image:: ../static/Step_by_Step/Main_Assembly/part_2/main2_1_CAD.png
      :align: center
 
@@ -318,7 +318,9 @@ Required Tools:
 * Metric Measuring Tape
 * Digital/Metric Calipers
 
-   |
+.. note::
+   All images show the LCD Top installed on the enclosure. The LCD Top is installed in the
+   :ref:`LCD Enclosure section <lcd-wiring>` of the Wiring portion of the website.
 
 #. Carefully place in the **200mm Fresnel Lens** into the front slots on the collimating lens bottom and side mounts. The flat, non-grooved side of the lens should be facing the projector. See images below.
 
@@ -330,7 +332,7 @@ Required Tools:
 
    |
 
-#. Now place the **Projector Shroud** into the other grooves/extrusions of the collimating side mount and the extrusion on the colliating lens bottom mount. The projector shroud can only fit in only one way (one bottom slot, two side slots). The images may not be clear but ensure that the shroud is flush on the Col Lens Bottom Mount and is fully in the side mount.
+#. Now place the **Projector Shroud** into the other grooves/extrusions of the collimating side mount and the extrusion on the collimating lens bottom mount. The projector shroud can only fit in only one way (one bottom slot, two side slots). The images may not be clear but ensure that the shroud is flush on the Col Lens Bottom Mount and is fully in the side mount.
 
    .. image:: ../static/Step_by_Step/Main_Assembly/part_2/main2-2a.jpg
         :align: center
@@ -340,10 +342,6 @@ Required Tools:
 
    .. image:: ../static/Step_by_Step/Main_Assembly/part_2/main2-2c.jpg
         :align: center
-
-   |
-
-NOTE: All images have the LCD Top installed on the enclosure. This is installed in the :ref:`LCD Enclosure section <lcd-wiring>` of the Wiring portion of the website.**
 
    |
 
@@ -376,7 +374,7 @@ NOTE: All images have the LCD Top installed on the enclosure. This is installed 
 
    |
 
-#. Install the **Back Vial Panel Subassembly** in the position located below. Ensure that it is flush with the face of the back railing. You may need to loosen the M5 fasteners of the **RP5 Housing** to push it to the left a little in order to have the Back Vial Panel be flush. After screwing down the Back Vial Panel, bring the RP5 Housing to the right as possible (so it is against the back vial panel) and tigheten down.
+#. Install the **Back Vial Panel Subassembly** in the position located below. Ensure that it is flush with the face of the back railing. You may need to loosen the M5 fasteners of the **RP5 Housing** to push it to the left a little in order to have the Back Vial Panel be flush. After screwing down the Back Vial Panel, bring the RP5 Housing to the right as possible (so it is against the back vial panel) and tighten down.
 
    .. image:: ../static/Step_by_Step/Main_Assembly/part_2/main2-5.jpg
         :align: center
@@ -427,7 +425,7 @@ NOTE: All images have the LCD Top installed on the enclosure. This is installed 
 
    |
 
-#. Install the **Side Vial Panel Subassembly** in the position below. Loosen the M5 fasteners on the Door Hinges that interface with the rail slightly (loose enought that you can move it but it does not fall). Align the Side Vial Panel such that the top of the panel is flush with the top surface of the Top Vial Panel. The back should be flush with the front surface of the Back Vial Panel. Tighten all M5 fasteners, including the ones on the Door Hinges.
+#. Install the **Side Vial Panel Subassembly** in the position below. Loosen the M5 fasteners on the Door Hinges that interface with the rail slightly (loose enough that you can move it but it does not fall). Align the Side Vial Panel such that the top of the panel is flush with the top surface of the Top Vial Panel. The back should be flush with the front surface of the Back Vial Panel. Tighten all M5 fasteners, including the ones on the Door Hinges.
 
    .. image:: ../static/Step_by_Step/Main_Assembly/part_2/main2-11a.jpg
         :align: center

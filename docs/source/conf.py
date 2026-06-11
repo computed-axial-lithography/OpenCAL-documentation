@@ -24,8 +24,10 @@ extensions = [
 ]
 
 templates_path = ["_templates"]
-# CentrifuCAL section temporarily removed from the build. Remove the line below to restore it.
-exclude_patterns = ["step_by_step/centrifucal_stepbystep.rst"]
+# Sections temporarily removed from the build. Remove a line below to restore it.
+exclude_patterns = [
+    "step_by_step/centrifucal_stepbystep.rst",
+]
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
