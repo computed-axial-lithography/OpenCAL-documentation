@@ -11,6 +11,17 @@ commercially so you can buy it ready to print.
 This means you can get consistent, professionally produced resin without handling the raw
 chemistry. Buying the pre-mixed resin is strongly recommended.
 
+.. warning::
+
+   **Resin handling — important.** Photopolymer resin cures when exposed to light:
+
+   * Always wear **nitrile gloves** when handling resin or uncured (wet) parts.
+   * **Never expose the resin to natural sunlight.** Sunlight — and other strong UV / blue
+     light — causes **rapid, uncontrolled curing** that will ruin the resin and can solidify it
+     in its container. Keep it away from windows, work under subdued ambient room light, and keep
+     containers **capped** whenever they are not in use.
+   * Store the resin in a cool, dark place, and follow its Safety Data Sheet (SDS).
+
 .. raw:: html
 
     <div style="text-align: center; margin: 1.5em 0;">

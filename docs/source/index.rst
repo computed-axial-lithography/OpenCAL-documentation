@@ -124,6 +124,13 @@ is conducted.
 .. toctree::
    :maxdepth: 2
    :hidden:
+   :caption: Workflow
+
+   workflow/printing
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
    :caption: Resources
 
    resources/research_papers
