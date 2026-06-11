@@ -27,6 +27,9 @@ templates_path = ["_templates"]
 # Sections temporarily removed from the build. Remove a line below to restore it.
 exclude_patterns = [
     "step_by_step/centrifucal_stepbystep.rst",
+    # WIP stubs not yet in the nav — remove from this list once written.
+    "resources/photos.rst",
+    "resources/troubleshooting.rst",
 ]
 
 # -- Options for HTML output -------------------------------------------------

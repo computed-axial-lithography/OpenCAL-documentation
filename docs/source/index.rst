@@ -62,7 +62,6 @@ version for public research. Critique is highly appreciated and the site and inf
 is conducted.
 
 * `OpenCAL on GitHub <https://github.com/computed-axial-lithography/OpenCAL>`__
-* `Join the CAL Discord <https://discord.com/invite/patduYdnSN>`__
 
 .. raw:: html
 

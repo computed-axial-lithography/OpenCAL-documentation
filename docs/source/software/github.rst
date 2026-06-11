@@ -7,6 +7,9 @@ Overview
 
 The OpenCAL device software runs headless on a **Raspberry Pi 5** and orchestrates all printer hardware: the stepper motor, LED array, projector, camera, and 20×4 LCD display. The user interacts entirely through a rotary encoder and the LCD menu — no external monitor is needed during normal operation.
 
+For a full reference of the on-device menus and encoder controls, see :doc:`controls`. The print
+files the printer plays are prepared with :doc:`Tomo <tomo>` (see the Tomo section).
+
 Source code and releases are hosted on GitHub:
 `OpenCAL on GitHub <https://github.com/computed-axial-lithography/OpenCAL>`__
 

@@ -151,5 +151,5 @@ If no RPM is found in the filename, the menu opens with the last-used RPM value.
 
 .. note::
 
-   Print files (``.mp4`` videos) are generated from your 3D model using **VAMToolbox**.
-   See the `VAMToolbox documentation <https://vamtoolbox.readthedocs.io>`__ for details.
+   Print files (``.mp4`` videos) are generated from your 3D model using **Tomo** (or
+   **VAMToolbox** directly). See :doc:`tomo` and :doc:`vamtoolbox` for how to create them.
