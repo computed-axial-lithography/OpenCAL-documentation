@@ -1,7 +1,7 @@
 Tomo: Workflow & Controls
 =========================
 
-Tomo is organized as **five numbered tabs that mirror the CAL pipeline** — you move left to
+Tomo is organized as **five numbered tabs that mirror the CAL pipeline**; you move left to
 right through them (with **Back** / **Next** buttons) to take a model from STL to a print-ready
 projection video:
 
@@ -108,7 +108,7 @@ Convert the mesh into a high-resolution voxel target.
 
 .. note::
 
-   High resolution is never silently coarsened — if you ask for a fine pitch, Tomo voxelizes at
+   High resolution is never silently coarsened; if you ask for a fine pitch, Tomo voxelizes at
    that pitch. The resolution-scale reduction is opt-in.
 
 .. figure:: ../static/Tomo/tomo_voxelize.png
@@ -120,7 +120,7 @@ Convert the mesh into a high-resolution voxel target.
 Stage 4 — Optimize
 ------------------
 
-Compute the sinogram — the projection sequence — with the tomographic optimizer.
+Compute the sinogram (the projection sequence) with the tomographic optimizer.
 
 .. list-table::
    :header-rows: 1
@@ -151,9 +151,9 @@ Compute the sinogram — the projection sequence — with the tomographic optimi
 
 Tomo shows an **estimated optimize time**, then **Optimize** runs the solve. With **Verbose
 optimization output** enabled, a live **"Optimizing print"** window shows the current
-**iteration / total**, the **dose error**, and a four-panel diagnostic — the **target slice**, the
+**iteration / total**, the **dose error**, and a four-panel diagnostic (the **target slice**, the
 **predicted-dose reconstruction**, an **error-vs-iterations** curve, and the **dose distribution**
-histogram — with a **Cancel** button.
+histogram), with a **Cancel** button.
 
 .. figure:: ../static/Tomo/tomo_optimize.png
    :align: center
@@ -179,7 +179,7 @@ Preview the result and export the print.
 * **Print Quality** panel:
 
   * **Process window** — a single score. **Positive** means a single dose threshold cures the part
-    cleanly; **negative** means dose overlap (some stray cure is unavoidable) — try more iterations
+    cleanly; **negative** means dose overlap (some stray cure is unavoidable), so try more iterations
     or widen the D_H–D_L gap.
   * **Dose distribution** — a histogram of **in-part** (blue) vs **out-of-part** (red) voxel doses,
     with the **gel-dose threshold** marked. A clean gap between the two humps is ideal.
@@ -191,7 +191,7 @@ Preview the result and export the print.
 .. tip::
 
    Name the exported print file using the OpenCAL convention so the printer reads the RPM
-   automatically, e.g. ``part_9rpm.mp4`` — see :ref:`naming-convention`.
+   automatically, e.g. ``part_9rpm.mp4``; see :ref:`naming-convention`.
 
 .. figure:: ../static/Tomo/tomo_output.png
    :align: center

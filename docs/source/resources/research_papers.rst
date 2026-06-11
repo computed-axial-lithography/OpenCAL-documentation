@@ -2,8 +2,8 @@ Research Papers
 ===============
 
 A curated list of key publications on Computed Axial Lithography (CAL) and volumetric
-additive manufacturing (VAM). The two most important papers — the original CAL paper and
-the first OpenCAL paper — are highlighted first.
+additive manufacturing (VAM). The two most important papers, the original CAL paper and
+the first OpenCAL paper, are highlighted first.
 
 Foundational Papers
 -------------------
@@ -19,7 +19,7 @@ Foundational Papers
 
    The paper that introduced Computed Axial Lithography. It showed that an entire 3D object
    can be formed *all at once* by illuminating a rotating volume of photosensitive resin with
-   a dynamically evolving light pattern — no layers, no support structures, and the ability to
+   a dynamically evolving light pattern: no layers, no support structures, and the ability to
    print around pre-existing objects, with print times of 30–120 seconds. This is the
    foundation that every CAL system, including OpenCAL, is built on.
 
@@ -36,7 +36,7 @@ Foundational Papers
    Evan Percival, Rajdeep Summan, Connor Vidmar, Hayden K. Taylor* —
    University of California, Berkeley.
 
-   The paper that introduces OpenCAL itself — a low-cost, open-source CAL printer and
+   The paper that introduces OpenCAL itself, a low-cost, open-source CAL printer and
    post-processor designed to put volumetric additive manufacturing in the hands of
    researchers, educators, and makers. It documents the hardware, software, and resin so the
    system can be reproduced and built upon by the wider community. Start here to understand the
@@ -62,7 +62,7 @@ Reconstruction & algorithms
   Hayden K. Taylor, Maxim Shusteff, Robert R. McLeod* (*Additive Manufacturing*, 2021).
   University of Colorado Boulder, UC Berkeley & LLNL.
   Rather than optimizing the projected images, OSMO iteratively optimizes the digital *model*
-  itself — forward/back-projecting the part, finding regions of excess or missing dose, and
+  itself by forward/back-projecting the part, finding regions of excess or missing dose, and
   adjusting the model accordingly. Simple to implement and improves accuracy of complex parts
   even with imperfect optics and materials.
   `View paper <https://www.sciencedirect.com/science/article/abs/pii/S2214860421005212>`__
@@ -100,7 +100,7 @@ Materials & chemistry
   Hao Li, Robynne Vlaming, Liliana Gaburici, Antony Orth, Chantal Paquet* (*Advanced Materials*,
   2025). National Research Council Canada.
   Turns oxygen inhibition into a tool rather than a nuisance: using **N-methyldiethanolamine
-  (MDEA)** — the same additive in the OpenCAL resin — to regenerate radicals, the authors achieve
+  (MDEA)**, the same additive in the OpenCAL resin, to regenerate radicals, the authors achieve
   high-resolution, large-volume prints (up to 60 mm, a 16× increase in print volume).
   `View paper <https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202508729>`__
 
@@ -108,7 +108,7 @@ Materials & chemistry
   *Jorge Madrid-Wolff, Joseph Toombs, … Christophe Moser* (19 authors) (*MRS Communications*,
   2023). EPFL, with UC Berkeley, Harvard, Utrecht, LLNL, CU Boulder, Freiburg, ETH Zürich and
   others. A broad survey of the photopolymer resins and material systems used across VAM,
-  summarizing their properties, trade-offs, and current limitations — a good orientation to the
+  summarizing their properties, trade-offs, and current limitations, a good orientation to the
   materials side of the field. `View paper <https://pubmed.ncbi.nlm.nih.gov/37901477/>`__
 
 In-space manufacturing
@@ -117,6 +117,6 @@ In-space manufacturing
 * **Demonstration and Analysis of Volumetric Additive Manufacturing via Sub-Orbital Spaceflight
   Testing** — *UC Berkeley SpaceCAL team* (*Acta Astronautica*, 2026). University of California,
   Berkeley. Reports SpaceCAL Mission 3, which autonomously manufactured and post-processed four
-  parts during ~140 seconds of microgravity on a suborbital flight — the first integrated CAL
+  parts during ~140 seconds of microgravity on a suborbital flight, the first integrated CAL
   workflow demonstrated in space, with analysis of the distortions encountered.
   `View paper <https://www.sciencedirect.com/science/article/pii/S0094576526003395>`__

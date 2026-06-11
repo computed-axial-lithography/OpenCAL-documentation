@@ -2,7 +2,7 @@ Controls & Operation
 ====================
 
 Once the software is installed, the entire printer is operated through the **rotary
-encoder** on the LCD display — there is no keyboard or mouse during normal use.
+encoder** on the LCD display; there is no keyboard or mouse during normal use.
 
 .. list-table::
    :header-rows: 1
@@ -37,9 +37,9 @@ Lists all ``.mp4`` print files found on the inserted USB drive. Selecting a file
 
 #. If the filename encodes an RPM (e.g. ``part_9rpm.mp4``), the motor speed is pre-set
    automatically (see :ref:`naming-convention`).
-#. An **RPM adjustment screen** appears — rotate to change, click to confirm and start
+#. An **RPM adjustment screen** appears: rotate to change, click to confirm and start
    the print.
-#. While in this menu the projector shows a **black image** — this is intentional, to
+#. While in this menu the projector shows a **black image**; this is intentional, to
    avoid accidentally curing resin while browsing.
 #. A **Print Status screen** is shown while the print runs. Click to stop.
 #. If **USB video prompt** is enabled (see :ref:`settings-menu`), you are asked whether

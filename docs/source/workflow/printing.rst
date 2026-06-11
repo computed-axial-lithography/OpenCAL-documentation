@@ -1,7 +1,7 @@
 Printing Workflow
 =================
 
-This page walks through a complete OpenCAL print from start to finish — preparing the print
+This page walks through a complete OpenCAL print from start to finish: preparing the print
 file, loading resin, running the print, and post-processing the finished part.
 
 .. warning::
@@ -9,7 +9,7 @@ file, loading resin, running the print, and post-processing the finished part.
    **Resin safety — read before you begin.**
 
    * Always wear **nitrile gloves** when handling resin or uncured (wet) parts.
-   * **Never expose the resin to natural sunlight.** Sunlight — and other strong UV / blue light —
+   * **Never expose the resin to natural sunlight.** Sunlight (and other strong UV / blue light)
      causes **rapid, uncontrolled curing** that will ruin the resin and can solidify it in its
      container. Keep resin away from windows, work under subdued ambient room light, and keep
      vials **capped** whenever they are not in use.
@@ -61,14 +61,14 @@ Step 5 — Remove the Part
 #. When the print is complete, remove the vial from the machine.
 #. Wearing gloves, uncap the vial and use **tweezers** to gently lift the cured part out of the
    surrounding uncured resin.
-#. Let excess resin drip back into the vial — the remaining uncured resin can be reused (see
+#. Let excess resin drip back into the vial; the remaining uncured resin can be reused (see
    Step 8).
 
 Step 6 — Wash (Post-Process)
 ----------------------------
 
 Wash the uncured resin off the part using a **Formlabs Form Wash** (or an equivalent solvent
-wash). Use the solvent appropriate to your resin — commonly isopropyl alcohol (IPA) — and follow
+wash). Use the solvent appropriate to your resin, commonly isopropyl alcohol (IPA), and follow
 the wash time recommended for your resin.
 
 Step 7 — Post-Cure
@@ -81,5 +81,5 @@ surface curing and leave the part tacky.
 Step 8 — Rest Before Reuse
 --------------------------
 
-Let the cured part — and any reused resin — **sit for 24 hours before reuse** so the material can
+Let the cured part (and any reused resin) **sit for 24 hours before reuse** so the material can
 fully stabilize.

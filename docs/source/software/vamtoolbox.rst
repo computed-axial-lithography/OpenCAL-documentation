@@ -6,7 +6,7 @@ VAMToolbox — The Projection Engine
    :width: 420px
 
 **VAMToolbox is the open-source Python library that powers projection generation for Computed
-Axial Lithography.** It is the engine underneath :doc:`Tomo <tomo>` — everything Tomo does
+Axial Lithography.** It is the engine underneath :doc:`Tomo <tomo>`: everything Tomo does
 (voxelize a model, optimize the projection sequence, apply the resin physics, and produce the
 final light-projection video) is computed by VAMToolbox. Tomo is the graphical front end;
 **VAMToolbox is the math.**
@@ -39,10 +39,10 @@ tomographic VAM. Its core capabilities are:
 * **ASTRA CUDA backend** — fast projection/reconstruction operators via the
   `ASTRA Toolbox <https://astra-toolbox.com>`__.
 * **High-level pipeline API** — ``PrintConfig`` + ``VAMPipeline`` (the same API Tomo drives), so a
-  full job — hardware detection, voxelize, optimize, rebin, video export — runs from a single
+  full job (hardware detection, voxelize, optimize, rebin, video export) runs from a single
   Python call.
 
-The optimization methods are described in the CAL/VAM literature — see
+The optimization methods are described in the CAL/VAM literature; see
 :doc:`../resources/research_papers` for the OSMO, BCLP, and deconvolution papers.
 
 Using It Directly
@@ -64,6 +64,6 @@ reference, and examples.
 Relationship to OpenCAL
 -----------------------
 
-VAMToolbox — and :doc:`Tomo <tomo>`, its desktop GUI — produce the projection video your OpenCAL
+VAMToolbox (and :doc:`Tomo <tomo>`, its desktop GUI) produce the projection video your OpenCAL
 printer plays. Together they close the loop: **design a part → generate its projections with
 VAMToolbox / Tomo → print it on OpenCAL.**

@@ -1,11 +1,11 @@
 Help Wanted
 ===========
 
-This page collects parts of OpenCAL that we **started but did not finish** — features and add-ons
+This page collects parts of OpenCAL that we **started but did not finish**: features and add-ons
 that are not yet fully working. We would love the **community's help** to complete them.
 
 Have experience, ideas, or want to take one of these on? Reach out on the
-`OpenCAL Discord <https://discord.com/invite/patduYdnSN>`__ — contributions are very welcome.
+`OpenCAL Discord <https://discord.com/invite/patduYdnSN>`__; contributions are very welcome.
 
 Cheaper Motor Controller (TMC5160T)
 -----------------------------------
@@ -16,14 +16,14 @@ the **Pololu Tic T249** used in the current build. We tried the **TMC5160T** as 
 * `TMC5160T stepper motor driver (Amazon) <https://www.amazon.com/dp/B0B8HZXWPP>`__
 
 We **could not get it working reliably**, so it never made it into the official build. If you can
-get the TMC5160T — or another low-cost driver — running dependably with OpenCAL, we'd love your
+get the TMC5160T (or another low-cost driver) running dependably with OpenCAL, we'd love your
 help.
 
 Large Vial (Screw-On)
 ---------------------
 
 We designed a large, **screw-on glass vial** to print bigger parts, but we **could not get it
-fully working and reliable**. For now, use the small vial for printing — and if you'd like to help
+fully working and reliable**. For now, use the small vial for printing. If you'd like to help
 finish the large-vial design, we'd welcome it. (Its subassembly in the
 :doc:`Rotational Element guide <../step_by_step/rotational_element_stepbystep>` is still
 incomplete.)
@@ -33,14 +33,14 @@ Vial Light-Protection Covers
 
 Photopolymer resin cures on exposure to stray light (see the resin-handling warnings in the
 :doc:`Materials overview <../materials/overview>`). We started designing **covers for the vials**
-to shield them from ambient and stray light **when they are not being printed** — protecting the
-resin between prints and during storage — but we **never settled on a reliable, easy-to-use
+to shield them from ambient and stray light **when they are not being printed** (protecting the
+resin between prints and during storage), but we **never settled on a reliable, easy-to-use
 design**. Ideas and designs from the community are welcome.
 
 Centrifugal Spinning (CentrifuCAL)
 ----------------------------------
 
-We explored a centrifugal spinning add-on — **CentrifuCAL** — to counteract sinking or floating of
+We explored a centrifugal spinning add-on, **CentrifuCAL**, to counteract sinking or floating of
 the part in low-viscosity resin. It is a **hand-cranked, planetary-gear spinner** that holds and
 rotates the vial.
 
@@ -57,12 +57,12 @@ anyone who wants to pick it up.
 .. tip::
 
    **Off-the-shelf alternative.** If you don't want to build the CentrifuCAL spinner, a manual
-   **salad spinner** can provide a simple, low-cost way to spin the vial — for example,
+   **salad spinner** can provide a simple, low-cost way to spin the vial, such as
    `this salad spinner <https://www.amazon.com/dp/B09KG9Q57N>`__.
 
 .. note::
 
-   The steps below describe an early prototype. Step images are not yet included — they will be
+   The steps below describe an early prototype. Step images are not yet included; they will be
    added as the design is finalized.
 
 Tools

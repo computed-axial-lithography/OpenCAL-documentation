@@ -5,7 +5,7 @@ Lab Directions (Experts Only)
 
    **This page is intended for trained professionals only.** Resin mixing is hazardous and
    must only be performed by qualified personnel in a laboratory fume hood. If you are not
-   equipped to mix photopolymer chemistry safely, do **not** attempt this — instead, purchase
+   equipped to mix photopolymer chemistry safely, do **not** attempt this; instead, purchase
    the pre-mixed resin (see :doc:`overview`).
 
 The OpenCAL resin is a UDMA-based photopolymer tuned for Computed Axial Lithography.
