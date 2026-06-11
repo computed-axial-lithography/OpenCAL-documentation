@@ -106,11 +106,24 @@ is conducted.
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: Software 
+   :caption: Software
 
-   software/github 
-   software/stl_conversion
-   software/data_generation
+   software/installation
+   software/controls
+
+.. WIP stubs left out of the nav for now — re-add these to the toctree above to restore:
+.. software/github
+.. software/stl_conversion
+.. software/data_generation
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Tomo (Print Preparation)
+
+   software/tomo
+   software/tomo_workflow
+   software/vamtoolbox
 
 .. toctree::
    :maxdepth: 2
