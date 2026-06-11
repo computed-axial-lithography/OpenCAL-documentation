@@ -39,7 +39,7 @@ Required Materials:
 * (QTY 9) Bearing Top Piece
 * (QTY 9) M3x12 Button Head Screw
 * (QTY 1) Mid Base Plate
-* (QTY 3) M3x4x5 Heat Set Insert
+* (QTY 12) M3x4x5 Heat Set Insert
 * (QTY 3) M3x5 Button Head Screw
 * (QTY 5) M5x10 Button Head Screw
 * (QTY 5) M5 Hammer TNut
@@ -69,32 +69,36 @@ Step-by-Step Instructions:
    .. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Rotation_Stage/rot-stage-2.JPG
        :align: center
 
-3. On the non-cantilevered top hole of **QTY (1) Rotation Stage**, place a bearing assembly. Use the screw to align the hole and push the bearing down to be flush with the top hole.
+3. Take QTY (9) M3x4x5mm Heat Set Insert and, using a soldering iron, place them into the holes on the three holes on the top and the six holes on the top and front faces of the bearing posts of the QTY (1) Rotation Stage . Ensure that the top of the heat set inserts are flush with the surface.[image]
+   .. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Rotation_Stage/rot-stage-heat-sets.JPG
+       :align: center
+
+4. On the non-cantilevered top hole of **QTY (1) Rotation Stage**, place a bearing assembly. Use the screw to align the hole and push the bearing down to be flush with the top hole.
 
    .. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Rotation_Stage/rot-stage-3.JPG
        :align: center
 
-4. Using a M2.5 Hex/Allen Key, screw directly into the rotation stage, until flush with the bearing top piece. The bearing should not have any wiggle.
+5. Using a M2.5 Hex/Allen Key, screw directly into the rotation stage, until flush with the bearing top piece. The bearing should not have any wiggle.
 
    .. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Rotation_Stage/rot-stage-4.JPG
        :align: center
 
-5. Repeat Steps 3 & 4 for the rest of the holes in the rotation stage. The rotation stage is now complete.
+6. Repeat Steps 3 & 4 for the rest of the holes in the rotation stage. The rotation stage is now complete.
 
    .. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Rotation_Stage/rot-stage-5.JPG
        :align: center
 
-6. Take **QTY (3) M3x4x5mm Heat Set Insert** and, using a soldering iron, place them into the following locations on the **QTY (1) Mid Base Plate**. Ensure that the top of the heat set inserts are flush with the surface.
+7. Take **QTY (3) M3x4x5mm Heat Set Insert** and, using a soldering iron, place them into the following locations on the **QTY (1) Mid Base Plate**. Ensure that the top of the heat set inserts are flush with the surface.
 
    .. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Rotation_Stage/rot-stage-6.JPG
        :align: center
 
-7. Place **QTY (5) M5x10 Button Head Screw** in each of the counterbored holes shown below. Loosely install **QTY (5) M5 Hammer TNut** on the opposite end of each fastener.
+8. Place **QTY (5) M5x10 Button Head Screw** in each of the counterbored holes shown below. Loosely install **QTY (5) M5 Hammer TNut** on the opposite end of each fastener.
 
    .. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Rotation_Stage/rot-stage-7.JPG
        :align: center
 
-8. Take the assembly from Step 5 and place it in the center cutout on the Mid Base Plate, aligning the silhouettes. Using **QTY (3) M3x5 Button Head Screw** to fasten the Rotation Stage and Mid Base Plate together. The Rotation Element Mid Base Plate is now complete.
+9. Take the assembly from Step 5 and place it in the center cutout on the Mid Base Plate, aligning the silhouettes. Using **QTY (3) M3x5 Button Head Screw** to fasten the Rotation Stage and Mid Base Plate together. The Rotation Element Mid Base Plate is now complete.
 
    .. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Rotation_Stage/rot-stage-8.JPG
        :align: center
