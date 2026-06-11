@@ -22,7 +22,7 @@ used to measure a person's internal structure and then computers reconstruct it 
 starts with a 3D model. From that model, the software computes the projected images needed to reconstruct the part
 in resin. The open-source software that drives this is called VAMToolbox/Tomo. It calculates light dosage so that
 only the regions meant to form the part receive enough light to solidify, while the rest remains liquid. As the
-light passes through the spinning vial, it is effectively delivering dose to the whole part at once (Figure A).
+light passes through the spinning vial, it is effectively delivering dose to the whole part at once.
 Because of that, machines like OpenCAL can print much faster than traditional methods, with inch-scale objects
 forming in minutes.
 

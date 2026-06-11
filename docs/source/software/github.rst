@@ -56,7 +56,7 @@ Key characteristics of automated images:
 
 **Steps:**
 
-1. Navigate to the `Releases <https://github.com/computed-axial-lithography/OpenCAL/releases>`__ page and download the latest ``.img.zst`` asset.
+1. Navigate to the `Releases <https://github.com/computed-axial-lithography/OpenCAL/releases>`__ page and download the latest ``.img.gz`` asset.
 2. Flash it to a microSD card using Raspberry Pi Imager or Balena Etcher (same as Pathway 1).
 3. Insert the card and power on the Raspberry Pi 5.
 
@@ -83,8 +83,8 @@ All hardware configuration lives in ``opencal/utils/config.json`` inside the Ope
 
 These values are also stored in ``opencal/utils/config.json``. Key parameters include:
 
-* ``stepper.default_rpm`` — default motor speed in RPM (factory default: ``9``).
-* ``led_array.default_color`` — RGB color array for the LED ring during printing (factory default: ``[0, 255, 0]``).
+* ``stepper_motor.default_rpm`` — default motor speed in RPM (factory default: ``9``).
+* ``led_array.default_color`` — the LED array colour as a 4-channel value (factory default: ``[0, 240, 0, 0]``, which displays as red).
 * ``projector.default_print_size`` — initial print size as a percentage of full projector width (factory default: ``100``).
 
 After editing, restart the service as shown above.
