@@ -425,7 +425,8 @@ Required Materials:
 * (QTY 12) M3 Hex Nut
 * (QTY 4)  M5x10 Button Head Screw
 * (QTY 4)  M5 Hammer TNut
-* (QTY 2)  M3x4x5mm Heat Set Insert
+* (QTY 1)  M3x4x5mm Heat Set Insert
+* (QTY 4)  M2x4x3.2mm Heat Set Insert
 
 .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Raspberry_Pi_Housing/rp5-materials.jpg
     :align: center
@@ -505,7 +506,7 @@ Step-by-Step Instructions
 
    |
 
-#. Attach **QTY (1) Raspberry Pi 5** onto the RP5  in section '1' using **QTY (4) M2x6 Button Head Screw** and **QTY (4) M2 Hex Nut** on the opposite end. The ports on the Raspberry Pi should be on the top. The screws should be going from the Raspberry Pi 5 to the Housing, with the nuts on the external side.
+#. Attach **QTY (1) Raspberry Pi 5** onto the RP5  in section '1' using **QTY (4) M2x6 Button Head Screw** and **QTY (4)  M2x4x3.2mm Heat Set Insert**. The ports on the Raspberry Pi should be on the top. Note: the M2 heat sets are not pictured as they were added later to replace the hex nuts.
 
    .. image:: ../static/Step_by_Step/Electronics_Subassemblies/Raspberry_Pi_Housing/rp5-9a.jpg
        :align: center
