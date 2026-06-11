@@ -1,4 +1,4 @@
-In-Progress
+Help Wanted
 ===========
 
 This page collects parts of OpenCAL that we **started but did not finish** — features and add-ons
@@ -10,43 +10,39 @@ Have experience, ideas, or want to take one of these on? Reach out on the
 Cheaper Motor Controller (TMC5160T)
 -----------------------------------
 
-The current OpenCAL build drives the stepper motor with a **Pololu Tic T249**. We would like to
-support **cheaper motor controllers** wherever possible to lower the overall build cost.
-
-One candidate we are evaluating is the **TMC5160T**:
+To lower the build cost, we wanted to drive the stepper motor with a **cheaper controller** than
+the **Pololu Tic T249** used in the current build. We tried the **TMC5160T** as a candidate:
 
 * `TMC5160T stepper motor driver (Amazon) <https://www.amazon.com/dp/B0B8HZXWPP>`__
 
-So far we have **not been able to get it working reliably**, so it is not yet part of the
-official build. If you have experience running the TMC5160T — or another low-cost driver —
-dependably with OpenCAL, we would love to hear from you.
+We **could not get it working reliably**, so it never made it into the official build. If you can
+get the TMC5160T — or another low-cost driver — running dependably with OpenCAL, we'd love your
+help.
 
 Large Vial (Screw-On)
 ---------------------
 
-The large, **screw-on glass vial** assembly is still being finalized and is **not yet fully
-working**. Everything related to the large vial is considered in-progress for now, and the build
-instructions for it will be moved into this section as the design is sorted out.
-
-In the meantime, use the small vial for printing. (The Large Vial subassembly in the
-:doc:`Rotational Element guide <../step_by_step/rotational_element_stepbystep>` is still a work in
-progress.)
+We designed a large, **screw-on glass vial** to print bigger parts, but we **could not get it
+fully working and reliable**. For now, use the small vial for printing — and if you'd like to help
+finish the large-vial design, we'd welcome it. (Its subassembly in the
+:doc:`Rotational Element guide <../step_by_step/rotational_element_stepbystep>` is still
+incomplete.)
 
 Vial Light-Protection Covers
 ----------------------------
 
 Photopolymer resin cures on exposure to stray light (see the resin-handling warnings in the
-:doc:`Materials overview <../materials/overview>`). We are working on **covers for the vials** to
-shield them from ambient and stray light **when they are not actively being printed** — protecting
-the resin between prints and during storage. A reliable, easy-to-use cover design is still in
-progress.
+:doc:`Materials overview <../materials/overview>`). We started designing **covers for the vials**
+to shield them from ambient and stray light **when they are not being printed** — protecting the
+resin between prints and during storage — but we **never settled on a reliable, easy-to-use
+design**. Ideas and designs from the community are welcome.
 
 Centrifugal Spinning (CentrifuCAL)
 ----------------------------------
 
-A centrifugal spinning approach — **CentrifuCAL** — is being explored to help counteract sinking
-or floating of the part in low-viscosity resin. It is a **hand-cranked, planetary-gear spinner**
-that holds and rotates the vial.
+We explored a centrifugal spinning add-on — **CentrifuCAL** — to counteract sinking or floating of
+the part in low-viscosity resin. It is a **hand-cranked, planetary-gear spinner** that holds and
+rotates the vial.
 
 .. figure:: ../static/centrifucal_setup.jpg
    :align: center
@@ -54,8 +50,9 @@ that holds and rotates the vial.
 
    An early CentrifuCAL prototype.
 
-The design is **not yet finalized**, so CentrifuCAL is not part of the official build. An early
-prototype and its assembly steps are recorded below for reference and to invite contributions.
+We built the **early prototype** shown above but **did not fully finish or validate** the design,
+so it is not part of the official build. Its parts and assembly steps are recorded below to help
+anyone who wants to pick it up.
 
 .. tip::
 
