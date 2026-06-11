@@ -1,11 +1,10 @@
 In-Progress
 ===========
 
-This page tracks parts of OpenCAL that are **actively being worked on but are not yet fully
-functional**. They are documented here so the community knows what is still in flux and where
-help is welcome.
+This page collects parts of OpenCAL that we **started but did not finish** — features and add-ons
+that are not yet fully working. We would love the **community's help** to complete them.
 
-Have experience, ideas, or a fix? Reach out on the
+Have experience, ideas, or want to take one of these on? Reach out on the
 `OpenCAL Discord <https://discord.com/invite/patduYdnSN>`__ — contributions are very welcome.
 
 Cheaper Motor Controller (TMC5160T)
