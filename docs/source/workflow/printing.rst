@@ -26,12 +26,29 @@ tools under **Settings** on the LCD menu (see :doc:`Controls & Operation <../sof
 #. **Display the calibration image.** The calibration image ships on the Raspberry Pi. Open it from
    **Settings → Calibration Images** on the LCD menu.
 
-   .. The calibration image goes here. Add it to docs/source/static/Workflow/ and embed it.
+   .. figure:: ../static/Workflow/alignment_image.png
+      :align: center
+      :width: 200px
 
-#. **Focus and align the projector.** Adjust the projector so the calibration image is sharp and
-   centered on the vial. Use **Settings → Show Alignment** to project the cross-strut alignment
-   image, and adjust the projector's XY stage until the projected cross is centered on the vial
-   axis. Rotate the encoder to shift the image up or down for transverse alignment.
+      The projector alignment image.
+
+#. **Focus and align the projector.** Place the **cross-strut alignment tool** in the machine
+   (in place of the vial). Adjust the projector so the calibration image is sharp and centered on
+   the tool. Use **Settings → Show Alignment** to project the cross-strut alignment image, and
+   adjust the projector's XY stage until the projected cross lines up with the tool's cross-struts.
+   Rotate the encoder to shift the image up or down for transverse alignment.
+
+   .. figure:: ../static/Workflow/alignment_tool_render.jpg
+      :align: center
+      :width: 300px
+
+      The cross-strut alignment tool.
+
+   .. figure:: ../static/Workflow/cal_alignment.jpg
+      :align: center
+      :width: 360px
+
+      The alignment image projected onto the alignment tool.
 
 #. **Set the vial width.** Open **Settings → Find Vial Width**, rotate the encoder until the white
    bar matches your vial's printable diameter, and click to save.
