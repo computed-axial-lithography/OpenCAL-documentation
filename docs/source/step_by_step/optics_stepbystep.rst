@@ -121,7 +121,13 @@ Step-by-Step Instructions
 Projector Mount
 ================
 
-**NOTE: These instructions are for the NexiGo Nova Mini Laser Projector.** 
+**NOTE: These instructions are for the NexiGo Nova Mini Laser Projector.**
+
+.. tip::
+
+   **Before mounting the projector, disable its auto focus and WiFi** in the projector's own
+   settings menu. This is much easier to do now, while the projector is still loose, than once it
+   is installed in the machine.
 
 .. image:: ../static/Step_by_Step/Optics_Subassemblies/Projector_Mount/projector_mount_1_CAD.png
      :align: center 
