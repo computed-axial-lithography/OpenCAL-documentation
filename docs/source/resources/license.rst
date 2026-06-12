@@ -6,9 +6,11 @@ Berkeley**.
 
 Copyright © 2026 The Regents of the University of California. All Rights Reserved.
 
-OpenCAL is distributed under the **Open Community License (OCL v1.1)** together with the
-**General Attribution (GAtt v1)** and **Research & Development (RnD v1)** add-on conditions
-(referenced as *OCL v1.1 + GAtt v1 + RnD v1*).
+The OpenCAL **hardware and design files** are distributed under the **Open Community License
+(OCL v1.1)** together with the **General Attribution (GAtt v1)** and **Research & Development
+(RnD v1)** add-on conditions (referenced as *OCL v1.1 + GAtt v1 + RnD v1*). The OpenCAL
+**software** is licensed separately under the UC Regents license (see
+`Software (UC Regents License)`_ below).
 
 Open Community License (OCL v1.1)
 ---------------------------------
@@ -101,8 +103,8 @@ components.
 YOU MUST NOT use the product and/or its components and/or its derivatives for manufacturing beyond
 the scope of what YOU MAY without obtaining a separate business license.
 
-Bundled Software (UC Regents License)
--------------------------------------
+Software (UC Regents License)
+-----------------------------
 
 The OpenCAL software is also provided under the **UC Regents license**: free for educational,
 research, and non-profit noncommercial use (with the conditions that any distributed modifications
