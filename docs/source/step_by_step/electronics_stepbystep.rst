@@ -530,8 +530,7 @@ Step-by-Step Instructions
 
    |
 
-#.  Insert **QTY (4) M5x10 Button Head Screw** from the top on each of the side mounting points as shown below. Loosely install **QTY (4) M5 Hammer TNut** on the opposite end of each fastener.
-
+#. Insert **QTY (4) M5x10 Button Head Screw** from the top on each of the side mounting points as shown below. Loosely install **QTY (4) M5 Hammer TNut** on the opposite end of each fastener.
 
    |
 
@@ -661,5 +660,5 @@ Step-by-Step Instructions
 
    |
 
-#. The Switch subassembly is complete
+#. The Switch subassembly is complete.
 

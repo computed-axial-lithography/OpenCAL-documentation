@@ -28,4 +28,5 @@ Handheld Tools
 * Small Phillips Driver (+1.5)
 * Wire Cutter
 * Needle Nose Pliers
-* 
+* Dupont Crimping Tool
+* Heat Gun

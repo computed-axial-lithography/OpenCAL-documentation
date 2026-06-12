@@ -834,7 +834,7 @@ Step-by-Step Instructions:
 
 #. Glue on **QTY (1) Motor Wire Guard** in the small hole on the **Top Vial Panel**.
 
-    .. image:: ../static/WIP.png
+    .. image:: ../static/Step_by_Step/Frame_Subassemblies/Top_Vial_Panel/top-vial-12.jpg
         :align: center 
 
    |
