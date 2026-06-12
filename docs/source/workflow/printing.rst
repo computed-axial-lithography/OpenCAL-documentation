@@ -23,6 +23,20 @@ Before your first print (and any time you move the projector or optics), calibra
 the projected image is focused, centered on the vial, and sized correctly. Calibration uses the
 tools under **Settings** on the LCD menu (see :doc:`Controls & Operation <../software/controls>`).
 
+#. **Set up the projector (NexiGo Nova Mini).** Once the projector is mounted in the machine, and
+   before aligning it, configure it for printing from the projector's own menu:
+
+   * **Disable auto focus** so the focus does not drift during a print.
+   * **Maximize the brightness.**
+
+   .. note::
+
+      Many of the NexiGo Nova Mini's features have not been explored for CAL printing yet, so there
+      may be room to increase light output and/or picture quality. See the
+      `NexiGo Nova Mini user manual <https://www.androidtv-guide.com/wp-content/uploads/2025/11/EN-Complete-of-NexiGo-Nova-Mini-User-Manual-Online-Version-2025.7.25.pdf>`__
+      for the full settings reference, and please share anything that improves prints on the
+      `Discord <https://discord.com/invite/patduYdnSN>`__.
+
 #. **Display the calibration image.** The calibration image ships on the Raspberry Pi. Open it from
    **Settings → Calibration Images** on the LCD menu.
 
@@ -32,11 +46,12 @@ tools under **Settings** on the LCD menu (see :doc:`Controls & Operation <../sof
 
       The projector alignment image.
 
-#. **Focus and align the projector.** Place the **cross-strut alignment tool** in the machine
-   (in place of the vial). Adjust the projector so the calibration image is sharp and centered on
-   the tool. Use **Settings → Show Alignment** to project the cross-strut alignment image, and
-   adjust the projector's XY stage until the projected cross lines up with the tool's cross-struts.
-   Rotate the encoder to shift the image up or down for transverse alignment.
+#. **Keystone, focus, and align the projector.** Place the **cross-strut alignment tool** in the
+   machine (in place of the vial). **Keystone** the projected image so it is square and undistorted
+   on the tool, then adjust the projector so the calibration image is sharp and centered. Use
+   **Settings → Show Alignment** to project the cross-strut alignment image, and adjust the
+   projector's XY stage until the projected cross lines up with the tool's cross-struts. Rotate the
+   encoder to shift the image up or down for transverse alignment.
 
    .. figure:: ../static/Workflow/alignment_tool_render.jpg
       :align: center
