@@ -103,10 +103,6 @@ Settings
    * - **USB video prompt**
      - Toggles whether you are asked to save the camera recording to USB after each print.
        Shows the current state ("USB prompt: On/Off").
-   * - **Find Vial Width**
-     - Opens an interactive projector display showing a white vertical bar. Rotate the
-       encoder to adjust the bar width to match your resin vial diameter; the pixel width
-       is shown as an overlay. Click to confirm and save the value.
 
 Power Options
 -------------

@@ -50,9 +50,6 @@ tools under **Settings** on the LCD menu (see :doc:`Controls & Operation <../sof
 
       The alignment image projected onto the alignment tool.
 
-#. **Set the vial width.** Open **Settings → Find Vial Width**, rotate the encoder until the white
-   bar matches your vial's printable diameter, and click to save.
-
 #. **Print a calibration piece.** Print the provided calibration part and check it against the
    expected geometry. If it is off, repeat the alignment steps above and re-print.
 
@@ -60,7 +57,7 @@ tools under **Settings** on the LCD menu (see :doc:`Controls & Operation <../sof
 
 .. note::
 
-   Calibration only needs to be repeated when the optics are moved or a different vial is used.
+   Calibration only needs to be repeated when the projector or optics are moved.
 
 Step 1 — Prepare the Print File
 -------------------------------
