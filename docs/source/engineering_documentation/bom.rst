@@ -28,7 +28,7 @@ Click the following link to view the Bill of Materials (BOM):
 - For the Amazon links specifically: these sellers frequently go out of stock or have long shipping
   times. Many other sellers on Amazon offer the exact same item, so if a link looks unavailable or
   unreasonably priced, look around for an alternative. If you find a better link, feel free to share
-  it in the Discord so others can benefit.
+  it in the `Discord <https://discord.com/invite/patduYdnSN>`__ so others can benefit.
 
 ..
     Frame

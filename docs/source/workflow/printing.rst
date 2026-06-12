@@ -53,10 +53,9 @@ tools under **Settings** on the LCD menu (see :doc:`Controls & Operation <../sof
 
       The alignment image projected onto the alignment tool.
 
-#. **Print a calibration piece.** Print the provided calibration part and check it against the
-   expected geometry. If it is off, repeat the alignment steps above and re-print.
-
-   .. The calibration-piece print files (download link) go here.
+#. **Print a calibration piece.** Print the calibration part (available on the
+   `OpenCAL Printables page <https://www.printables.com/model/1641693-opencal>`__) and check it
+   against the expected geometry. If it is off, repeat the alignment steps above and re-print.
 
 .. note::
 
