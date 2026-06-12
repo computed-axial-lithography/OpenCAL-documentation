@@ -44,6 +44,9 @@ tools under **Settings** on the LCD menu (see :doc:`Controls & Operation <../sof
 
       The cross-strut alignment tool.
 
+   All the files needed to build the alignment tool are on the
+   `OpenCAL Printables page <https://www.printables.com/model/1641693-opencal>`__.
+
    .. figure:: ../static/Workflow/cal_alignment.jpg
       :align: center
       :width: 360px
@@ -87,9 +90,37 @@ Step 3 — Prepare and Load the Vial
 
    Put on **nitrile gloves** and keep the resin away from sunlight before opening any container.
 
-#. Fill a clean glass vial with the photopolymer resin.
+#. Fill a clean glass vial with the photopolymer resin. **Pour the resin gently down the side of
+   the vial** so it does not fold in on itself and trap bubbles.
+
+   .. figure:: ../static/Workflow/wf_fill_vial.jpg
+      :align: center
+      :width: 360px
+
+      Filling the vial. Pour against the side to avoid bubbles.
+
 #. **Cap the vial** securely to prevent spills and to limit light and oxygen exposure.
-#. Place the capped vial into the machine's rotation stage and make sure it is seated correctly.
+
+   .. figure:: ../static/Workflow/wf_cap_vial.jpg
+      :align: center
+      :width: 360px
+
+      The capped vial.
+
+#. Place the capped vial into the machine's rotation stage: seat it on the **bottom rotation
+   piece**, attach the **top piece**, and make sure it is centered and secure.
+
+   .. figure:: ../static/Workflow/wf_load_bottom.jpg
+      :align: center
+      :width: 360px
+
+      The vial seated on the bottom rotation piece.
+
+   .. figure:: ../static/Workflow/wf_load_top.jpg
+      :align: center
+      :width: 360px
+
+      The top piece attached.
 
 Step 4 — Run the Print
 ----------------------
@@ -98,14 +129,28 @@ Start the print from the **Print from USB** menu. The vial rotates while the pro
 video, and the part forms volumetrically over the rotation(s). You can monitor progress on the
 camera view, and click to stop when the print finishes.
 
+.. figure:: ../static/Workflow/wf_printing.jpg
+   :align: center
+   :width: 360px
+
+   A print in progress: the projector plays the video into the spinning vial.
+
 Step 5 — Remove the Part
 ------------------------
 
 #. When the print is complete, remove the vial from the machine.
 #. Wearing gloves, uncap the vial and use **tweezers** to gently lift the cured part out of the
    surrounding uncured resin.
+
+   .. figure:: ../static/Workflow/wf_tweezers.jpg
+      :align: center
+      :width: 360px
+
+      Lifting the cured part out with tweezers.
+
 #. Let excess resin drip back into the vial; the remaining uncured resin can be reused (see
-   Step 8).
+   Step 8). **Let gravity do the work**: holding the part and letting the resin drip off is the
+   best way to clean off the excess.
 
 Step 6 — Wash (Post-Process)
 ----------------------------
@@ -114,6 +159,12 @@ Wash the uncured resin off the part using a **Formlabs Form Wash** (or an equiva
 wash). Use the solvent appropriate to your resin, commonly isopropyl alcohol (IPA), and follow
 the wash time recommended for your resin.
 
+.. figure:: ../static/Workflow/wf_washed.jpg
+   :align: center
+   :width: 360px
+
+   The part after washing in IPA.
+
 Step 7 — Post-Cure
 ------------------
 
@@ -121,8 +172,24 @@ Post-cure the washed part in a **Formlabs Form Cure**, with the part **submerged
 under **vacuum**). Curing in water or under vacuum excludes oxygen, which would otherwise inhibit
 surface curing and leave the part tacky.
 
+.. figure:: ../static/Workflow/wf_water.jpg
+   :align: center
+   :width: 360px
+
+   The washed part submerged in water, ready to post-cure.
+
+.. figure:: ../static/Workflow/wf_curing.jpg
+   :align: center
+   :width: 360px
+
+   Post-curing in the Form Cure.
+
 Step 8 — Rest Before Reuse
 --------------------------
 
-Let the cured part (and any reused resin) **sit for 24 hours before reuse** so the material can
-fully stabilize.
+Let any resin you plan to reuse **sit for about 24 hours before the next print**. Curing in CAL
+depends on **oxygen inhibition** (dissolved oxygen suppresses curing until enough light dose
+overcomes it), and a print consumes the resin's dissolved oxygen and stirs it up. Resting the
+resin lets it **resettle and re-equilibrate its oxygen** so the next print behaves consistently.
+For how resin reuse was characterized in practice, see the **Automatic Exposure** paper in
+:doc:`../resources/research_papers`.
