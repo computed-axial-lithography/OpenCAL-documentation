@@ -19,6 +19,18 @@ Articles
 Videos
 ------
 
+**Prints in Seconds - NOW OPEN SOURCE! Computed Axial Lithography!** — *3D Printing Nerd*
+
+.. raw:: html
+
+    <div style="max-width: 700px; margin: 0.5em auto 1.5em;">
+        <iframe width="100%" style="aspect-ratio: 16 / 9; border: 0;"
+            src="https://www.youtube.com/embed/TWZ4I2GLYgI"
+            title="Prints in Seconds - NOW OPEN SOURCE! Computed Axial Lithography!"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen></iframe>
+    </div>
+
 **The FUTURE of 3D Printing? Computed Axial Lithography!** — *3D Printing Nerd*
 
 .. raw:: html

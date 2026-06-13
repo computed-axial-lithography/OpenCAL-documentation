@@ -128,39 +128,46 @@ Step-by-Step Instructions:
 Large Vial
 ================
 
-.. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Large_Vial/large_vial_1_CAD.png
-     :align: center 
-
-.. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Large_Vial/large_vial_2_CAD.png
-     :align: center 
+.. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Large_Vial/large_vial_lid_CAD.png
+     :align: center
 
 |
 
 Required Materials:
 ^^^^^^^^^^^^^^^^^^^
-* (QTY 1) Large Glass Vial
-* (QTY 1) Bottom Glass Vial Attachment
-* (QTY 1) Bottom Vial Lock
-* (QTY 1) Top Glass Vial Attachment
-* (QTY 1) Top Vial Lock
-* (QTY 1) Bottom Glass Disk
-* (QTY 2) 1/8'' Soft Silicone O-Ring
-* (QTY 1) Silicone Caulk
-
-
-.. image:: ../static/WIP.png
-    :align: center
+* (QTY 1) Closed-Bottom Glass Vial
+* (QTY 1) Bottom Vial Attachment
+* (QTY 1) Lid
+* (QTY 1) Lid Plug
+* (QTY 1) O-Ring (`McMaster 1173N238 <https://www.mcmaster.com/1173N238/>`__)
 
 |
 
 Required Tools:
 ^^^^^^^^^^^^^^^
-* Tape
-
+No Tools Required.
 
 Step-by-Step Instructions:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
+**NOTE: This is the lid-style large vial. It is still a work in progress and is not yet fully reliable. See** :doc:`Help Wanted <../resources/help_wanted>` **if you would like to help finish the design.**
 
+1. Slide **QTY (1) Bottom Vial Attachment** onto the bottom of **QTY (1) Closed-Bottom Glass Vial**. It is a friction fit, so press it on until it seats snugly.
+
+2. Stretch **QTY (1) O-Ring** into the groove on **QTY (1) Lid Plug**, then seat the plug into the center of **QTY (1) Lid**.
+
+   .. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Large_Vial/large_vial_lid_plug_CAD.png
+       :align: center
+
+3. Fit the Lid onto the top of the vial. The hex feature on the Lid is the adapter that mounts the vial to the rotation stage. The Large Vial is now complete.
+
+   .. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Large_Vial/large_vial_cap.jpg
+       :align: center
+
+   .. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Large_Vial/large_vial_assembled.jpg
+       :align: center
+
+   .. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Large_Vial/large_vial_printing.jpg
+       :align: center
 
 
 ----
