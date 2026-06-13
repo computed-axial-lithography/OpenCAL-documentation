@@ -636,6 +636,11 @@ Step-by-Step Instructions:
 
 #. Glue on **QTY (1) RP5 Guard** in the small hole on the **Top Projector Panel**.
 
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Top_Projector_Panel/top-projector-rp5-guard.jpg
+       :align: center
+
+   **NOTE: The Raspberry Pi guard and its hole were updated to accommodate the USB mount for the motor controller.**
+
    |
 
 #. The Top Projector Panel subassembly is now complete.
@@ -803,6 +808,8 @@ Top Vial Panel
 
 |
 
+**NOTE: This panel now includes a vent (the slots next to the wire-guard slot) for better airflow over the motor controller.**
+
 Required Materials:
 ^^^^^^^^^^^^^^^^^^^
 * (QTY 1) Top Vial Panel
@@ -834,8 +841,8 @@ Step-by-Step Instructions:
 
 #. Glue on **QTY (1) Motor Wire Guard** in the small hole on the **Top Vial Panel**.
 
-    .. image:: ../static/WIP.png
-        :align: center 
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Top_Vial_Panel/top-vial-wire-guard.jpg
+       :align: center
 
    |
 
@@ -877,7 +884,7 @@ Step-by-Step Instructions:
 
 #. Place **QTY (4) M5x8 Button Head Screw** through each of the holes on the **QTY (1) Back Vial Panel** from the front (face with logo). Loosely install **QTY (4) M5 Hammer TNut** on the opposite ends.
 
-   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Back_Vial_Panel/back-vial-2.jpg
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Back_Vial_Panel/back-vial-1.jpg
       :align: center
 
    |

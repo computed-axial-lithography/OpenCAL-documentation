@@ -23,10 +23,34 @@ Large Vial (Screw-On)
 ---------------------
 
 We designed a large, **screw-on glass vial** to print bigger parts, but we **could not get it
-fully working and reliable**. For now, use the small vial for printing. If you'd like to help
-finish the large-vial design, we'd welcome it. (Its subassembly in the
-:doc:`Rotational Element guide <../step_by_step/rotational_element_stepbystep>` is still
-incomplete.)
+fully working and reliable**. For now, use the small vial — or the simpler **lid-style large vial**
+documented in the
+:doc:`Rotational Element guide <../step_by_step/rotational_element_stepbystep>` — for printing. If
+you'd like to help finish the screw-on design, we'd welcome it.
+
+.. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Large_Vial/large_vial_1_CAD.png
+   :align: center
+   :width: 300px
+
+.. image:: ../static/Step_by_Step/Rotational_Element_Subassemblies/Large_Vial/large_vial_2_CAD.png
+   :align: center
+   :width: 300px
+
+**Parts:**
+
+* (QTY 1) Large Glass Vial
+* (QTY 1) Bottom Glass Vial Attachment
+* (QTY 1) Bottom Vial Lock
+* (QTY 1) Top Glass Vial Attachment
+* (QTY 1) Top Vial Lock
+* (QTY 1) Bottom Glass Disk
+* (QTY 2) 1/8'' Soft Silicone O-Ring
+* (QTY 1) Silicone Caulk
+
+**Tools:** Tape
+
+We never finalized the screw-on assembly, so step-by-step instructions are not documented — the
+parts and CAD above are the design as far as we took it.
 
 Vial Light-Protection Covers
 ----------------------------

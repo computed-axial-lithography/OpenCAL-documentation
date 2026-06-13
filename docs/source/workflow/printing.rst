@@ -68,9 +68,38 @@ tools under **Settings** on the LCD menu (see :doc:`Controls & Operation <../sof
 
       The alignment image projected onto the alignment tool.
 
-#. **Print a calibration piece.** Print the calibration part (available on the
-   `OpenCAL Printables page <https://www.printables.com/model/1641693-opencal>`__) and check it
-   against the expected geometry. If it is off, repeat the alignment steps above and re-print.
+#. **Find the pixel size (Find Vial Width).** OpenCAL needs to know the **pixel size** — the
+   physical width each projector pixel covers at the vial — so that Tomo can scale your model
+   correctly. Select **Settings → Find Vial Width** on the LCD menu. It projects a white
+   **rectangle** (a vertical bar of light) onto the vial, and rotating the encoder grows or shrinks
+   its **width** while the OLED reports that width in **pixels**. Widen the bar until its edges sit
+   **just barely at the edges of the vial**, then **dial back one notch** so the bar is a hair
+   inside the glass, and read the pixel value off the OLED. Combine it with the vial's known inner
+   diameter to get the pixel size:
+
+   **pixel size = vial inner diameter ÷ width in pixels**
+
+   .. figure:: ../static/Workflow/vw_correct.jpg
+      :align: center
+      :width: 320px
+
+      Correct: the bar of light fills the vial right to its edges. Read the pixel value here (684 px
+      in this example), after backing off one notch. Note the strip of tape on the vial.
+
+   .. figure:: ../static/Workflow/vw_toofar.jpg
+      :align: center
+      :width: 320px
+
+      Too wide: the bar has grown past the vial edges, so the reported value (804 px) is too high.
+
+   .. tip::
+
+      Wrapping a strip of **tape around the vial** makes the boundary much easier to see — it
+      blocks stray light so the edge between lit and unlit is sharp.
+
+   Find Vial Width also doubles as an **alignment check**: when the projector is centred on the
+   vial, the bar of light should be **even on both sides**. Uneven brightness means the projector is
+   off-centre, so re-centre it and re-check.
 
 .. note::
 

@@ -100,6 +100,11 @@ Settings
    * - **Show Alignment**
      - Displays the cross-strut alignment tool image on the projector. Rotate the encoder
        to shift the image up/down for transverse alignment. Click to return.
+   * - **Find Vial Width**
+     - Projects a white **rectangle** (a bar of light) onto the vial whose **width** you vary with
+       the encoder, reporting that width in **pixels**. Used to measure the **pixel size** for
+       calibration and to check that the projector is centred (even light on both sides). See the
+       Calibration section of :doc:`../workflow/printing`.
    * - **USB video prompt**
      - Toggles whether you are asked to save the camera recording to USB after each print.
        Shows the current state ("USB prompt: On/Off").
