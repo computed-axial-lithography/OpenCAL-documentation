@@ -463,6 +463,14 @@ Optics Folder > Projector Mount > Variable Tables (Math) > VALUES USED IN CAD. I
 
      .. image:: ../static/Step_by_Step/Optics_Subassemblies/Parametric_Design/parametric-optics-sectionview.jpg
           :align: center
+     
+     | 
+     
+     An example of a projector that would use this (and thus have a flipped configuration) is the Optoma ML1080 projector.
+     It can be seen that, compared to our projector, the lens is on the right side rather than the left.
+
+     .. image:: ../static/Step_by_Step/Optics_Subassemblies/Parametric_Design/optoma-ml1080.png
+          :align: center
 
 |
 
