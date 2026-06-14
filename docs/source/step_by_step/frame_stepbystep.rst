@@ -844,6 +844,9 @@ Step-by-Step Instructions:
    .. image:: ../static/Step_by_Step/Frame_Subassemblies/Top_Vial_Panel/top-vial-wire-guard.jpg
        :align: center
 
+   .. image:: ../static/Step_by_Step/Frame_Subassemblies/Top_Vial_Panel/top-vial-12.jpg
+       :align: center
+       
    |
 
 #. The Top Vial Panel subassembly is now complete.

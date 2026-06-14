@@ -92,7 +92,7 @@ Required Tools:
 Step-by-Step Instructions
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-#. Slide **QTY (1) Projector Support Mount** over the extrusion on **QTY (1) Projector Support Base**. Through the slot on the Projector Support Mount, install **QTY (2) M3x12 Button Head Screw** & **QTY (2) M3 Washer** on BOTH sides. The mount can be slid at an arbitrary point for now.
+#. Slide **QTY (1) Projector Top Support** over the extrusion on **QTY (1) Projector Support Base**. Through the slot on the Projector Support Mount, install **QTY (2) M3x12 Button Head Screw** & **QTY (2) M3 Washer** on BOTH sides. The mount can be slid at an arbitrary point for now.
 
    .. image:: ../static/Step_by_Step/Optics_Subassemblies/Projector_Support/proj_support_1a.jpg
       :align: center
@@ -347,3 +347,190 @@ Step-by-Step Instructions
 
    .. image:: ../static/Step_by_Step/Optics_Subassemblies/Projector_Mount/projector-22.jpg
         :align: center 
+
+
+----
+
+Parametric Design: Different Projector
+======================================
+
+.. note::
+
+   These instructions are for those who DO NOT use the NexiGo Nova Mini Laser Projector. 
+   Using a different projector will result in the following components changing:
+
+   - Projector Interface
+   - Projector Base
+   - X Locator
+   - Y Locator
+   - Projector Shroud
+
+On Onshape, the currently variable table that would be edited for the Projector Mount can be found by going into the 
+Optics Folder > Projector Mount > Variable Tables (Math) > VALUES USED IN CAD. It is also shown below:
+
+.. list-table::
+   :widths: 10 10 10 50
+   :header-rows: 1
+
+   * - Number
+     - Name
+     - Value (Original)
+     - Description
+   * - 1
+     - H_F
+     - 98.5 mm
+     - Projector's Mounting Hole (Center) to Front Face of Projector (face with lens).
+   * - 2
+     - H_S
+     - 98.5 mm
+     - Projector's Mounting Hole to the side perpendicular and closest to the front face. 
+   * - 3
+     - L_B
+     - 18 mm
+     - Center of lens to the bottom of the projector.
+   * - 4
+     - L_S
+     - 53 mm 
+     - Center of lens to the closest side.
+   * - 5
+     - Width
+     - 199 mm
+     - Width of projector perpendicular to the lens.
+   * - 6
+     - Hole_Size
+     - 6.35mm
+     - Dimension of mounting hole (most are 1/4 inch).
+   * - 7
+     - Y_flip
+     - N/A
+     - | Distance from side of projector mount to center of projector lens. 
+       | Only use this measurement if the projector mount needs to be flipped. 
+       | See note under image below for further instructions.
+
+|
+
+**Images with respect to the table above:**
+
+#. H_F
+
+   .. image:: ../static/Step_by_Step/Optics_Subassemblies/Parametric_Design/parametric-optics-1a.png
+        :align: center
+
+   .. image:: ../static/Step_by_Step/Optics_Subassemblies/Parametric_Design/parametric-optics-1b.png
+        :align: center
+
+#. H_S
+
+   .. image:: ../static/Step_by_Step/Optics_Subassemblies/Parametric_Design/parametric-optics-2a.png
+        :align: center
+
+   .. image:: ../static/Step_by_Step/Optics_Subassemblies/Parametric_Design/parametric-optics-2b.png
+        :align: center
+
+#. L_B
+
+   .. image:: ../static/Step_by_Step/Optics_Subassemblies/Parametric_Design/parametric-optics-3.png
+        :align: center
+
+#. L_S
+
+   .. image:: ../static/Step_by_Step/Optics_Subassemblies/Parametric_Design/parametric-optics-4.png
+        :align: center
+
+#. Width
+
+   .. image:: ../static/Step_by_Step/Optics_Subassemblies/Parametric_Design/parametric-optics-5.png
+        :align: center
+
+#. Hole_Size 
+
+   .. image:: ../static/Step_by_Step/Optics_Subassemblies/Parametric_Design/parametric-optics-6.png
+        :align: center
+
+#. Y_flip
+
+   .. image:: ../static/Step_by_Step/Optics_Subassemblies/Parametric_Design/parametric-optics-7.png
+        :align: center
+
+.. note::
+     The Y_flip is a rough estimation in the case that the mount has to be flipped relative to the projector 
+     (the projector is closer to the front - opposite of our configuration). Thus you would need to add the 
+     distance of the projector mount. This drastically changes the distance of the X Locator. For a case where the 
+     projector mount is flipped, a new X_flip variable was created in the "VALUES USED IN CAD" table on Onshape.
+     As it is an estimation, you can ensure it is correct by updating the code, ensuring the entire projector mount system
+     is constrained correctly, and seeing if the projector lens is centered relative to the projector shroud and the fresnel lens.
+     See image below. This is how you will ensure that your X locator and other components are correct.
+
+     .. image:: ../static/Step_by_Step/Optics_Subassemblies/Parametric_Design/parametric-optics-sectionview.jpg
+          :align: center
+
+|
+
+There are two other tables that are dependent on the variables described above. 
+One is the Projector Lens Position Table (which should not be changed):
+
+.. list-table::
+   :widths: 10 10 50
+   :header-rows: 1
+
+   * - Name
+     - Value (Original)
+     - Description 
+   * - Lens_Angle
+     - 13.18 deg
+     - This should be fixed and should not change unless a projector with a different Throw Ratio (1.2:1) is used. 
+   * - Y_tot
+     - 405 mm
+     - Total Length Distance of Projector Area from Inside Rails. This should not be changed as it is based on the Frame dimensions.
+   * - X_tot
+     - 250 mm
+     - Total Width Distance of Projector Area from Inside Rails. This should not be changed as it is based on the Frame dimensions.
+
+#. Y_tot
+
+   .. image:: ../static/Step_by_Step/Optics_Subassemblies/Parametric_Design/y-tot.png
+        :align: center
+
+#. X_tot
+
+   .. image:: ../static/Step_by_Step/Optics_Subassemblies/Parametric_Design/x-tot.png
+        :align: center
+
+|
+
+The other is the VALUES USED IN CAD Table (which also should not be changed):
+
+.. list-table::
+   :widths: 10 10 50
+   :header-rows: 1
+
+   * - Name
+     - Value (Original)
+     - Description 
+   * - Col_Lens
+     - 176.6 mm
+     - | IMPORTANT: This is the ideal distance between the lens of the projector and the fresnel lens. 
+       | Theoretically, this is based on simulations and an ideal equation. However, we were not able to find the exact 
+       | correct equation. Thus, this is a hard value that we measured in person after finding the correct distance for 
+       | collimation. This variable is important as it defines the Y variable below which sets the length for the Y Locator.
+   * - X
+     - 120.067 mm
+     - Equation: X = (X_tot/2) + L_B*cos(Lens_Angle) - H_F*sin(Lens_Angle) 
+   * - X_flip
+     - N/A
+     - | Only use this if the projector mount is flipped relative to our configuration.
+       | Equation: X_flip = X + Y_flip
+   * - Y
+     - 128.39 mm 
+     - Equation: Y = Y_tot - (**Col_Lens** + L_B*sin(Lens_Angle) + H_F*cos(Lens_Angle))
+   * - Z
+     - 170.5 mm 
+     - Equation: Z = 125 - L_S + H_S 
+   * - Width_Interface
+     - 201 mm
+     - | This is to add tolerance to the Projector Interface so that the projector fits.
+       | Equation: Width_Interface = Width + 2
+
+.. imporant::
+
+     Ensure that the description of the Col_Lens variable is read and not neglected. This is the basis for a major calculation.
