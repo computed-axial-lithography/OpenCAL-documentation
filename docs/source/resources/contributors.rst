@@ -84,5 +84,26 @@ OpenCAL V2 (2025-2026)
         <li><a href="https://www.linkedin.com/in/tran-q-huy/" target="_blank">Huy Tran</a>
         <li><a href="https://www.linkedin.com/in/tamirashany/" target="_blank">Tamira Shany</a>
         <li><a href="https://www.linkedin.com/in/ishanichowdhury/" target="_blank">Ishani Chowdhury</a>
-        <li><a href="https://www.linkedin.com/in/henry-marsom-238a72380/" target="_blank">Henry Marsom</a>        
+        <li><a href="https://www.linkedin.com/in/henry-marsom-238a72380/" target="_blank">Henry Marsom</a>
+    </ul>
+
+Collaborators
+-------------
+
+**National Research Council Canada (NRC)** — contributions to materials and metrology.
+
+.. raw:: html
+
+    <ul>
+        <li><a href="https://www.linkedin.com/in/danieljrwebber/" target="_blank">Daniel Webber</a>
+        <li><a href="https://www.linkedin.com/in/yujie-zhang-nrc-cnrc/" target="_blank">Yujie Zhang</a>
+        <li><a href="https://www.linkedin.com/in/antony-orth-8a5bb652/" target="_blank">Antony Orth</a>
+    </ul>
+
+**Lawrence Livermore National Laboratory (LLNL)** — contributions to materials.
+
+.. raw:: html
+
+    <ul>
+        <li><a href="https://www.linkedin.com/in/dominique-dom-porcincula-0581b254/" target="_blank">Dominique Porcincula</a>
     </ul>
