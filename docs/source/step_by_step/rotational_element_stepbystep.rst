@@ -440,36 +440,36 @@ McMaster or other similar supplier.
 
 
 #. In the glass vial folder, the vial variables should be modified. Measure your vial’s height, outer diameter 
-and thickness to create a model of it in CAD. For example, the following variables were used were used for the large vial:
+   and thickness to create a model of it in CAD. For example, the following variables were used were used for the large vial:
 
-- vial_height: 150mm
-- vial_diameter: 100mm
-- vial_thickness: 2.5mm
+   - vial_height: 150mm
+   - vial_diameter: 100mm
+   - vial_thickness: 2.5mm
 
-|
+   |
 
 #. In the vial lid folder, the diametrical clearance can be modified to ensure that there is a close clearance fit 
-between the lid and the glass vial. For example, the large vial in used:
-diametrical_clearance: 0.254mm
+   between the lid and the glass vial. For example, the large vial in used:
+   diametrical_clearance: 0.254mm
 
-|
+   |
 
 #. In the o-ring folder, place the rollback bar at the end of the folder and use the measuring tools to measure the groove 
-diameter (in inches) in CAD. The ID of the o-ring should be stretched slightly (< 5%) and should be smaller than the 
-groove diameter. Using 2% stretch as the ideal target, divide the groove diameter by 1.02. Use this value to search 
-through `McMaster 1/8 Fractional (0.139" Actual) High-Temperature Soft Silicone O-Rings <https://www.mcmaster.com/products/high-temperature-o-rings/high-temperature-soft-silicone-o-rings/>`_ 
-to find the closest match for ID. For example, for the large vial:
+   diameter (in inches) in CAD. The ID of the o-ring should be stretched slightly (< 5%) and should be smaller than the 
+   groove diameter. Using 2% stretch as the ideal target, divide the groove diameter by 1.02. Use this value to search 
+   through `McMaster 1/8 Fractional (0.139" Actual) High-Temperature Soft Silicone O-Rings <https://www.mcmaster.com/products/high-temperature-o-rings/high-temperature-soft-silicone-o-rings/>`_ 
+   to find the closest match for ID. For example, for the large vial:
 
-- Groove diameter (in) / 1.02 = 3.496in / 1.02 = 3.427in
-- Closest match: o-ring dash number 238, Width: 0.139”, ID: 3.484”, OD: 3.762” 
+   - Groove diameter (in) / 1.02 = 3.496in / 1.02 = 3.427in
+   - Closest match: o-ring dash number 238, Width: 0.139”, ID: 3.484”, OD: 3.762” 
 
-|
+   |
 
 #. Print out the lid and test the fit. 
-- If the plug is too wide → increase the diametrical clearance
-- If the lid and the o-ring is too loose / tight → decrease / increase the groove depth
+   - If the plug is too wide → increase the diametrical clearance
+   - If the lid and the o-ring is too loose / tight → decrease / increase the groove depth
 
-|
+   |
 
 #. Print the vial holders and test the fit on the vial. 
 

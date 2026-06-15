@@ -542,3 +542,9 @@ The other is the VALUES USED IN CAD Table (which also should not be changed):
 .. imporant::
 
      Ensure that the description of the Col_Lens variable is read and not neglected. This is the basis for a major calculation.
+     As the equation does not currently exist for the Col_Lens variable, one way to find this is to print out and assembly All
+     components BESIDES the QTY 2 Y Locators. After everything is assembled onto the main assembly, move the projector rail back 
+     forth (with the projector installed) until you see that the image is collimated (it does not change size no matter the distance).
+     It being blurry at different distances does not matter, only the sizing matters. After the correct distance is found, lock 
+     the rail in place with the M5 screws and then measure the distance from the projector lens to the fresnel lens. Then update
+     the variable table. This is also how you will change the projector shroud distance to ensure that it fits.
