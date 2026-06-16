@@ -62,6 +62,50 @@ Key characteristics of automated images:
 
 ----
 
+Updating the Software
+=====================
+
+The OpenCAL software on the Pi is a clone of the GitHub repository (located at
+``/home/opencal/OpenCAL``). To pull the latest version, fetch the newest code from the ``main``
+branch and restart the service.
+
+1. Open a terminal on the Pi — connect a keyboard, or SSH in as the ``opencal`` user.
+
+2. Move into the OpenCAL repository and pull the latest code:
+
+   .. code-block:: bash
+
+      cd /home/opencal/OpenCAL
+      git pull origin main
+
+3. If the update changed dependencies, refresh them inside the virtual environment:
+
+   .. code-block:: bash
+
+      source .venv/bin/activate
+      pip install -r requirements.txt
+      deactivate
+
+4. Restart the OpenCAL service so the new code takes effect:
+
+   .. code-block:: bash
+
+      sudo systemctl restart opencal.service
+
+.. note::
+
+   If you have edited ``opencal/utils/config.json`` for your hardware, ``git pull`` may report a
+   conflict on that file. Back up your version first
+   (``cp opencal/utils/config.json ~/config.backup.json``), then re-apply your settings after
+   updating.
+
+.. tip::
+
+   Run ``git status`` before pulling to see whether you have local changes, and ``git log -1``
+   afterward to confirm you are on the latest commit.
+
+----
+
 FAQ / Troubleshooting
 ======================
 
