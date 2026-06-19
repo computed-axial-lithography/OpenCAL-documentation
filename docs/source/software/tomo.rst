@@ -48,8 +48,8 @@ Python/CUDA runtime** bundled in, so end users never set up a Python environment
 Installation
 ------------
 
-#. Download the latest **Tomo installer** from
-   `Google Drive <https://drive.google.com/file/d/1a32FkjpBAUhvLERIauvhrU667B8wuy6c/view?usp=drive_link>`__.
+#. Download the latest **Tomo installer** (the ``.exe`` asset) from the
+   `Tomo releases page <https://github.com/computed-axial-lithography/tomo/releases/latest>`__.
 #. Run the installer. It installs per-user to ``%LOCALAPPDATA%\Programs\Tomo``, with **no
    administrator rights required**.
 #. Launch **Tomo** from the Start Menu or desktop shortcut.
