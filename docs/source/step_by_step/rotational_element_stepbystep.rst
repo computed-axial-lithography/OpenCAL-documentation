@@ -368,6 +368,142 @@ Step-by-Step Instructions:
       :align: center
 
 
+----
+
+Parametric Design: Different Vial Components
+============================================
+
+.. note::
+
+   These instructions are for those who use a different sized closed-bottom four-inch vial (different from H 5.9" and W 4").
+
+
+On Onshape, the currently variable table that would be edited for the Large Vial can be found by going into the 
+Rotational Element Folder > Rotational Element > Vial > Large Vial > Parametric Vial Holders (variable table in the right tab). 
+It is also shown below:
+
+.. list-table::
+   :widths: 10 10 50
+   :header-rows: 1
+
+   * - Parameter
+     - Fixed/Variable [original value]
+     - Description
+   * - max_height
+     - Fixed [167.6 mm]
+     - This is the maximum height that can fit into the rotational stage and represents the entire height of the vial and vial holders.
+   * - max_diameter
+     - Fixed [109.9 mm]
+     - This is the maximum diameter that can fit into the rotational stage and represents the base diameter of the vial holders. 
+   * - vial_height
+     - Variable [max 153mm]
+     - This is the height of the vial you are working with. 
+   * - vial_diameter
+     - Variable [max 100mm]
+     - This is the outer diameter of the vial you are working with.
+   * - vial_thickness
+     - Variable
+     - This is the thickness of the vial you are working with. It should represent the thickness part of the vial i.e if there is a lip in the vial make sure to measure that.
+   * - lid_height
+     - Fixed [4mm]
+     - This is the height of the lid from top of the glass vial. 
+   * - lid_diameter
+     - Fixed [vial_diameter +5mm]
+     - This is the diameter of the lid’s lip and is 5mm larger than the vial diameter to facilitate ease of removing the lid.
+   * - plug_height
+     - Fixed [8mm]
+     - This is the height of the plug that fits into the vial.
+   * - hex_key_height
+     - Fixed [3mm]
+     - This is the height of the hex key that fits into the top vial holder.
+   * - oring_cs
+     - Fixed [3.531mm]
+     - This is the cross section of the o-ring and is 1/8 fractional size (0.139”)
+   * - diametrical_clearance
+     - Variable 
+     - This is the clearance gap between the vial and the plug.
+   * - oring_groove_depth
+     - Variable 
+     - This is the depth of the o-ring groove.
+   * - oring_groove_width
+     - Fixed [4.953mm]
+     - This is the width of the oring groove.
+
+|
+
+**Design Process:**
+The CAD file is structured into four key operations, glass vial, vial lid, o-ring and vial holders. 
+The `closed-bottom glass vial (H:5.9" OD:4") <https://www.amazon.com/dp/B0FLK9DBXB?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_3&th=1>`_ 
+in the BOM will be referenced as the example in this process and referred to as the large vial. For all vials, 
+it is intended that o-rings will be 1/8 Fractional (0.139" Actual) High-Temperature Soft (50A) Silicone O-Rings from 
+McMaster or other similar supplier.
+
+
+#. In the glass vial folder, the vial variables should be modified. Measure your vial’s height, outer diameter 
+   and thickness to create a model of it in CAD. For example, the following variables were used were used for the large vial:
+
+   - vial_height: 150mm
+   - vial_diameter: 100mm
+   - vial_thickness: 2.5mm
+
+   |
+
+#. In the vial lid folder, the diametrical clearance can be modified to ensure that there is a close clearance fit 
+   between the lid and the glass vial. For example, the large vial in used:
+   diametrical_clearance: 0.254mm
+
+   |
+
+#. In the o-ring folder, place the rollback bar at the end of the folder and use the measuring tools to measure the groove 
+   diameter (in inches) in CAD. The ID of the o-ring should be stretched slightly (< 5%) and should be smaller than the 
+   groove diameter. Using 2% stretch as the ideal target, divide the groove diameter by 1.02. Use this value to search 
+   through `McMaster 1/8 Fractional (0.139" Actual) High-Temperature Soft Silicone O-Rings <https://www.mcmaster.com/products/high-temperature-o-rings/high-temperature-soft-silicone-o-rings/>`_ 
+   to find the closest match for ID. For example, for the large vial:
+
+   - Groove diameter (in) / 1.02 = 3.496in / 1.02 = 3.427in
+   - Closest match: o-ring dash number 238, Width: 0.139”, ID: 3.484”, OD: 3.762” 
+
+   |
+
+#. Print out the lid and test the fit. 
+   - If the plug is too wide → increase the diametrical clearance
+   - If the lid and the o-ring is too loose / tight → decrease / increase the groove depth
+
+   |
+
+#. Print the vial holders and test the fit on the vial. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
