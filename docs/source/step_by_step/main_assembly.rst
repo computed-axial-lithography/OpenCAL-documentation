@@ -255,8 +255,7 @@ Step-by-Step Instructions
 
    |
 
-#. Install the **Projector Mount Support** subassembly in the position shown below. The exact position does not matter as long as the projector is being supported. You may need move the Projector Top Support up and down based on your projector height. Ensure that the projector is only being supported by the support mount and that it is not pushing the projector up. 
-The exact position does not matter, just ensure that it is supporting the cantilever. NOTE: This was an addition after the build was complete and will not be represented in the other images.
+#. Install the **Projector Mount Support** subassembly in the position shown below. The exact position does not matter as long as the projector is being supported. You may need move the Projector Top Support up and down based on your projector height. Ensure that the projector is only being supported by the support mount and that it is not pushing the projector up. The exact position does not matter, just ensure that it is supporting the cantilever. NOTE: This was an addition after the build was complete and will not be represented in the other images.
 
    .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-projector-support-1.jpg
         :align: center
