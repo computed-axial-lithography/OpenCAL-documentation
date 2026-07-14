@@ -253,6 +253,8 @@ Step-by-Step Instructions
    .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-14d.jpg
         :align: center
 
+   |
+
 #. Install the **Switch** subassembly in the position shown below by aligning the Magnet Frame Inserts in the railing with those on the panel. The top of the panel should touch the top of the frame railing. The exact position will later change once the other panels are on.
 
    .. image:: ../static/Step_by_Step/Main_Assembly/part_1/main-15a.jpg
