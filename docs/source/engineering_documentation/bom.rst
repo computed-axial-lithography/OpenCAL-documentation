@@ -30,6 +30,16 @@ Click the following link to view the Bill of Materials (BOM):
   unreasonably priced, look around for an alternative. If you find a better link, feel free to share
   it in the `Discord <https://discord.com/invite/patduYdnSN>`__ so others can benefit.
 
+.. warning::
+
+   **T-nut compatibility (Frame section):** several builders have reported that the flat
+   *slide-style* nuts bundled with the 90° gusset bracket kits do **not** fit the recommended
+   McMaster-Carr 20x20 aluminum extrusions (they do fit the Amazon-sourced short rails). The
+   *drop-in / hammer-style* **M5 T-nuts** — the curved ones with serrations, listed as their own
+   BOM line — fit all of the recommended rails. Use those for every T-nut position in the build,
+   and treat the nuts that come with the bracket kits as spares. A builder-verified option is this
+   `150-pack of 2020-series M5 hammer-head T-nuts <https://www.amazon.com/dp/B086MKNYDS>`__.
+
 ..
     Frame
 ..

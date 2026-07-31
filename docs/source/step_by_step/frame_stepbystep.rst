@@ -52,6 +52,14 @@ Required Materials:
 * (QTY 4)   Magnet Frame Insert Assembly
 * (QTY 100) M5 TNut
 
+.. warning::
+
+   Use the *drop-in / hammer-style* **M5 T-nuts** (curved profile with serrations) from the BOM's
+   dedicated T-nut line for these — builders have reported that the flat *slide-style* nuts bundled
+   with the 90° gusset bracket kits do **not** fit the McMaster-Carr extrusions (they only fit the
+   Amazon-sourced short rails). A builder-verified option is this `150-pack of 2020-series M5
+   hammer-head T-nuts <https://www.amazon.com/dp/B086MKNYDS>`__.
+
 
 .. image:: ../static/Step_by_Step/Frame_Subassemblies/Aluminum_Extrusion_Frame/Frame-1.jpg
    :align: center
