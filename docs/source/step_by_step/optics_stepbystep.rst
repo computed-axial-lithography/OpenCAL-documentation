@@ -539,7 +539,7 @@ The other is the VALUES USED IN CAD Table (which also should not be changed):
      - | This is to add tolerance to the Projector Interface so that the projector fits.
        | Equation: Width_Interface = Width + 2
 
-.. imporant::
+.. important::
 
      Ensure that the description of the Col_Lens variable is read and not neglected. This is the basis for a major calculation.
      As the equation does not currently exist for the Col_Lens variable, one way to find this is to print out and assembly All
