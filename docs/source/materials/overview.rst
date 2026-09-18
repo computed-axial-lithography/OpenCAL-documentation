@@ -35,6 +35,21 @@ chemistry. Buying the pre-mixed resin is strongly recommended.
         </a>
     </div>
 
+.. Prusa store button — replace the href with the OpenCAL Rapid Resin product page once it is live.
+
+.. raw:: html
+
+    <div style="text-align: center; margin: 1.5em 0;">
+        <a href="https://www.prusa3d.com/" target="_blank"
+           style="display: inline-flex; align-items: center; gap: 14px;
+                  background-color: #fa6831; color: #ffffff; font-size: 1.4em; font-weight: 700;
+                  text-decoration: none; padding: 18px 36px; border-radius: 10px;
+                  box-shadow: 0 4px 14px rgba(250,104,49,0.4);">
+            <img src="../../_static/prusa_logo.png" alt="" style="height: 1.6em; border-radius: 6px; border: 2px solid #b0b0b0; background: #ffffff; padding: 3px;">
+            Buy OpenCAL Rapid Resin from Prusa
+        </a>
+    </div>
+
 .. note::
 
    Mixing the resin from raw chemicals is **only** for trained professionals working in a
