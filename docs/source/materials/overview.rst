@@ -6,7 +6,7 @@ users, there is no need to mix the resin yourself; it is being produced and dist
 commercially so you can buy it ready to print.
 
 - **Formlabs** mixes and manufactures the resin to the OpenCAL formulation.
-- **MatterHackers** distributes the finished resin, making it easy to purchase.
+- **Prusa Research** distributes the finished resin, sold as **OpenCAL Rapid Resin** through the Prusa store, making it easy to purchase.
 
 This means you can get consistent, professionally produced resin without handling the raw
 chemistry. Buying the pre-mixed resin is strongly recommended.
