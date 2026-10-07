@@ -35,12 +35,12 @@ chemistry. Buying the pre-mixed resin is strongly recommended.
         </a>
     </div>
 
-.. Prusa store button — replace the href with the OpenCAL Rapid Resin product page once it is live.
+.. Prusa store button (Printed Solid, Prusa Research's US store).
 
 .. raw:: html
 
     <div style="text-align: center; margin: 1.5em 0;">
-        <a href="https://www.prusa3d.com/" target="_blank"
+        <a href="https://www.printedsolid.com/products/opencal-resin-clear-1l" target="_blank"
            style="display: inline-flex; align-items: center; gap: 14px;
                   background-color: #fa6831; color: #ffffff; font-size: 1.4em; font-weight: 700;
                   text-decoration: none; padding: 18px 36px; border-radius: 10px;
