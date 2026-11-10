@@ -13,7 +13,7 @@ file, loading resin, running the print, and post-processing the finished part.
      causes **rapid, uncontrolled curing** that will ruin the resin and can solidify it in its
      container. Keep resin away from windows, work under subdued ambient room light, and keep
      vials **capped** whenever they are not in use.
-   * Work in a well-ventilated area and follow the resin's Safety Data Sheet (SDS). See
+   * Work in a well-ventilated area and follow the resin's :download:`Safety Data Sheet (SDS) <../_static/OpenCAL_Resin_SDS_USA.pdf>`. See
      :doc:`../materials/overview` for full handling guidance.
 
 Calibration

@@ -20,7 +20,8 @@ chemistry. Buying the pre-mixed resin is strongly recommended.
      light) causes **rapid, uncontrolled curing** that will ruin the resin and can solidify it
      in its container. Keep it away from windows, work under subdued ambient room light, and keep
      containers **capped** whenever they are not in use.
-   * Store the resin in a cool, dark place, and follow its Safety Data Sheet (SDS).
+   * Store the resin in a cool, dark place, and follow its
+     :download:`Safety Data Sheet (SDS) <../_static/OpenCAL_Resin_SDS_USA.pdf>`.
 
 .. Prusa store button (Printed Solid, Prusa Research's US store).
 
@@ -36,6 +37,8 @@ chemistry. Buying the pre-mixed resin is strongly recommended.
             Buy OpenCAL Resin from Prusa
         </a>
     </div>
+
+**Safety Data Sheet:** :download:`OpenCAL Resin SDS (US, PDF) <../_static/OpenCAL_Resin_SDS_USA.pdf>`. Read it before handling the resin.
 
 .. note::
 
