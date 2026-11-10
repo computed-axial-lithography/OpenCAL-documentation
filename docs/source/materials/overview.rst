@@ -5,7 +5,7 @@ The OpenCAL resin is a UDMA-based photopolymer tuned for Computed Axial Lithogra
 users, there is no need to mix the resin yourself; it is being produced and distributed
 commercially so you can buy it ready to print.
 
-- **Formlabs** mixes and manufactures the resin to the OpenCAL formulation.
+- `Formlabs <https://formlabs.com>`__ mixes and manufactures the resin to the OpenCAL formulation.
 - **Prusa Research** distributes the finished resin, sold as **OpenCAL Resin** through Printed Solid, Prusa's US store, making it easy to purchase.
 
 This means you can get consistent, professionally produced resin without handling the raw
