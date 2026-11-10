@@ -6,7 +6,7 @@ users, there is no need to mix the resin yourself; it is being produced and dist
 commercially so you can buy it ready to print.
 
 - **Formlabs** mixes and manufactures the resin to the OpenCAL formulation.
-- **Prusa Research** distributes the finished resin, sold as **OpenCAL Rapid Resin** through the Prusa store, making it easy to purchase.
+- **Prusa Research** distributes the finished resin, sold as **OpenCAL Resin** through Printed Solid, Prusa's US store, making it easy to purchase.
 
 This means you can get consistent, professionally produced resin without handling the raw
 chemistry. Buying the pre-mixed resin is strongly recommended.
@@ -22,19 +22,6 @@ chemistry. Buying the pre-mixed resin is strongly recommended.
      containers **capped** whenever they are not in use.
    * Store the resin in a cool, dark place, and follow its Safety Data Sheet (SDS).
 
-.. raw:: html
-
-    <div style="text-align: center; margin: 1.5em 0;">
-        <a href="https://formlabs.com" target="_blank"
-           style="display: inline-flex; align-items: center; gap: 14px;
-                  background-color: #0762c8; color: #ffffff; font-size: 1.4em; font-weight: 700;
-                  text-decoration: none; padding: 18px 36px; border-radius: 10px;
-                  box-shadow: 0 4px 14px rgba(7,98,200,0.4);">
-            <img src="../../_static/formlabs_logo.png" alt="" style="height: 1.6em; border-radius: 6px; border: 2px solid #b0b0b0; background: #ffffff; padding: 3px;">
-            Visit Formlabs
-        </a>
-    </div>
-
 .. Prusa store button (Printed Solid, Prusa Research's US store).
 
 .. raw:: html
@@ -46,7 +33,7 @@ chemistry. Buying the pre-mixed resin is strongly recommended.
                   text-decoration: none; padding: 18px 36px; border-radius: 10px;
                   box-shadow: 0 4px 14px rgba(250,104,49,0.4);">
             <img src="../../_static/prusa_logo.png" alt="" style="height: 1.6em; border-radius: 6px; border: 2px solid #b0b0b0; background: #ffffff; padding: 3px;">
-            Buy OpenCAL Rapid Resin from Prusa
+            Buy OpenCAL Resin from Prusa
         </a>
     </div>
 
