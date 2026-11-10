@@ -5,7 +5,7 @@ The OpenCAL resin is a UDMA-based photopolymer tuned for Computed Axial Lithogra
 users, there is no need to mix the resin yourself; it is being produced and distributed
 commercially so you can buy it ready to print.
 
-- `Formlabs <https://formlabs.com>`__ mixes and manufactures the resin to the OpenCAL formulation.
+- **Formlabs** mixes and manufactures the resin to the OpenCAL formulation.
 - **Prusa Research** distributes the finished resin, sold as **OpenCAL Resin** through Printed Solid, Prusa's US store, making it easy to purchase.
 
 This means you can get consistent, professionally produced resin without handling the raw
@@ -35,6 +35,21 @@ chemistry. Buying the pre-mixed resin is strongly recommended.
                   box-shadow: 0 4px 14px rgba(250,104,49,0.4);">
             <img src="../../_static/prusa_logo.png" alt="" style="height: 1.6em; border-radius: 6px; border: 2px solid #b0b0b0; background: #ffffff; padding: 3px;">
             Buy OpenCAL Resin from Prusa
+        </a>
+    </div>
+
+.. Formlabs credit button (manufacturer). Deliberately smaller than the Prusa purchase button.
+
+.. raw:: html
+
+    <div style="text-align: center; margin: 0.5em 0 1.5em;">
+        <a href="https://formlabs.com" target="_blank"
+           style="display: inline-flex; align-items: center; gap: 8px;
+                  background-color: #0762c8; color: #ffffff; font-size: 0.95em; font-weight: 600;
+                  text-decoration: none; padding: 8px 18px; border-radius: 8px;
+                  box-shadow: 0 2px 8px rgba(7,98,200,0.3);">
+            <img src="../../_static/formlabs_logo.png" alt="" style="height: 1.4em; border-radius: 4px; border: 1px solid #b0b0b0; background: #ffffff; padding: 2px;">
+            Visit Formlabs
         </a>
     </div>
 
