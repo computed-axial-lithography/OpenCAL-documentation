@@ -141,6 +141,13 @@ Top Plate Housing Connections
 
 #. Remove the motor from the top plate. Attach A+, A-, B+, and B- motor wires to the Tic T249 by trimming the provided cable and stripping the ends. Run wires from the Tic T249 to the 24V adapter using the corresponding cutout.
 
+   .. note::
+
+      The Tic T249 shares the **V+ (3)** and **V- (6)** terminals on the 24V Adapter with the 12V
+      Converter. The adapter has only three V+ and three V- terminals, and the 5V and 19V Converters
+      use the other two pairs. Stack both M4 fork connectors under the same screw, tighten it firmly,
+      and tug each wire to confirm it is held. Both loads draw little current, so sharing is fine.
+
    .. image:: ../static/Step_by_Step/Wiring_Images/Top_Plate/top_plate_step1_cad_diagram.png
       :align: center
 
